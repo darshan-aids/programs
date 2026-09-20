@@ -1,7 +1,7 @@
 # OSS / AI / Research Opportunity Master List
 
-**Register version:** v0.2  
-**Retained records:** 176  
+**Register version:** v0.3  
+**Retained records:** 214  
 **Purpose:** Zero-deletion master register of OSS, AI/ML research, internships, fellowships, government, student-community, hackathon and adjacent career opportunities.
 
 ## Master Records
@@ -179,6 +179,50 @@
 171. IIT Kanpur SURGE
 172. FOSS Hack
 
+
+173. S.N. Bose Scholars Program (IUSSTF / SERB / WINStep Forward)
+174. Khorana Program for Scholars (DBT / IUSSTF / WINStep Forward)
+175. IUSSTF-Viterbi Program (IUSSTF & USC Viterbi)
+176. Caltech Summer Undergraduate Research Fellowships (SURF) & WAVE Fellows
+177. Carnegie Mellon Robotics Institute Summer Scholars (RISS)
+178. MIT Summer Research Program (MSRP)
+179. Santa Fe Institute Undergraduate Complexity Research (SFI UCR)
+180. Cold Spring Harbor Laboratory Undergraduate Research Program (CSHL URP)
+181. CRA-WP Distributed Research Experiences for Undergraduates (DREU)
+182. IIT Delhi Summer Research Fellowship Programme (IITD SRFP)
+183. IIT Roorkee SPARK Summer Internship Program
+184. IIT Kharagpur Summer Internship Program (GRISHMA)
+185. TIFR Mumbai Visiting Students' Research Programme (Central VSRP)
+186. JNCASR Summer Research Fellowship Programme (JNCASR SRFP)
+187. IIT Palakkad Summer Undergraduate Research Internship (SUN)
+188. IIT Ropar Summer Internship Programme
+189. Chennai Mathematical Institute Summer Research Programme (CMI SRP)
+190. OpenAI Residency
+191. Apple AI/ML Residency Program
+192. NVIDIA Graduate Fellowship Program
+193. Adobe Research India Internship
+194. Allen Institute for AI (AI2) Young Investigator Program
+195. Redwood Research Machine Learning for Alignment Bootcamp (MLAB) / REMIX
+196. BlueDot Impact AI Safety Fellowships (Technical & Governance)
+197. Constellation Astra Fellowship & Visiting Researcher Program
+198. PIBBSS Summer Research Fellowship
+199. Centre for the Governance of AI (GovAI) Fellowship
+200. Prototype Fund (Open Knowledge Foundation Germany / BMBF)
+201. European Commission Next Generation Internet (NGI) Cascade Grants
+202. Open Technology Fund Internet Freedom Fund (OTF IFF)
+203. Mozilla Technology Fund (MTF)
+204. Debian Long Term Support (LTS) & Packaging Fellowships
+205. FreeBSD Foundation Project Grants
+206. The Tor Project Core Contributor Grants
+207. Google Developer Groups on Campus (GDG on Campus)
+208. Postman Student Programs (Student Expert & Student Leader)
+209. Docker Community Leaders & Captains Program
+210. GitLab Heroes Program
+211. Intel oneAPI Student Ambassador Program
+212. TCS CodeVita
+213. Flipkart GRiD Flagship Campus Challenge
+214. Jane Street Graduate Research Fellowship & Undergraduate Programs
+
 ## Structural / Classification Notes
 
 - This is a **zero-deletion** register. Historical, inactive, watchlist, eligibility-gated and advanced-stage records are retained.
@@ -192,3 +236,11 @@
 - Summer of Reproducibility is treated as an OSRE-linked track.
 - Season of Commits is treated as a FOSS United contribution-support track.
 - Current status, deadline and eligibility must be reverified from official sources before being presented as current.
+
+- **v0.3 expansion source:** the 42 additions (#173–#214) were appended from the latest systematic expansion report.
+- **Verification status:** the new records are retained as research candidates; current deadlines, eligibility, funding, and operational status must be independently verified from official sources before being treated as active opportunities.
+- **Duplicate Record Flag:** #94 and #116 UN Millennium Fellowship are one opportunity; retain both historically but classify #116 as a duplicate alias.
+- **Parent-Pathway Overlap:** #15 and #100 OpenSSF entries overlap; classify #100 as a related/sub-track pathway rather than a separate independent opportunity.
+- **Architecture/Sub-system Overlap:** #10 and #102 overlap; classify #102 as a specialized Linux Kernel path within the broader Open Mainframe context.
+- **Outreach Strategy:** #93 Direct Professor Research Internships is an outreach strategy, not one finite program.
+- **Archived competitions:** if Google Code Jam / Hash Code are later added, mark them explicitly as archived/inactive benchmark competitions.
