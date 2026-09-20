@@ -1,0 +1,101 @@
+name: Daily Opportunity Scout
+
+on:
+  schedule:
+    # 09:45 Asia/Kolkata = 04:15 UTC.
+    - cron: "15 4 * * *"
+      timezone: "Asia/Kolkata"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Run daily research scout
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::OPENAI_API_KEY repository secret is not configured."
+            echo "Add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+
+          python -m pip install --quiet openai
+
+          python <<'PY'
+          import os
+          from pathlib import Path
+          from openai import OpenAI
+
+          master = Path("MASTER_LIST.md").read_text(encoding="utf-8")
+          rules = Path("SCOUT_RULES.md").read_text(encoding="utf-8")
+
+          prompt = f"""
+          You are the daily opportunity scout for an Indian B.Tech AI & Data Science student.
+
+          CURRENT MASTER REGISTER:
+          {master}
+
+          SCOUT RULES:
+          {rules}
+
+          Research current information on the web. Prefer official sources and distinguish
+          confirmed facts from recurring/expected dates and unverified leads.
+
+          Produce ONLY a markdown dashboard with exactly these headings:
+          # Daily Opportunity Dashboard
+          ## Date
+          ## NEW PROGRAMS
+          ## CHANGES
+          ## UPCOMING 3 MONTHS
+          ## EARLY-PREP ALERTS
+          ## DEADLINE ALERTS
+          ## TODAY'S TODO
+          ## GSoC / OSS ACTION
+          ## ACCOUNTABILITY
+
+          For every new program, state: name, why it is new, eligibility, India eligibility,
+          paid/unpaid if confirmed, deadline/window, relevance, and official source.
+
+          For today's TODO, give 3–7 concrete actions. Prioritize actual deadlines and
+          preparation/contribution work over generic studying.
+
+          Do not delete or rewrite the master register. Do not treat duplicates as new.
+          Do not claim a program participates in GSoC 2027 unless there is evidence.
+          Pyodide is not a GSoC target for this user.
+
+          Keep the output concise and actionable.
+          """
+
+          client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+          response = client.responses.create(
+              model="gpt-5.6-luna",
+              tools=[{"type": "web_search_preview"}],
+              input=prompt,
+          )
+
+          Path("DAILY_DASHBOARD.md").write_text(
+              response.output_text.strip() + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Commit daily dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add DAILY_DASHBOARD.md
+          if git diff --cached --quiet; then
+            echo "No dashboard changes."
+            exit 0
+          fi
+          git commit -m "chore: update daily opportunity dashboard"
+          git push
