@@ -14,6 +14,23 @@
 
 ## NEW PROGRAMS / CURRENTLY IMPORTANT DISCOVERIES
 
+### Latest register expansion — 42 candidates added to v0.3
+
+The latest research expansion added records **#173–#214**. These are **research candidates, not yet verified as current/open**. The daily scout must verify official sources before turning any of them into an active deadline/action.
+
+High-priority verification groups:
+- **Indian research:** IIT Delhi SRFP, IIT Roorkee SPARK, IIT Kharagpur, TIFR Mumbai VSRP, JNCASR SRFP, IIT Palakkad SUN, IIT Ropar, CMI.
+- **India–US research:** S.N. Bose, Khorana, IUSSTF-Viterbi.
+- **Global research:** Caltech SURF/WAVE, CMU RISS, MIT MSRP, SFI UCR, CSHL URP, CRA-WP DREU.
+- **AI/ML research:** OpenAI Residency, Apple AI/ML Residency, NVIDIA Graduate Fellowship, Adobe Research India, AI2 Young Investigator.
+- **AI safety:** Redwood MLAB/REMIX, BlueDot Impact, Constellation Astra, PIBBSS, GovAI.
+- **OSS / digital infrastructure:** Prototype Fund, NGI, OTF IFF, Mozilla Technology Fund, Debian LTS, FreeBSD grants, Tor grants.
+- **Developer/community:** GDG on Campus, Postman Student Programs, Docker Community Leaders/Captains, GitLab Heroes, Intel oneAPI.
+- **Competitive/hiring:** TCS CodeVita, Flipkart GRiD, Jane Street programs.
+
+**Today's action:** verify the highest-fit India/AI research candidates first and promote only officially confirmed opportunities into the active deadline list.
+
+
 ### 1. DRDO DMSRDE Paid Internship 2026-27 — CURRENT CYCLE
 - **Status:** Open according to the official DRDO vacancies page.
 - **Location:** Kanpur.
