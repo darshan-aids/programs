@@ -1,7 +1,7 @@
 # OSS / AI / Research Opportunity Master List
 
-**Register version:** v0.3  
-**Retained records:** 214  
+**Register version:** v0.4  
+**Retained records:** 218  
 **Purpose:** Zero-deletion master register of OSS, AI/ML research, internships, fellowships, government, student-community, hackathon and adjacent career opportunities.
 
 ## Master Records
@@ -178,8 +178,6 @@
 170. Max Planck Institutes in Computer Science Internships
 171. IIT Kanpur SURGE
 172. FOSS Hack
-
-
 173. S.N. Bose Scholars Program (IUSSTF / SERB / WINStep Forward)
 174. Khorana Program for Scholars (DBT / IUSSTF / WINStep Forward)
 175. IUSSTF-Viterbi Program (IUSSTF & USC Viterbi)
@@ -222,25 +220,26 @@
 212. TCS CodeVita
 213. Flipkart GRiD Flagship Campus Challenge
 214. Jane Street Graduate Research Fellowship & Undergraduate Programs
+215. Lawrence Livermore National Laboratory Data Science Summer Institute (DSSI)
+216. University of Chicago Data Science Institute Summer Lab
+217. Hertz Fellowship
+218. Social Winter of Code (SWoC) Season 7
 
 ## Structural / Classification Notes
 
 - This is a **zero-deletion** register. Historical, inactive, watchlist, eligibility-gated and advanced-stage records are retained.
 - Duplicate/overlap flags should be handled by classification rather than deletion.
-- UN Millennium Fellowship appears twice in the historical register (#94 and #116) and should not be counted as two unique programs.
-- OpenSSF entries #15 and #100 overlap and should be treated as a parent/related pathway rather than two independent opportunities where appropriate.
-- Open Mainframe / Linux Kernel entries #10 and #102 overlap.
-- #93 Direct Professor Research Internships is an outreach strategy rather than one finite program.
-- Google Season of Docs is retained as a historical/archive record when not active.
+- UN Millennium Fellowship #94 and #116 are one opportunity; retain both historically and classify #116 as a duplicate alias.
+- OpenSSF #15 and #100 overlap; classify #100 as a related/sub-track pathway.
+- Open Mainframe #10 and #102 overlap; classify #102 as a specialized path.
+- #93 Direct Professor Research Internships is an outreach strategy, not one finite program.
+- Google Season of Docs is retained as historical/archive when inactive.
 - FOSS Hack is retained as a distinct event/program record.
-- Summer of Reproducibility is treated as an OSRE-linked track.
-- Season of Commits is treated as a FOSS United contribution-support track.
+- Summer of Reproducibility is an OSRE-linked track.
+- Season of Commits is a FOSS United contribution-support track.
+- #215 LLNL DSSI: 2027 opening is confirmed for November 2026; paid; foreign nationals are eligible subject to restrictions and authorization requirements. Verify the 2027 posting before applying.
+- #216 UChicago DSI Summer Lab: 2027 application is expected in fall 2026; paid; international undergraduates can be eligible if they satisfy U.S. work-authorization requirements.
+- #217 Hertz Fellowship: 2027 application is open through 30 October 2026, but it requires U.S. citizenship/permanent residence and a U.S. PhD path; eligibility-gated for the user.
+- #218 Social Winter of Code Season 7: registration is open through 31 December 2026; free; anyone can participate; coding runs 1 January–30 March 2027. Treat as an OSS contribution/community option, not a GSoC equivalent.
+- NIST SURF was researched but **not added** because its official eligibility requires U.S. citizenship/permanent residence and undergraduate enrollment at a U.S. college/university.
 - Current status, deadline and eligibility must be reverified from official sources before being presented as current.
-
-- **v0.3 expansion source:** the 42 additions (#173–#214) were appended from the latest systematic expansion report.
-- **Verification status:** the new records are retained as research candidates; current deadlines, eligibility, funding, and operational status must be independently verified from official sources before being treated as active opportunities.
-- **Duplicate Record Flag:** #94 and #116 UN Millennium Fellowship are one opportunity; retain both historically but classify #116 as a duplicate alias.
-- **Parent-Pathway Overlap:** #15 and #100 OpenSSF entries overlap; classify #100 as a related/sub-track pathway rather than a separate independent opportunity.
-- **Architecture/Sub-system Overlap:** #10 and #102 overlap; classify #102 as a specialized Linux Kernel path within the broader Open Mainframe context.
-- **Outreach Strategy:** #93 Direct Professor Research Internships is an outreach strategy, not one finite program.
-- **Archived competitions:** if Google Code Jam / Hash Code are later added, mark them explicitly as archived/inactive benchmark competitions.
