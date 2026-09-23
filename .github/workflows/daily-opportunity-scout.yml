@@ -18,75 +18,76 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Run daily research scout
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Install GitHub Copilot CLI
+        run: npm install -g @github/copilot
+
+      - name: Run daily research scout with GitHub Copilot
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
         run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "::error::OPENAI_API_KEY repository secret is not configured."
-            echo "Add it under Settings -> Secrets and variables -> Actions."
+          if [ -z "$COPILOT_GITHUB_TOKEN" ]; then
+            echo "::error::COPILOT_GITHUB_TOKEN repository secret is not configured."
+            echo "Add a fine-grained PAT with Copilot Requests: Read under Settings -> Secrets and variables -> Actions."
             exit 1
           fi
 
-          python -m pip install --quiet openai
+          copilot -p 'You are the daily opportunity scout for this repository.
 
-          python <<'PY'
-          import os
-          from pathlib import Path
-          from openai import OpenAI
+Read these files first:
+- MASTER_LIST.md
+- SCOUT_RULES.md
+- DAILY_DASHBOARD.md
 
-          master = Path("MASTER_LIST.md").read_text(encoding="utf-8")
-          rules = Path("SCOUT_RULES.md").read_text(encoding="utf-8")
+Your job is to research CURRENT web information and update ONLY DAILY_DASHBOARD.md.
 
-          prompt = f"""
-          You are the daily opportunity scout for an Indian B.Tech AI & Data Science student.
+MISSION:
+Maintain a zero-deletion opportunity tracker for an Indian B.Tech AI & Data Science student graduating in 2028. Research open-source, AI/ML research, government, internships, fellowships, student-community, hackathon and adjacent career opportunities.
 
-          CURRENT MASTER REGISTER:
-          {master}
+NON-NEGOTIABLE:
+1. Never delete or modify records in MASTER_LIST.md.
+2. Distinguish genuinely NEW programs from duplicates, renamed programs, parent/child tracks, recurring programs, inactive/historical programs, eligibility-gated programs, and outreach strategies.
+3. Never invent deadlines, eligibility, funding, India eligibility, mentors, projects, or participation history.
+4. Prefer official program sources. For current claims, use current web research and include the official source URL.
+5. Clearly label expected/recurring dates versus confirmed dates.
+6. Keep the dashboard concise: report changes, upcoming deadlines, preparation milestones, and concrete actions—not the whole master database.
+7. LLNL Data Science Summer Institute and UChicago DSI Summer Lab were explicitly dropped from active targeting. Do NOT re-add or recommend them unless the user explicitly restores them.
+8. For GSoC, do not claim 2027 dates are official until Google publishes them. Use prior-cycle timing only as a clearly labeled planning assumption.
+9. For OSS preparation, prioritize meaningful issues, tests, docs, bug fixes, reviews, discussions, community meetings and maintainer interaction over PR-count chasing.
+10. Preserve accountability continuity from the existing DAILY_DASHBOARD.md.
+11. Do not make political recommendations or rankings.
+12. If a source cannot be verified, mark the fact UNVERIFIED / WATCH rather than guessing.
 
-          SCOUT RULES:
-          {rules}
+OUTPUT:
+Rewrite DAILY_DASHBOARD.md with:
+# Daily Opportunity Dashboard
+## Date
+## NEW PROGRAMS
+## CHANGES
+## UPCOMING 3 MONTHS
+## EARLY-PREP ALERTS
+## DEADLINE ALERTS
+## TODAY'S TODO
+## GSoC / OSS ACTION
+## ACCOUNTABILITY
+## SOURCES
 
-          Research current information on the web. Prefer official sources and distinguish
-          confirmed facts from recurring/expected dates and unverified leads.
+NEW PROGRAMS must include: name, why genuinely new, eligibility, India eligibility, paid/unpaid if confirmed, likely 2027 cycle, deadline/window if known, relevance, and official source.
 
-          Produce ONLY a markdown dashboard with exactly these headings:
-          # Daily Opportunity Dashboard
-          ## Date
-          ## NEW PROGRAMS
-          ## CHANGES
-          ## UPCOMING 3 MONTHS
-          ## EARLY-PREP ALERTS
-          ## DEADLINE ALERTS
-          ## TODAY'S TODO
-          ## GSoC / OSS ACTION
-          ## ACCOUNTABILITY
+UPCOMING and DEADLINE sections should focus on the next 90 days and deadlines within 30 days.
 
-          For every new program, state: name, why it is new, eligibility, India eligibility,
-          paid/unpaid if confirmed, deadline/window, relevance, and official source.
+TODAY'S TODO should contain 3-7 concrete tasks ordered by urgency. For contribution-based programs, give a progressive preparation task rather than generic "make PRs".
 
-          For today's TODO, give 3–7 concrete actions. Prioritize actual deadlines and
-          preparation/contribution work over generic studying.
-
-          Do not delete or rewrite the master register. Do not treat duplicates as new.
-          Do not claim a program participates in GSoC 2027 unless there is evidence.
-          Pyodide is not a GSoC target for this user.
-
-          Keep the output concise and actionable.
-          """
-
-          client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-          response = client.responses.create(
-              model="gpt-5.6-luna",
-              tools=[{"type": "web_search_preview"}],
-              input=prompt,
-          )
-
-          Path("DAILY_DASHBOARD.md").write_text(
-              response.output_text.strip() + "\n",
-              encoding="utf-8",
-          )
-          PY
+IMPORTANT:
+- Read the existing dashboard before replacing it so completed/unfinished accountability items are preserved.
+- Do not fabricate completion of user tasks.
+- Keep existing historical context when it is still relevant, but remove stale daily prose that no longer belongs in today's dashboard.
+- Write the final markdown directly to DAILY_DASHBOARD.md.
+' -s --no-ask-user --allow-tool='read,write(DAILY_DASHBOARD.md),url' --allow-all-urls
 
       - name: Commit daily dashboard
         run: |
