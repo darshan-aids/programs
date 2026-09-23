@@ -1,164 +1,134 @@
 # Daily Opportunity Dashboard
 
-**Date:** 21 September 2026  
+**Date:** 23 September 2026  
 **Timezone:** Asia/Kolkata
 
 ## NEW PROGRAMS DISCOVERED TODAY
 
-### #215 Lawrence Livermore National Laboratory — Data Science Summer Institute (DSSI)
-- **Why new:** not previously in the 214-record register; added to v0.4.
-- **2027 status:** Summer 2027 applications open **November 2026** according to LLNL.
-- **Fit:** **High** for AI/ML/data science/HPC if academic-year and access requirements fit.
-- **Paid:** Yes; LLNL describes it as a paid 12-week summer program.
-- **India eligibility:** Foreign nationals are permitted, subject to program/security restrictions and authorization requirements; verify the 2027 posting.
-- **Action:** prepare a research-oriented CV and ML/HPC project summary before November.
-- **Official source:** https://data-science.llnl.gov/dssi/apply
+**No new high-confidence program added today.** Existing records were checked for current-cycle changes and deadlines. The zero-deletion rule remains in force.
 
-### #216 University of Chicago — Data Science Institute Summer Lab
-- **Why new:** not previously in the register.
-- **2027 status:** official page says to check back in fall 2026 for the 2027 application.
-- **Fit:** **High** for applied data science/ML research.
-- **Paid:** Yes; the program is described as an 8-week paid summer research program.
-- **India eligibility:** International undergraduates can apply, but U.S. work authorization is required to receive the stipend.
-- **Action:** watch for the 2027 portal and prepare a research statement/project evidence.
-- **Official source:** https://datascience.uchicago.edu/education/summerlab/
-
-### #218 Social Winter of Code (SWoC) Season 7
-- **Why new:** distinct winter OSS program, not the existing Social Summer of Code entry.
-- **Registration:** open through **31 Dec 2026**.
-- **Program:** **1 Jan–30 Mar 2027**.
-- **Eligibility:** anyone; free to participate.
-- **Paid:** No participation fee; certificate/recognition rather than a stipend.
-- **India eligibility:** Yes.
-- **Fit:** Medium. Useful for structured OSS contribution practice, but **do not optimize for PR counts**.
-- **Official source:** https://www.swoc.in/
-
-### Eligibility-gated change: Hertz Fellowship 2027
-- **Application deadline:** **30 Oct 2026**.
-- **Why not a target:** official eligibility requires U.S. citizenship/permanent residence and a U.S. PhD path. It is retained in the database but not in the active target queue.
-- **Official source:** https://www.hertzfoundation.org/hertz-fellowship/who-can-apply/
+### Excluded from active targeting
+- **LLNL Data Science Summer Institute (DSSI):** removed from the *active target/dashboard* only because the user explicitly asked to drop it. Preserve any historical record if present; do not re-add it automatically.
+- **UChicago DSI Summer Lab:** same treatment. Do not re-add automatically.
 
 ## UPCOMING — NEXT 3 MONTHS
 
-| Priority | Opportunity | Date/window | What to do now |
+| Priority | Opportunity | Current date/window | What to do now |
 |---|---|---|---|
-| 🔴 1 | DRDO DMSRDE Paid Internship | **28 Sep 2026** | Verify current advertisement's branch/year rules immediately; official DRDO listing confirms the deadline. |
-| 🔴 2 | OIST Research Internship — Spring 2027 | **15 Oct 2026** | Select labs, research interests, CV, transcript, references. |
-| 🔴 3 | EPFL E3 | Portal opens Oct; closes **1 Nov 2026** | Prepare CV + transcript + lab choices. |
-| 🟠 4 | ETH Student Summer Research Fellowship | Opens **Nov 2026** | Prepare before portal opens; CS/related field, 2 years completed, graduation following year or later. |
-| 🟠 5 | Summer@EPFL | Expected/standing deadline **1 Dec 2026**; 2027 application opens in Nov | Prepare application package. |
-| 🟠 6 | Science Academies SRFP 2027 | **30 Nov 2026** | Contact/shortlist suitable guides; prepare marksheets and research-interest statement. |
-| 🟠 7 | LLNL DSSI | Opens **Nov 2026** | Prepare ML/HPC research CV and project evidence. |
-| 🟠 8 | UChicago DSI Summer Lab | 2027 application expected fall 2026 | Watch portal; prepare research statement and work-authorization check. |
-| 🟡 9 | SWoC Season 7 | Registration until **31 Dec 2026**; coding Jan–Mar 2027 | Choose one serious project and contribute meaningfully. |
-| 🟡 10 | Hacktoberfest | **1–31 Oct 2026** | Choose 2–3 repositories/issues before Oct 1. |
+| 🔴 1 | DRDO DMSRDE Paid Internship 2026-27 | **28 Sep 2026** | Verify exact branch/year requirements and submit if eligible. Official DRDO listing confirms the deadline. |
+| 🔴 2 | DRDO SSPL Paid Internship (6 month) | **30 Sep 2026** | Check the official advertisement immediately; deadline is confirmed on DRDO's current vacancy index. |
+| 🔴 3 | OIST Research Internship — Spring 2027 | **15 Oct 2026, 23:59 JST** | Select research units, prepare CV/materials, and resolve transcript/reference requirements. |
+| 🟠 4 | DRDO CASDIC Bengaluru Paid Internship | **11 Oct 2026** | Check BE/BTech discipline/year conditions and prepare application. |
+| 🟠 5 | ETH Student Summer Research Fellowship | Next window **opens Nov 2026** | Prepare CV and research-area choices. **Transcript is a blocker for now** because ETH requires an official university transcript. |
+| 🟠 6 | Science Academies SRFP 2027 | **30 Nov 2026** | Deadline confirmed. **Current blocker:** official portal requires Class X through last-examination marksheets; latest semester document is currently unavailable to the user. Do not fabricate/substitute it. Seek official clarification and prepare everything else. |
+| 🟠 7 | Summer@EPFL | Expected/recurring winter window | Prepare application package; verify 2027 portal when opened. |
+| 🟡 8 | SWoC Season 7 | Registration through **31 Dec 2026**; coding Jan–Mar 2027 | Register if desired and choose one serious OSS project; prioritize meaningful work over PR counts. |
+| 🟡 9 | Hacktoberfest | **1–31 Oct 2026** | Choose repositories and read contribution docs before October. |
 
 ## DEADLINE ALERTS — NEXT 30 DAYS
 
 ### 🔴 28 Sep — DRDO DMSRDE
-Official DRDO vacancies page lists the current Paid Internship Scheme 2026-27 advertisement with an end date of **28 Sep 2026**. The listing says Engineering/Science UG & PG students; exact discipline/year conditions must be checked in the current advertisement.  
-Source: https://drdo.gov.in/drdo/offerings/vacancies
+Official DRDO vacancy index lists **DMSRDE(HRD)/Paid Internship/2026/02**, published 16 Sep 2026, ending **28 Sep 2026**. The listing describes it as a paid internship for Engineering/Science UG & PG students. Exact discipline/year requirements must be read from the advertisement.  
+Source: https://drdo.gov.in/drdo/offerings/vacancies citeturn2search0turn2search1
 
-### ⚠️ 30 Sep — DRDO SSPL
-A September 2026 deadline has been reported for the SSPL paid internship, but I could not retrieve the current SSPL internship advertisement itself from the official DRDO page during this run. **Treat the 30 Sep date as unverified until the current official notice is checked.**
+### 🔴 30 Sep — DRDO SSPL
+DRDO's official vacancy index lists **625/HR/PaidInternship/2026/M/01**, a **6-month paid internship**, ending **30 Sep 2026**. citeturn2search0turn2search2
+
+### 🔴 11 Oct — DRDO CASDIC
+DRDO's official vacancy index lists **CASDIC/HRG/PDINTERN/2026/01**, for BE/BTech and M.Sc students, ending **11 Oct 2026**. citeturn2search0turn2search1
 
 ### 🔴 15 Oct — OIST Spring 2027
-Official OIST page confirms the deadline as **15 Oct 2026, 23:59 JST**. Internship period: **1 Apr–30 Sep 2027**, 4–6 months. Eligibility includes students in the last two years of a bachelor's degree or master's students at universities/colleges in Japan or overseas.  
-Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+Official OIST confirms **15 Oct 2026, 23:59 JST**. Internship period is **1 Apr–30 Sep 2027**, 4–6 months. Eligibility includes students in the last two years of a bachelor's degree or master's students at universities/colleges in Japan or overseas. OIST provides one direct round-trip air ticket, funded accommodation, visa administrative support, and a **2,400 JPY per working day internship allowance**. citeturn0search1turn1search7
 
 ## EARLY-PREP ALERTS
 
 ### GSoC 2027 — START NOW
-There is **no official GSoC 2027 contributor timeline yet**. Do not invent one. The official 2026 timeline had mentor-organization applications in January, organizations announced in February, contributor applications in March, and Google explicitly tells prospective contributors to research organizations and reach out early.  
-Sources: https://developers.google.com/open-source/gsoc/timeline and https://summerofcode.withgoogle.com/how-it-works
+There is **no official GSoC 2027 contributor timeline yet**. The official 2026 schedule had organization applications in January, accepted organizations announced in February, contributor applications in March, and Google explicitly recommends contacting organizations early. citeturn1search8turn1search4
 
-**Working assumption for preparation only:** treat **January 2027** as the likely organization-application period and **March 2027** as the likely contributor-application period, subject to official confirmation.
+**Preparation assumption only:** use January 2027 as a planning target for organization activity and March 2027 as a planning target for contributor applications; replace these with official dates when Google publishes them.
 
-### GSoC contribution plan
-**Week 1 — Sep 21–27**
-- [ ] Finalize 2 primary GSoC ecosystems: **Kornia** + one backup such as DIPY/another verified 2026 org.
-- [ ] Read contributor guide, architecture and testing instructions.
-- [ ] Set up the project locally.
-- [ ] Reproduce one real issue before coding.
+### GSoC progressive plan
+**Week 1 — Sep 23–29**
+- [ ] Finalize 1 primary OSS ecosystem + 1 backup.
+- [ ] Read contributor guide and architecture.
+- [ ] Set up locally.
+- [ ] Reproduce one real issue.
 
-**Week 2 — Sep 28–Oct 4**
-- [ ] Make one small but technically useful contribution: test, bug fix, documentation correction, or reproducible benchmark.
-- [ ] Participate publicly in the relevant issue/discussion.
-- [ ] Respond to review feedback rather than opening another PR.
+**Week 2 — Sep 30–Oct 6**
+- [ ] Make one meaningful test/docs/bug-fix contribution.
+- [ ] Participate in the public issue/discussion.
+- [ ] Respond to review feedback.
 
-**Week 3 — Oct 5–11**
-- [ ] Complete/follow up on contribution #1.
+**Week 3 — Oct 7–13**
+- [ ] Follow up/land contribution #1.
 - [ ] Identify a second issue in the same technical area.
-- [ ] Attend a community meeting or read recent maintainer discussions.
+- [ ] Read recent maintainer discussions or attend a community meeting.
 
-**Week 4 — Oct 12–18**
+**Week 4 — Oct 14–20**
 - [ ] Start contribution #2.
-- [ ] Write a one-page technical project idea based on actual repository needs.
-- [ ] Identify likely mentors/maintainers through public community channels; do not cold-spam private messages.
+- [ ] Draft a project idea based on an actual repository need.
+- [ ] Identify maintainers through public channels.
 
-**Weeks 5–8 — Oct 19–Nov 15**
+**Weeks 5–8 — Oct 21–Nov 17**
 - [ ] Land/review contribution #2.
-- [ ] Build a stronger project proposal outline.
-- [ ] Continue meaningful community interaction.
-- [ ] By mid-November, decide whether the primary ecosystem has enough evidence of fit and maintainer interaction to remain a target.
+- [ ] Build proposal outline from actual codebase knowledge.
+- [ ] Continue meaningful maintainer/community interaction.
 
-Google's official guidance says contributors should contact organizations early and that community familiarity and mentor interaction are important. citeturn2search0turn2search2
+Google's contributor guidance explicitly recommends narrowing to 1–2 organizations, getting involved, filing bugs/patches, and talking with the organization rather than relying on a proposal alone. citeturn1search6
 
 ## TODAY'S ACTION PLAN
 
-### 1. OIST — highest near-term application priority
-**Time: 60–90 min**
-- [ ] Open OIST research-unit list.
-- [ ] Pick **3 labs** matching ML/CV/AI/data science.
-- [ ] Save each lab's research area + faculty name + why your projects fit.
-- [ ] Update CV to emphasize AgentGuard/ML/research/OSS work.
+### 1. OIST — 60–90 min
+- [ ] Open OIST's current research-unit/project availability list.
+- [ ] Pick 3 AI/ML/data-science-adjacent units.
+- [ ] Record each unit's research area and project fit.
+- [ ] Update CV around ML, OSS, research and AgentGuard/project evidence.
+- [ ] Start a checklist of required application documents.
 
-### 2. Kornia — GSoC preparation
-**Time: 60–90 min**
-- [ ] Reproduce the chosen issue locally.
-- [ ] Read the related tests and recent PR discussion.
-- [ ] Do not open a PR until you understand the expected behavior.
+OIST says applicants should use the published project list when selecting faculty interests and should **not contact faculty for approval before applying**. citeturn0search6
 
-### 3. Science Academies SRFP
-**Time: 30 min**
-- [ ] Create a shortlist of **5 potential guides** in AI/ML/computing.
-- [ ] Draft a 150–250 word research-interest paragraph.
-- [ ] Collect Class X onward marksheets; the official portal requires them. Deadline is **30 Nov 2026**. citeturn0search13turn0search14
+### 2. DRDO — 45–60 min
+- [ ] Open the current DMSRDE and SSPL advertisements.
+- [ ] Verify B.Tech AI & DS/academic-year eligibility.
+- [ ] If eligible, prepare and submit before the respective deadlines.
 
-### 4. Hacktoberfest
-**Time: 30 min**
-- [ ] Pick 2–3 projects where you can make a meaningful contribution.
-- [ ] Read CONTRIBUTING.md before selecting issues.
-- [ ] Prefer one substantial contribution over many trivial PRs.
+### 3. Science Academies — 20–30 min
+- [ ] Do **not** spend time trying to manufacture a missing transcript/marksheet.
+- [ ] Prepare the research-interest statement and guide shortlist.
+- [ ] Contact the official SRFP support address to ask whether the latest currently-unissued semester marksheet can be supplied later or whether the latest officially available marksheet is acceptable.
+
+The official SRFP 2027 instructions require marksheets from Class X **through the last examination**, and the deadline is **30 Nov 2026**. citeturn0search8
+
+### 4. Kornia / GSoC — 60 min
+- [ ] Reproduce one issue locally.
+- [ ] Read related tests and PR discussion.
+- [ ] Do not open a PR until expected behavior is understood.
 
 ## ACCOUNTABILITY CHECK
 
-Yesterday's assigned targets were:
+Yesterday's assigned targets:
 - [ ] Advance one application/deadline task.
 - [ ] Complete one meaningful OSS contribution step.
 - [ ] Produce one GSoC preparation artifact.
 
-**If yesterday's work was not completed:** do not compensate with a huge catch-up session. Recovery task = **25 minutes today: reproduce one issue or complete one application artifact, then stop.**
+If unfinished, use the recovery rule: **25 minutes on one blocked item only**. The goal is forward movement, not catch-up overload.
 
 ## IMPORTANT STATUS CORRECTIONS
 
-- **Mitacs GRI 2027:** application deadline **16 Sep 2026** has passed; do not waste today's effort trying to submit a late application. The next useful step is to preserve it for outcome/matching tracking. citeturn0news1
-- **NIST SURF:** not an India-eligible target; official eligibility requires U.S. citizenship/permanent residence and U.S. undergraduate enrollment. citeturn4search0turn4search2
-- **Hertz:** active application but not eligible for this user's current profile. citeturn5search1turn5search3
-- **DRDO SSPL:** current September deadline is not treated as confirmed until the current official advertisement is retrieved.
+- **LLNL DSSI:** explicitly dropped from active tracking by the user; do not re-add automatically.
+- **UChicago DSI Summer Lab:** explicitly dropped from active tracking by the user; do not re-add automatically.
+- **Science Academies SRFP:** still potentially useful, but the user's current lack of the latest semester marksheet is a genuine application-document blocker. The official instructions require marksheets through the last examination. citeturn0search8
+- **ETH CS Summer Research Fellowship:** its official application requires an official academic transcript; treat this as a current document blocker for the user until they can obtain one. The next window opens at the beginning of Nov 2026. citeturn0search2
+- **OIST:** current Spring 2027 deadline and support are confirmed by official OIST sources. citeturn0search1turn1search7
 
 ## SOURCES
 
 - DRDO vacancies: https://drdo.gov.in/drdo/offerings/vacancies
 - OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- OIST project availability: https://www.oist.jp/admissions/research-internship/ri-faculty-project-availability
 - ETH CS Summer Research Fellowship: https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html
-- EPFL E3: https://eee.epfl.ch/
-- Summer@EPFL: https://www.epfl.ch/labs/claire/summerepfl/
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- LLNL DSSI: https://data-science.llnl.gov/dssi/apply
-- UChicago DSI Summer Lab: https://datascience.uchicago.edu/education/summerlab/
-- SWoC Season 7: https://www.swoc.in/
-- Hertz Fellowship: https://www.hertzfoundation.org/hertz-fellowship/who-can-apply/
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
+- GSoC contributor advice: https://developers.google.com/open-source/gsoc/help/student-advice
 
 > The GitHub Actions workflow is configured to regenerate this dashboard daily. It requires the repository secret `OPENAI_API_KEY` for web-enabled research.
