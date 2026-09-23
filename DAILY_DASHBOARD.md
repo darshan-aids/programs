@@ -131,4 +131,4 @@ If unfinished, use the recovery rule: **25 minutes on one blocked item only**. T
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
 - GSoC contributor advice: https://developers.google.com/open-source/gsoc/help/student-advice
 
-> The GitHub Actions workflow is configured to regenerate this dashboard daily. It requires the repository secret `OPENAI_API_KEY` for web-enabled research.
+> Automation: the GitHub Actions daily scout now uses GitHub Copilot CLI instead of the OpenAI API. The repository workflow requires a `COPILOT_GITHUB_TOKEN` Actions secret for this personal repository.
