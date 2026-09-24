@@ -23,13 +23,8 @@ jobs:
       - name: Install Copilot CLI
         run: npm install -g @github/copilot
 
-      - name: Check Copilot CLI
+      - name: Test programmatic Copilot
         env:
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
         run: |
-          copilot --version
-          if [ -z "$COPILOT_GITHUB_TOKEN" ]; then
-            echo "::error::COPILOT_GITHUB_TOKEN is empty"
-            exit 1
-          fi
-          echo "COPILOT_GITHUB_TOKEN is present"
+          copilot -p "Reply with exactly: COPILOT_TEST_OK" -s --allow-all-tools --allow-all-urls --no-ask-user
