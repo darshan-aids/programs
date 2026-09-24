@@ -4,7 +4,6 @@ on:
   schedule:
     # 09:45 Asia/Kolkata = 04:15 UTC.
     - cron: "15 4 * * *"
-      timezone: "Asia/Kolkata"
   workflow_dispatch:
 
 permissions:
