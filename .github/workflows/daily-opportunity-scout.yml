@@ -82,7 +82,7 @@ IMPORTANT:
 - Do not fabricate completion of user tasks.
 - Keep existing historical context when it is still relevant, but remove stale daily prose that no longer belongs in today's dashboard.
 - Write the final markdown directly to DAILY_DASHBOARD.md.
-' -s --no-ask-user --allow-tool='read,write(DAILY_DASHBOARD.md),url' --allow-all-urls
+' -s --no-ask-user --available-tools='view,edit,web_fetch' --allow-all-tools --allow-all-urls --deny-tool='write(MASTER_LIST.md)'
 
       - name: Commit daily dashboard
         run: |
