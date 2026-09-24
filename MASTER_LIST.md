@@ -1,7 +1,7 @@
 # OSS / AI / Research Opportunity Master List
 
-**Register version:** v0.4  
-**Retained records:** 218  
+**Register version:** v0.5  
+**Retained records:** 220  
 **Purpose:** Zero-deletion master register of OSS, AI/ML research, internships, fellowships, government, student-community, hackathon and adjacent career opportunities.
 
 ## Master Records
@@ -224,6 +224,8 @@
 216. University of Chicago Data Science Institute Summer Lab
 217. Hertz Fellowship
 218. Social Winter of Code (SWoC) Season 7
+219. Ministry of External Affairs (MEA) Internship Programme
+220. Project NANDA / Foundation for Agentic Networks (FAN) Early Career AI Fellowship
 
 ## Structural / Classification Notes
 
@@ -241,5 +243,7 @@
 - #216 UChicago DSI Summer Lab: 2027 application is expected in fall 2026; paid; international undergraduates can be eligible if they satisfy U.S. work-authorization requirements.
 - #217 Hertz Fellowship: 2027 application is open through 30 October 2026, but it requires U.S. citizenship/permanent residence and a U.S. PhD path; eligibility-gated for the user.
 - #218 Social Winter of Code Season 7: registration is open through 31 December 2026; free; anyone can participate; coding runs 1 January–30 March 2027. Treat as an OSS contribution/community option, not a GSoC equivalent.
+- #219 MEA Internship Programme: recurring Government of India internship. Term II 2026-27 applications close 27 September 2026; Indian citizens with a completed graduate degree or final-year undergraduate status where the internship is mandatory may apply, subject to the programme's age/state/term rules. It pays ₹10,000/month plus limited one-time travel reimbursement. For the user, the current 2026 term is eligibility-gated because they are not yet final-year; retain for later 2027-28 tracking.
+- #220 Project NANDA / FAN Early Career AI Fellowship: newly discovered AI-agent infrastructure fellowship track. Current listing is remote/global, contract-based, full-time or part-time (minimum 20 hours/week), stipend-supported, with no years-of-experience requirement; the Early Career track targets final-year students, bootcamp graduates, or self-taught builders. No fixed 2027 cohort deadline is currently published; watch for the next cohort. Relevance is high because of the user's AI-agent/open-source work.
 - NIST SURF was researched but **not added** because its official eligibility requires U.S. citizenship/permanent residence and undergraduate enrollment at a U.S. college/university.
 - Current status, deadline and eligibility must be reverified from official sources before being presented as current.
