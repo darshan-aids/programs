@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  copilot-requests: write
 
 jobs:
   scout:
@@ -28,14 +29,8 @@ jobs:
 
       - name: Run daily research scout with GitHub Copilot
         env:
-          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -z "$COPILOT_GITHUB_TOKEN" ]; then
-            echo "::error::COPILOT_GITHUB_TOKEN repository secret is not configured."
-            echo "Add a fine-grained PAT with Copilot Requests: Read under Settings -> Secrets and variables -> Actions."
-            exit 1
-          fi
-
           copilot -p 'You are the daily opportunity scout for this repository.
 
 Read these files first:
