@@ -1,134 +1,174 @@
 # Daily Opportunity Dashboard
 
-**Date:** 23 September 2026  
+**Date:** 24 September 2026  
 **Timezone:** Asia/Kolkata
 
-## NEW PROGRAMS DISCOVERED TODAY
+## NEW PROGRAMS
 
-**No new high-confidence program added today.** Existing records were checked for current-cycle changes and deadlines. The zero-deletion rule remains in force.
+### 1. Project NANDA / FAN Early Career AI Fellowship — HIGH FIT
+- **Why new:** not previously in the master register; added as **#220**.
+- **Focus:** open-source infrastructure for the Internet of AI Agents; NEST, agent discovery, MCP/A2A and research-engineering work.
+- **Eligibility:** current Early Career track says no years-of-experience requirement; final-year students, bootcamp graduates and self-taught builders can be considered. Git/GitHub and programming fundamentals are required.
+- **India eligibility:** listing says **Remote / Global**.
+- **Paid:** stipend; contract-based; full-time or part-time, minimum 20 hours/week.
+- **2027 cycle:** no fixed 2027 cohort deadline published; **WATCH** for next cohort.
+- **Relevance:** very high because the work is directly aligned with AI agents + open-source infrastructure.
+- Official source: https://careers.projectnanda.org/roles/early-career-fellow
 
-### Excluded from active targeting
-- **LLNL Data Science Summer Institute (DSSI):** removed from the *active target/dashboard* only because the user explicitly asked to drop it. Preserve any historical record if present; do not re-add it automatically.
-- **UChicago DSI Summer Lab:** same treatment. Do not re-add automatically.
+### 2. Ministry of External Affairs Internship — LATER-STAGE / ELIGIBILITY-GATED
+- **Why new:** not previously in the master register; added as **#219**.
+- **Current cycle:** Term II 2026-27; applications close **27 Sep 2026**.
+- **Eligibility:** Indian citizens with a completed graduate degree, or final-year undergraduates where the internship is mandatory; age <=25 on Dec 31 of the internship year.
+- **India eligibility:** India only; Term II includes Tamil Nadu among covered states.
+- **Paid:** ₹10,000/month honorarium + limited one-time travel reimbursement.
+- **2027 relevance:** recurring two-term government internship; useful to retain for the user's later final-year eligibility window.
+- **Current user status:** **not a target for the current term** because the user is not yet final-year and the current term's final-year exception requires the internship to be mandatory.
+- Official source: https://internship.mea.gov.in/internship
+
+### Researched but NOT added as a target
+- **NIST SURF 2027:** official page says applications are expected mid-Oct 2026 with applications due end-Jan 2027, but eligibility requires U.S. citizenship/permanent residence and undergraduate enrollment at a U.S. college/university. Keep outside active targeting.
+- **FASTSF 2027:** deadline 30 Nov 2026, but official rules restrict eligibility to specified Indian states/UTs; not a fit for the user's Chennai/Tamil Nadu profile.
+
+## CHANGES
+
+### DRDO — corrected current-cycle picture
+The official DRDO vacancies page currently confirms:
+- **DMSRDE Paid Internship:** closes **28 Sep 2026**.
+- **CASDIC Bengaluru Paid Internship:** closes **11 Oct 2026**, for BE/BTech and M.Sc students.
+- **PXE Balasore apprenticeship:** new 23 Sep posting, closes **12 Oct**, but it is an ITI apprenticeship and is not a fit for the user's B.Tech AI&DS profile.
+- The previously reported **SSPL 30 Sep deadline is NOT currently confirmed on the live DRDO vacancy page**, so it is no longer treated as a confirmed deadline in this dashboard.
+
+Official source: https://www.drdo.gov.in/drdo/offerings/vacancies
+
+### OIST Spring 2027 — confirmed
+- Deadline: **15 Oct 2026, 23:59 JST**.
+- Internship period: **1 Apr–30 Sep 2027**, 4–6 months.
+- Eligibility includes students in the last two years of bachelor's study or master's students at institutions in Japan or overseas.
+- OIST provides funded accommodation, round-trip travel support, visa administrative support and a **¥2,400/day working-day allowance**.
+
+Official source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+
+### Science Academies SRFP 2027
+- Deadline remains **30 Nov 2026**.
+- The official application requires mark sheets from Class X **through the last examination**.
+- The user's missing latest-semester mark sheet remains a genuine blocker. Do not fabricate or substitute it.
+
+Official source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 
 ## UPCOMING — NEXT 3 MONTHS
 
-| Priority | Opportunity | Current date/window | What to do now |
+| Priority | Opportunity | Date/window | Status / action |
 |---|---|---|---|
-| 🔴 1 | DRDO DMSRDE Paid Internship 2026-27 | **28 Sep 2026** | Verify exact branch/year requirements and submit if eligible. Official DRDO listing confirms the deadline. |
-| 🔴 2 | DRDO SSPL Paid Internship (6 month) | **30 Sep 2026** | Check the official advertisement immediately; deadline is confirmed on DRDO's current vacancy index. |
-| 🔴 3 | OIST Research Internship — Spring 2027 | **15 Oct 2026, 23:59 JST** | Select research units, prepare CV/materials, and resolve transcript/reference requirements. |
-| 🟠 4 | DRDO CASDIC Bengaluru Paid Internship | **11 Oct 2026** | Check BE/BTech discipline/year conditions and prepare application. |
-| 🟠 5 | ETH Student Summer Research Fellowship | Next window **opens Nov 2026** | Prepare CV and research-area choices. **Transcript is a blocker for now** because ETH requires an official university transcript. |
-| 🟠 6 | Science Academies SRFP 2027 | **30 Nov 2026** | Deadline confirmed. **Current blocker:** official portal requires Class X through last-examination marksheets; latest semester document is currently unavailable to the user. Do not fabricate/substitute it. Seek official clarification and prepare everything else. |
-| 🟠 7 | Summer@EPFL | Expected/recurring winter window | Prepare application package; verify 2027 portal when opened. |
-| 🟡 8 | SWoC Season 7 | Registration through **31 Dec 2026**; coding Jan–Mar 2027 | Register if desired and choose one serious OSS project; prioritize meaningful work over PR counts. |
-| 🟡 9 | Hacktoberfest | **1–31 Oct 2026** | Choose repositories and read contribution docs before October. |
-
-## DEADLINE ALERTS — NEXT 30 DAYS
-
-### 🔴 28 Sep — DRDO DMSRDE
-Official DRDO vacancy index lists **DMSRDE(HRD)/Paid Internship/2026/02**, published 16 Sep 2026, ending **28 Sep 2026**. The listing describes it as a paid internship for Engineering/Science UG & PG students. Exact discipline/year requirements must be read from the advertisement.  
-Source: https://drdo.gov.in/drdo/offerings/vacancies citeturn2search0turn2search1
-
-### 🔴 30 Sep — DRDO SSPL
-DRDO's official vacancy index lists **625/HR/PaidInternship/2026/M/01**, a **6-month paid internship**, ending **30 Sep 2026**. citeturn2search0turn2search2
-
-### 🔴 11 Oct — DRDO CASDIC
-DRDO's official vacancy index lists **CASDIC/HRG/PDINTERN/2026/01**, for BE/BTech and M.Sc students, ending **11 Oct 2026**. citeturn2search0turn2search1
-
-### 🔴 15 Oct — OIST Spring 2027
-Official OIST confirms **15 Oct 2026, 23:59 JST**. Internship period is **1 Apr–30 Sep 2027**, 4–6 months. Eligibility includes students in the last two years of a bachelor's degree or master's students at universities/colleges in Japan or overseas. OIST provides one direct round-trip air ticket, funded accommodation, visa administrative support, and a **2,400 JPY per working day internship allowance**. citeturn0search1turn1search7
+| 🔴 1 | DRDO DMSRDE Paid Internship | **28 Sep** | Verify AI&DS/year/branch requirements and submit if eligible. |
+| 🟠 2 | MEA Internship Term II | **27 Sep** | Current term is eligibility-gated; retain for later cycle rather than applying blindly. |
+| 🔴 3 | OIST Spring 2027 | **15 Oct** | Highest-fit current research application; build the application now. |
+| 🟠 4 | DRDO CASDIC Bengaluru | **11 Oct** | Verify discipline/year requirements and apply if eligible. |
+| 🟡 5 | Hacktoberfest 2026 | **October 2026** | Choose 1–2 serious repositories before October; prioritize meaningful contributions. |
+| 🟠 6 | ETH Student Summer Research Fellowship | Window opens **Nov 2026** | Prepare, but official transcript requirement remains a blocker. |
+| 🟠 7 | Science Academies SRFP 2027 | **30 Nov** | Resolve marksheet issue / obtain official clarification; prepare remaining material. |
+| 🟡 8 | SWoC Season 7 | Registration through **31 Dec**; coding Jan–Mar 2027 | Register if useful; select a serious project and build context before chasing PRs. |
+| 🟡 9 | Project NANDA Early Career AI Fellowship | Next cohort **WATCH** | Follow the project and build relevant agent-infrastructure evidence. |
 
 ## EARLY-PREP ALERTS
 
 ### GSoC 2027 — START NOW
-There is **no official GSoC 2027 contributor timeline yet**. The official 2026 schedule had organization applications in January, accepted organizations announced in February, contributor applications in March, and Google explicitly recommends contacting organizations early. citeturn1search8turn1search4
+There is **no official GSoC 2027 contributor schedule yet**. Google's current official page gives the general timing: organization applications in January, accepted organizations in February, contributor discussions/proposals in March, contributor applications closing around March/April, and coding beginning around June. Use this only as a planning assumption until 2027 dates are published.
 
-**Preparation assumption only:** use January 2027 as a planning target for organization activity and March 2027 as a planning target for contributor applications; replace these with official dates when Google publishes them.
+Official source: https://developers.google.com/open-source/gsoc/timeline
 
-### GSoC progressive plan
-**Week 1 — Sep 23–29**
-- [ ] Finalize 1 primary OSS ecosystem + 1 backup.
+**Week 1 — Sep 24–30**
+- [ ] Choose 1 primary OSS ecosystem + 1 backup.
 - [ ] Read contributor guide and architecture.
 - [ ] Set up locally.
 - [ ] Reproduce one real issue.
 
-**Week 2 — Sep 30–Oct 6**
+**Week 2 — Oct 1–7**
 - [ ] Make one meaningful test/docs/bug-fix contribution.
-- [ ] Participate in the public issue/discussion.
+- [ ] Participate in the issue/discussion.
 - [ ] Respond to review feedback.
 
-**Week 3 — Oct 7–13**
-- [ ] Follow up/land contribution #1.
-- [ ] Identify a second issue in the same technical area.
-- [ ] Read recent maintainer discussions or attend a community meeting.
+**Week 3 — Oct 8–14**
+- [ ] Follow up contribution #1.
+- [ ] Identify a second technically related issue.
+- [ ] Attend/read a maintainer/community discussion.
 
-**Week 4 — Oct 14–20**
+**Week 4 — Oct 15–21**
 - [ ] Start contribution #2.
-- [ ] Draft a project idea based on an actual repository need.
-- [ ] Identify maintainers through public channels.
+- [ ] Identify a real project area that could become a GSoC proposal.
+- [ ] Establish public maintainer/community interaction.
 
-**Weeks 5–8 — Oct 21–Nov 17**
+**Weeks 5–8**
 - [ ] Land/review contribution #2.
-- [ ] Build proposal outline from actual codebase knowledge.
-- [ ] Continue meaningful maintainer/community interaction.
+- [ ] Draft proposal from actual codebase understanding.
+- [ ] Keep contributing and interacting rather than disappearing until applications open.
 
-Google's contributor guidance explicitly recommends narrowing to 1–2 organizations, getting involved, filing bugs/patches, and talking with the organization rather than relying on a proposal alone. citeturn1search6
+## DEADLINE ALERTS — NEXT 30 DAYS
+
+### 🔴 27 Sep — MEA Internship Term II
+Official MEA timeline: application deadline **27 Sep 2026**. Current user eligibility is not established because the final-year-undergraduate exception requires the internship to be mandatory. Official timeline: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
+
+### 🔴 28 Sep — DRDO DMSRDE
+Official DRDO listing: paid internship for Engineering/Science UG & PG students; deadline **28 Sep 2026**. Exact discipline/year requirements must be checked in the advertisement. https://www.drdo.gov.in/drdo/offerings/vacancies
+
+### 🔴 11 Oct — DRDO CASDIC
+Official DRDO listing: BE/BTech and M.Sc paid internship; deadline **11 Oct 2026**. https://www.drdo.gov.in/drdo/offerings/vacancies
+
+### 🔴 15 Oct — OIST Spring 2027
+Official deadline **15 Oct 2026, 23:59 JST**. https://www.oist.jp/admissions/research-internship/apply-research-internship
 
 ## TODAY'S ACTION PLAN
 
-### 1. OIST — 60–90 min
-- [ ] Open OIST's current research-unit/project availability list.
-- [ ] Pick 3 AI/ML/data-science-adjacent units.
-- [ ] Record each unit's research area and project fit.
-- [ ] Update CV around ML, OSS, research and AgentGuard/project evidence.
-- [ ] Start a checklist of required application documents.
+### 1. OIST — 90 min — TOP PRIORITY
+- [ ] Select 3 research units/projects relevant to ML, AI, systems or data science.
+- [ ] Record project title + faculty + technical fit.
+- [ ] Adapt CV toward research rather than generic software placement language.
+- [ ] Build the application-document checklist.
+- [ ] Do not contact faculty for pre-approval; OIST directs applicants to the published project list/application process.
 
-OIST says applicants should use the published project list when selecting faculty interests and should **not contact faculty for approval before applying**. citeturn0search6
+### 2. DRDO DMSRDE — 45 min
+- [ ] Open the actual advertisement.
+- [ ] Verify AI&DS / semester / branch eligibility.
+- [ ] If eligible, prepare submission before 28 Sep.
 
-### 2. DRDO — 45–60 min
-- [ ] Open the current DMSRDE and SSPL advertisements.
-- [ ] Verify B.Tech AI & DS/academic-year eligibility.
-- [ ] If eligible, prepare and submit before the respective deadlines.
+### 3. Project NANDA — 45 min
+- [ ] Read the Early Career AI Fellow requirements.
+- [ ] Inspect NANDA/NEST architecture and public repositories.
+- [ ] Identify one small technical area where your agent/Open-source experience could become evidence.
+- [ ] Do **not** chase the fellowship application yet; there is no fixed next-cohort deadline published.
 
-### 3. Science Academies — 20–30 min
-- [ ] Do **not** spend time trying to manufacture a missing transcript/marksheet.
-- [ ] Prepare the research-interest statement and guide shortlist.
-- [ ] Contact the official SRFP support address to ask whether the latest currently-unissued semester marksheet can be supplied later or whether the latest officially available marksheet is acceptable.
-
-The official SRFP 2027 instructions require marksheets from Class X **through the last examination**, and the deadline is **30 Nov 2026**. citeturn0search8
-
-### 4. Kornia / GSoC — 60 min
-- [ ] Reproduce one issue locally.
-- [ ] Read related tests and PR discussion.
-- [ ] Do not open a PR until expected behavior is understood.
+### 4. GSoC/OSS — 45–60 min
+- [ ] Reproduce one real issue in the chosen ecosystem.
+- [ ] Read its tests and surrounding discussion.
+- [ ] Write down expected behavior before coding.
 
 ## ACCOUNTABILITY CHECK
 
-Yesterday's assigned targets:
+Yesterday's assigned targets remain:
 - [ ] Advance one application/deadline task.
 - [ ] Complete one meaningful OSS contribution step.
 - [ ] Produce one GSoC preparation artifact.
 
-If unfinished, use the recovery rule: **25 minutes on one blocked item only**. The goal is forward movement, not catch-up overload.
+If unfinished, recovery task: **25 minutes on one item only**. Do not attempt to catch up all three at once.
 
 ## IMPORTANT STATUS CORRECTIONS
 
-- **LLNL DSSI:** explicitly dropped from active tracking by the user; do not re-add automatically.
-- **UChicago DSI Summer Lab:** explicitly dropped from active tracking by the user; do not re-add automatically.
-- **Science Academies SRFP:** still potentially useful, but the user's current lack of the latest semester marksheet is a genuine application-document blocker. The official instructions require marksheets through the last examination. citeturn0search8
-- **ETH CS Summer Research Fellowship:** its official application requires an official academic transcript; treat this as a current document blocker for the user until they can obtain one. The next window opens at the beginning of Nov 2026. citeturn0search2
-- **OIST:** current Spring 2027 deadline and support are confirmed by official OIST sources. citeturn0search1turn1search7
+- **LLNL DSSI:** explicitly dropped from active targeting; do not re-add automatically.
+- **UChicago DSI Summer Lab:** explicitly dropped from active targeting; do not re-add automatically.
+- **SSPL 30 Sep:** no longer treated as confirmed because the current DRDO vacancy page does not show that listing; previous reports were based on stale/older evidence.
+- **Science Academies SRFP:** deadline and mark-sheet requirement confirmed; latest-semester-document blocker remains.
+- **ETH CS Summer Research Fellowship:** next window opens beginning Nov 2026; official transcript remains a blocker.
+- **NIST SURF:** researched but excluded from active targeting because of U.S.-citizenship/permanent-residency and U.S.-university enrollment requirements.
 
 ## SOURCES
 
-- DRDO vacancies: https://drdo.gov.in/drdo/offerings/vacancies
+- DRDO vacancies: https://www.drdo.gov.in/drdo/offerings/vacancies
 - OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- OIST project availability: https://www.oist.jp/admissions/research-internship/ri-faculty-project-availability
-- ETH CS Summer Research Fellowship: https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- MEA Internship: https://internship.mea.gov.in/internship
+- MEA Term II 2026 timeline: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
+- Project NANDA Early Career AI Fellow: https://careers.projectnanda.org/roles/early-career-fellow
+- ETH CS Summer Research Fellowship: https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html
+- NIST SURF: https://www.nist.gov/surf
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
-- GSoC contributor advice: https://developers.google.com/open-source/gsoc/help/student-advice
 
-> Automation: the GitHub Actions daily scout now uses GitHub Copilot CLI instead of the OpenAI API. The repository workflow requires a `COPILOT_GITHUB_TOKEN` Actions secret for this personal repository.
+> Automation: the GitHub Actions daily scout uses GitHub Copilot CLI instead of the OpenAI API. The repository workflow requires a `COPILOT_GITHUB_TOKEN` Actions secret for this personal repository.
