@@ -229,6 +229,8 @@
 
 ## Structural / Classification Notes
 
+- **DRDO programs:** explicitly excluded from active targeting by the user; retain historical/master records under the zero-deletion rule, but do not surface them in daily action dashboards unless the user explicitly restores them.
+
 - This is a **zero-deletion** register. Historical, inactive, watchlist, eligibility-gated and advanced-stage records are retained.
 - Duplicate/overlap flags should be handled by classification rather than deletion.
 - UN Millennium Fellowship #94 and #116 are one opportunity; retain both historically and classify #116 as a duplicate alias.
