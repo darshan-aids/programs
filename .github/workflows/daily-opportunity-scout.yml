@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  copilot-requests: write
 
 jobs:
   scout:
@@ -29,7 +28,7 @@ jobs:
 
       - name: Run daily research scout with GitHub Copilot
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
         run: |
           copilot -p 'You are the daily opportunity scout for this repository.
 
