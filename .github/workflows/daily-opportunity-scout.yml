@@ -1,10 +1,9 @@
 name: Daily Opportunity Scout
 
 on:
-  schedule:
-    # 09:45 Asia/Kolkata = 04:15 UTC.
-    - cron: "15 4 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "15 4 * * *"
 
 permissions:
   contents: write
@@ -28,62 +27,60 @@ jobs:
       - name: Run daily research scout with GitHub Copilot
         env:
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+          SCOUT_PROMPT: |
+            You are the daily opportunity scout for this repository.
+
+            Read these files first:
+            - MASTER_LIST.md
+            - SCOUT_RULES.md
+            - DAILY_DASHBOARD.md
+
+            Your job is to research CURRENT web information and update ONLY DAILY_DASHBOARD.md.
+
+            MISSION:
+            Maintain a zero-deletion opportunity tracker for an Indian B.Tech AI & Data Science student graduating in 2028. Research open-source, AI/ML research, government, internships, fellowships, student-community, hackathon and adjacent career opportunities.
+
+            NON-NEGOTIABLE:
+            1. Never delete or modify records in MASTER_LIST.md.
+            2. Distinguish genuinely NEW programs from duplicates, renamed programs, parent/child tracks, recurring programs, inactive/historical programs, eligibility-gated programs, and outreach strategies.
+            3. Never invent deadlines, eligibility, funding, India eligibility, mentors, projects, or participation history.
+            4. Prefer official program sources. For current claims, use current web research and include the official source URL.
+            5. Clearly label expected/recurring dates versus confirmed dates.
+            6. Keep the dashboard concise: report changes, upcoming deadlines, preparation milestones, and concrete actions—not the whole master database.
+            7. LLNL Data Science Summer Institute and UChicago DSI Summer Lab were explicitly dropped from active targeting. Do NOT re-add or recommend them unless the user explicitly restores them.
+            8. For GSoC, do not claim 2027 dates are official until Google publishes them. Use prior-cycle timing only as a clearly labeled planning assumption.
+            9. For OSS preparation, prioritize meaningful issues, tests, docs, bug fixes, reviews, discussions, community meetings and maintainer interaction over PR-count chasing.
+            10. Preserve accountability continuity from the existing DAILY_DASHBOARD.md.
+            11. Do not make political recommendations or rankings.
+            12. If a source cannot be verified, mark the fact UNVERIFIED / WATCH rather than guessing.
+
+            OUTPUT:
+            Rewrite DAILY_DASHBOARD.md with:
+            # Daily Opportunity Dashboard
+            ## Date
+            ## NEW PROGRAMS
+            ## CHANGES
+            ## UPCOMING 3 MONTHS
+            ## EARLY-PREP ALERTS
+            ## DEADLINE ALERTS
+            ## TODAY'S TODO
+            ## GSoC / OSS ACTION
+            ## ACCOUNTABILITY
+            ## SOURCES
+
+            NEW PROGRAMS must include: name, why genuinely new, eligibility, India eligibility, paid/unpaid if confirmed, likely 2027 cycle, deadline/window if known, relevance, and official source.
+
+            UPCOMING and DEADLINE sections should focus on the next 90 days and deadlines within 30 days.
+
+            TODAY'S TODO should contain 3-7 concrete tasks ordered by urgency. For contribution-based programs, give a progressive preparation task rather than generic "make PRs".
+
+            IMPORTANT:
+            - Read the existing dashboard before replacing it so completed/unfinished accountability items are preserved.
+            - Do not fabricate completion of user tasks.
+            - Keep existing historical context when it is still relevant, but remove stale daily prose that no longer belongs in today's dashboard.
+            - Write the final markdown directly to DAILY_DASHBOARD.md.
         run: |
-          cat > /tmp/scout-prompt.txt <<'PROMPT'
-You are the daily opportunity scout for this repository.
-
-Read these files first:
-- MASTER_LIST.md
-- SCOUT_RULES.md
-- DAILY_DASHBOARD.md
-
-Your job is to research CURRENT web information and update ONLY DAILY_DASHBOARD.md.
-
-MISSION:
-Maintain a zero-deletion opportunity tracker for an Indian B.Tech AI & Data Science student graduating in 2028. Research open-source, AI/ML research, government, internships, fellowships, student-community, hackathon and adjacent career opportunities.
-
-NON-NEGOTIABLE:
-1. Never delete or modify records in MASTER_LIST.md.
-2. Distinguish genuinely NEW programs from duplicates, renamed programs, parent/child tracks, recurring programs, inactive/historical programs, eligibility-gated programs, and outreach strategies.
-3. Never invent deadlines, eligibility, funding, India eligibility, mentors, projects, or participation history.
-4. Prefer official program sources. For current claims, use current web research and include the official source URL.
-5. Clearly label expected/recurring dates versus confirmed dates.
-6. Keep the dashboard concise: report changes, upcoming deadlines, preparation milestones, and concrete actions—not the whole master database.
-7. LLNL Data Science Summer Institute and UChicago DSI Summer Lab were explicitly dropped from active targeting. Do NOT re-add or recommend them unless the user explicitly restores them.
-8. For GSoC, do not claim 2027 dates are official until Google publishes them. Use prior-cycle timing only as a clearly labeled planning assumption.
-9. For OSS preparation, prioritize meaningful issues, tests, docs, bug fixes, reviews, discussions, community meetings and maintainer interaction over PR-count chasing.
-10. Preserve accountability continuity from the existing DAILY_DASHBOARD.md.
-11. Do not make political recommendations or rankings.
-12. If a source cannot be verified, mark the fact UNVERIFIED / WATCH rather than guessing.
-
-OUTPUT:
-Rewrite DAILY_DASHBOARD.md with:
-# Daily Opportunity Dashboard
-## Date
-## NEW PROGRAMS
-## CHANGES
-## UPCOMING 3 MONTHS
-## EARLY-PREP ALERTS
-## DEADLINE ALERTS
-## TODAY'S TODO
-## GSoC / OSS ACTION
-## ACCOUNTABILITY
-## SOURCES
-
-NEW PROGRAMS must include: name, why genuinely new, eligibility, India eligibility, paid/unpaid if confirmed, likely 2027 cycle, deadline/window if known, relevance, and official source.
-
-UPCOMING and DEADLINE sections should focus on the next 90 days and deadlines within 30 days.
-
-TODAY'S TODO should contain 3-7 concrete tasks ordered by urgency. For contribution-based programs, give a progressive preparation task rather than generic "make PRs".
-
-IMPORTANT:
-- Read the existing dashboard before replacing it so completed/unfinished accountability items are preserved.
-- Do not fabricate completion of user tasks.
-- Keep existing historical context when it is still relevant, but remove stale daily prose that no longer belongs in today's dashboard.
-- Write the final markdown directly to DAILY_DASHBOARD.md.
-PROMPT
-
-          copilot -p "$(cat /tmp/scout-prompt.txt)" -s --no-ask-user --allow-all-tools --allow-all-urls --deny-tool='shell' --deny-tool='write(MASTER_LIST.md)'
+          copilot -p "$SCOUT_PROMPT" -s --no-ask-user --allow-tool='read,write(DAILY_DASHBOARD.md),url' --allow-all-urls
 
       - name: Commit daily dashboard
         run: |
