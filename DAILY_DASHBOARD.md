@@ -107,11 +107,7 @@ Official source: https://developers.google.com/open-source/gsoc/timeline
 ### 🔴 27 Sep — MEA Internship Term II
 Official MEA timeline: application deadline **27 Sep 2026**. Current user eligibility is not established because the final-year-undergraduate exception requires the internship to be mandatory. Official timeline: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
 
-### 🔴 28 Sep — DRDO DMSRDE
-Official DRDO listing: paid internship for Engineering/Science UG & PG students; deadline **28 Sep 2026**. Exact discipline/year requirements must be checked in the advertisement. https://www.drdo.gov.in/drdo/offerings/vacancies
 
-### 🔴 11 Oct — DRDO CASDIC
-Official DRDO listing: BE/BTech and M.Sc paid internship; deadline **11 Oct 2026**. https://www.drdo.gov.in/drdo/offerings/vacancies
 
 ### 🔴 15 Oct — OIST Spring 2027
 Official deadline **15 Oct 2026, 23:59 JST**. https://www.oist.jp/admissions/research-internship/apply-research-internship
@@ -172,3 +168,8 @@ If unfinished, recovery task: **25 minutes on one item only**. Do not attempt to
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
 
 > Automation: the GitHub Actions daily scout uses GitHub Copilot CLI instead of the OpenAI API. The repository workflow requires a `COPILOT_GITHUB_TOKEN` Actions secret for this personal repository.
+
+
+## TARGETING EXCLUSION
+
+- **DRDO:** excluded from active targeting at the user's request. Historical/master records remain retained under the zero-deletion rule; do not surface DRDO opportunities in daily actions unless the user explicitly asks to restore them.
