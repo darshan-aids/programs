@@ -1,101 +1,87 @@
 # Daily Opportunity Dashboard
 
 ## Date
-24 September 2026 (Asia/Kolkata)
+25 September 2026 (Asia/Kolkata)
 
 ## NEW PROGRAMS
 
-### 1) Project NANDA / FAN Early Career AI Fellowship — HIGH FIT
-- Why genuinely new: this track was not in the active daily target set and is a distinct AI-agent infrastructure fellowship, not a duplicate of existing AI/ML research programs.
-- Eligibility: no years-of-experience requirement is stated on the current official role; the current Early Career track targets final-year students, bootcamp graduates, and self-taught builders; Git/GitHub and programming fundamentals are expected.
-- India eligibility: remote/global listing; not India-only.
-- Paid/unpaid: stipend-supported, contract-based, full-time or part-time with a minimum of 20 hours/week.
-- Likely 2027 cycle: UNVERIFIED / WATCH — no fixed 2027 cohort deadline is currently published on the official role page.
-- Deadline/window if known: next cohort not yet announced.
-- Relevance: very high for an AI & Data Science student working on AI agents, infrastructure, and open-source systems.
-- Official source: https://careers.projectnanda.org/roles/early-career-fellow
-
-### 2) MEA Internship Programme — RECURRING GOVERNMENT PATH, CURRENT TERM ELIGIBILITY-GATED
-- Why genuinely new: this is a recurring government opportunity, not a duplicate of a university internship; it remains relevant as a later-cycle track for India-focused public-sector exposure.
-- Eligibility: Indian citizens; completed graduate degree or a final-year undergraduate exception where the internship is mandatory; detailed term/age/state rules apply.
-- India eligibility: India-specific government internship; current cycle is open to eligible Indian citizens only.
-- Paid/unpaid: ₹10,000/month honorarium plus limited one-time travel reimbursement, as stated on official pages.
-- Likely 2027 cycle: recurring; treat as a later-cycle opportunity rather than a current target for an early B.Tech profile.
-- Deadline/window if known: Term II 2026-27 closes 27 September 2026; current cycle is not a clean fit for a student graduating in 2028.
-- Relevance: medium but useful as a future government/public-policy internship track; lower current relevance than OIST or research internship options.
-- Official source: https://internship.mea.gov.in/internship
+**No additional genuinely new program verified today.** Project NANDA / FAN Early Career AI Fellowship and the MEA Internship Programme were already introduced in the prior dashboard and remain active carry-forward watches. LLNL DSSI and UChicago DSI Summer Lab remain dropped from active targeting.
 
 ## CHANGES
 
-- OIST Research Internship (Spring 2027): still active, with a confirmed application deadline of 15 October 2026, 23:59 JST; application materials are explicitly aligned to research-fit and university approval requirements.
-- Science Academies Summer Research Fellowship Programme (SRFP) 2027: application deadline remains 30 November 2026; the official application instructions still require mark sheets from Class X through the latest examination.
-- MEA Internship Programme: current Term II 2026-27 window is the immediate public-sector deadline; do not treat it as a current fit unless the user meets the final-year/mandatory-internship exception.
-- GSoC 2027: no confirmed 2027 contributor schedule has been published by Google; use the current official 2026 timeline only as a planning assumption, not as an official 2027 date.
+- **MEA Internship Programme:** Term II 2026-27 application deadline is **27 September 2026**. Official eligibility is limited to Indian citizens who have completed a bachelor's degree, or final-year undergraduates whose internship is mandatory; term/state/age rules also apply. The current cycle is therefore eligibility-gated for a student graduating in 2028 unless the mandatory-internship exception applies. The official timeline and programme pages state a ₹10,000/month honorarium and limited travel reimbursement.
+  Source: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II and https://internship.mea.gov.in/internship
+- **OIST Research Internship, Spring 2027:** official deadline remains **15 October 2026, 23:59 JST**; the internship period is 1 April–30 September 2027. Applicants must be in the last two years of a bachelor's degree by the proposed internship, or meet the stated master's/recent-graduate rules, and currently enrolled students need home-institution approval.
+  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- **Science Academies SRFP 2027:** official online deadline remains **30 November 2026**. BE/BTech students in years II–III are eligible under the listed categories, subject to the 65% core-subject average and other rules. Class X through latest-exam mark sheets and a present-teacher contact are required.
+  Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **GSoC 2027:** no official 2027 schedule is published. The official 2026 timeline and general timing are planning references only; do not present them as 2027 dates.
+  Source: https://developers.google.com/open-source/gsoc/timeline
+- **Project NANDA / FAN Early Career AI Fellowship:** no fixed 2027 cohort deadline was found on the official listing; retain as **UNVERIFIED / WATCH**.
+  Source: https://careers.projectnanda.org/roles/early-career-fellow
 
 ## UPCOMING 3 MONTHS
 
-- OIST Research Internship (Spring 2027) — deadline 15 October 2026 — best-fit current research application for a student in AI/ML/systems/data science.
-- Science Academies SRFP 2027 — deadline 30 November 2026 — strong fit for research exposure, but the latest mark-sheet requirement is still a blocker if not ready.
-- Project NANDA / FAN Early Career AI Fellowship — next cohort UNVERIFIED / WATCH — relevant for AI-agent/open-source infrastructure work.
-- MEA Internship Programme — immediate government internship, current-term eligibility-gated; treat as a later-cycle or backup option rather than a present fit.
-- GSoC 2027 — planning assumption only until Google publishes the 2027 schedule.
+- **27 Sep 2026 — MEA Term II 2026-27:** deadline within 30 days; apply only if the official eligibility exception genuinely fits.
+- **15 Oct 2026 — OIST Spring 2027:** strongest immediate international research target; complete the application and recommendation workflow before the JST cutoff.
+- **30 Nov 2026 — Science Academies SRFP 2027:** India-based research fellowship; document preparation is the main near-term blocker.
+- **Project NANDA / FAN:** next cohort date **UNVERIFIED / WATCH**; relevant to AI-agent and open-source infrastructure work, but no fixed 2027 deadline is official.
+- **GSoC 2027:** expected planning window is January–June based on Google's general timing, not a confirmed schedule.
 
 ## EARLY-PREP ALERTS
 
-### GSoC 2027 — START NOW, BUT DO NOT TREAT ANY 2027 DATE AS OFFICIAL
-- Official current source (2026 timeline): https://developers.google.com/open-source/gsoc/timeline
-- Latest official language states that mentoring org applications open in January, org acceptance is announced in February, contributor discussion and proposals happen in March, and coding begins in June. This is the current official pattern and should be used as a planning assumption for 2027 only.
-- Action: build one primary OSS area and one backup area early; focus on maintainers, issue discussions, and code understanding rather than quick PR padding.
+### GSoC 2027
+- Start maintainer-facing preparation now: select one primary project and one backup, read contribution guides, attend community discussions where available, and understand a real issue end-to-end.
+- Use Google's current general timing only as a planning assumption: organization outreach in January–February, contributor proposals in March–April, and coding around June.
+  Source: https://developers.google.com/open-source/gsoc/timeline
 
-### OIST Research Internship — APPLICATION WINDOW IS LIVE
-- Official source: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- Eligibility: current students in their last two years of a bachelor’s degree, master’s students, or recent graduates are eligible, subject to host-unit fit and institutional approval.
-- Action: shortlist 3 OIST units aligned to ML, AI, data science, or systems work; prepare a research-focused CV and project-fit summary.
+### OIST Spring 2027
+- Shortlist three host units whose published work matches AI/ML/data science or systems interests; prepare a research-fit paragraph and identify a recommender.
+- Confirm home-institution approval requirements before submission.
+  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
 
-### Science Academies SRFP 2027 — MARK-SHEET PREP REQUIRED
-- Official source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- The application requires mark sheets from Class X to the last examination; this is a genuine document blocker if the latest semester result is not yet available.
-- Action: confirm whether the latest mark sheet can be uploaded before writing the application.
+### Science Academies SRFP 2027
+- Scan and size all Class X through latest-exam mark sheets as required; identify one present teacher whose contact details can be supplied.
+- Draft the required 150–250-word specific research-interest statement; do not use a generic field description.
+  Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 
 ## DEADLINE ALERTS
 
-- 27 September 2026 — MEA Internship Programme, Term II 2026-27
-  - Official source: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
-  - Current user fit: UNVERIFIED / likely not a clean fit unless the user qualifies under the official internship-mandatory exception.
-
-- 15 October 2026 — OIST Research Internship (Spring 2027)
-  - Official source: https://www.oist.jp/admissions/research-internship/apply-research-internship
-  - Current user fit: strong if the user can build a research-aligned application before the deadline.
+- **27 September 2026:** MEA Internship Programme, Term II 2026-27 — eligibility-gated; do not fabricate eligibility or submit unless the official rules fit.
+  Source: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
+- **15 October 2026:** OIST Research Internship, Spring 2027 — deadline 23:59 JST; recommendation letters and all materials must be complete in the portal.
+  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
 
 ## TODAY'S TODO
-1. Complete a 60-minute OIST task: identify 3 research units and map them to the user’s AI/ML/data-science strengths.
-2. Check the MEA official eligibility rules and decide whether the current term is a real fit or a later-cycle track; record the outcome in the dashboard.
-3. Pick one OSS project in a data-science or AI-adjacent ecosystem and read the contributor guide plus one issue thread before coding.
-4. Draft a GSoC 2027 shortlist with one primary OSS area and one backup area, based on real project fit rather than broad buzz.
-5. Prepare the SRFP mark-sheet checklist and confirm whether the latest exam result is available for upload.
+
+1. Make the MEA eligibility decision from the official rules and record **eligible / not eligible / needs clarification**; do not treat an unverified assumption as completion.
+2. Create the OIST shortlist of three host units and map one concrete project or skill to each.
+3. Check whether every SRFP mark sheet from Class X through the latest examination is available and within the upload-size requirement.
+4. Draft the OIST research-fit paragraph and identify a recommender; do not submit until institutional approval requirements are clear.
+5. Choose one OSS project for GSoC preparation, read its contribution guide, and investigate one real issue or failing test before changing code.
 
 ## GSoC / OSS ACTION
 
-- Primary goal: choose one real OSS project with meaningful contribution potential, not a PR-count chase.
-- This week’s action: reproduce one real issue or failing test in the selected project, read the surrounding code and discussion, and write down the expected behavior before patching.
-- Do not treat “small PR volume” as the success metric. Prefer: issue triage, tests, docs, bug fixes, code review, maintainer interaction, and a project understanding that can become a GSoC proposal.
-- Keep a short log of: project, issue, discussion, maintainer response, and what the user learned.
+- **Progressive task:** reproduce one substantive issue or failing test in the selected project, read the surrounding implementation and discussion, then write a minimal test or documentation clarification that captures expected behavior. If the issue is not yet ready for a patch, leave a precise maintainer-facing analysis or question instead.
+- Track project, issue/discussion URL, reproduction result, maintainer interaction, and next step. Measure progress by understanding, tests, fixes, docs, reviews, and community participation—not PR count.
 
 ## ACCOUNTABILITY
 
-Carry forward the work that still matters:
+Carry forward without claiming completion:
+
 - [ ] OIST research-unit shortlist and application fit check
 - [ ] MEA current-term eligibility check and decision record
 - [ ] One meaningful OSS issue investigation and patch/test sketch
 - [ ] GSoC 2027 project shortlist with a primary and backup track
 - [ ] SRFP marksheet / document blocker check
 
-Do not mark these as complete unless the user has actually done them. Keep today’s work narrow and actionable rather than attempting to catch up on every pending item at once.
+Only mark an item complete after the user has actually done it. Keep Project NANDA / FAN as a watch item; no fixed next-cohort deadline is confirmed.
 
 ## SOURCES
-- Project NANDA Early Career AI Fellowship: https://careers.projectnanda.org/roles/early-career-fellow
+
+- OIST Research Internship application and eligibility: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- Science Academies SRFP 2027 instructions: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 - MEA Internship Programme: https://internship.mea.gov.in/internship
 - MEA Term II 2026 timeline: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
-- OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
+- GSoC timeline and general timing: https://developers.google.com/open-source/gsoc/timeline
+- Project NANDA / FAN Early Career Fellowship: https://careers.projectnanda.org/roles/early-career-fellow
