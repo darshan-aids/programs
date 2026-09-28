@@ -2,9 +2,6 @@ name: Daily Opportunity Scout
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "SCOUT_TEST_TRIGGER.md"
   schedule:
     - cron: "15 4 * * *"
 
