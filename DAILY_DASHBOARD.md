@@ -2,115 +2,116 @@
 
 ## Date
 
-28 September 2026 (Asia/Kolkata)
+29 September 2026 (Asia/Kolkata)
 
 ## NEW PROGRAMS
 
 - **Program:** Allen Institute for AI (Ai2) Research Internships
-- **Why genuinely new:** `MASTER_LIST.md` contains the Allen Institute for AI Young Investigator Program, but not Ai2's separate full-time student research-internship route. It has its own internship eligibility, mentor pairing, application route, pay, and visa information.
+- **Why genuinely new:** The master list has Ai2's Young Investigator Program, not Ai2's separate student research-internship route with its own roles, mentor pairing, and application process.
 - **Organizer:** Allen Institute for AI (Ai2)
-- **Eligibility:** Undergraduate or graduate students in AI-related fields; full-time research internship. Ai2 says interns are paired with a mentor and participate directly in its research.
-- **India eligibility:** International candidates are explicitly welcome; visa sponsorship is available. This establishes that Indian applicants may apply, but does not guarantee sponsorship or selection.
-- **Fee:** No application fee is stated on the official internship page; verify the live role/application page before applying.
-- **Paid/unpaid/funding:** Paid; Ai2 describes compensation as competitive. Exact amount and benefits vary by role.
-- **2027 status:** expected-recurring — the official page says applications are accepted year-round; no dedicated 2027 cohort or dates are published.
-- **Deadline/window:** Year-round; individual roles may close when filled.
-- **Relevance:** High fit for AI/ML research and an AI & Data Science undergraduate, subject to the role's location, year-of-study, and technical requirements.
+- **Eligibility:** Undergraduate and graduate students in AI-related fields; role-specific requirements apply.
+- **India eligibility:** International candidates are welcome; visa support is described, but sponsorship and role location must be checked per posting.
+- **Fee:** No application fee stated; verify the live role.
+- **Paid/unpaid/funding:** Paid; exact compensation varies by role.
+- **2027 status:** expected-recurring — applications are accepted year-round; no dedicated 2027 cohort is published.
+- **Deadline/window:** Year-round; roles can close when filled.
+- **Relevance:** High fit for AI/ML research and an AI & Data Science undergraduate, subject to year, location, and technical requirements.
 - **Official source URL:** https://allenai.org/internships
 
-**Search coverage:** 30+ plausible candidates were checked across open source/contributor programs (GSoC, LFX, Outreachy, CNCF, Apache, Python/Jupyter, university OSS programs), AI/ML/data research, Indian government and public institutes (MeitY, DST/CSIR/ISTI, IISc, IITs, IISERs), global university/industry internships, fellowships, and student hackathons/competitions. Discovery indexes and GitHub lists were used only to find candidates; surviving claims above were verified on the official organizer page. The remaining candidates were already in the master list, aliases/parent tracks, not open to an Indian undergraduate, fee-unclear, or unsupported by a current official program page. DRDO, LLNL DSSI, UChicago DSI Summer Lab, and OIST remain excluded from active new-targeting.
+- **Program:** Internship and Research Immersion in Singapore (IRIS)@NUS
+- **Why genuinely new:** No IRIS@NUS record or alias is present in the master list; it is a distinct NUS Graduate School research-immersion program, not a generic direct-professor route.
+- **Organizer:** NUS Graduate School, National University of Singapore
+- **Eligibility:** Exceptional undergraduate and master's students from all fields; research-group and programme requirements apply.
+- **India eligibility:** The official page explicitly welcomes students from ASEAN and around the world, which includes Indian applicants; selection and travel/immigration conditions still apply.
+- **Fee:** No application fee stated on the official page; recheck the next call.
+- **Paid/unpaid/funding:** Fully funded according to the official programme description; package details for the next call are not yet republished.
+- **2027 status:** expected-recurring — the official page says the next application is at the end of December 2026.
+- **Deadline/window:** Current cycle closed 28 August 2026; next application expected end December 2026 (exact date not published).
+- **Relevance:** Strong AI/data/research fit if the next call includes a suitable NUS lab and the user's academic record meets its selection standard.
+- **Official source URL:** https://cde.nus.edu.sg/graduate/iris-nus/
+
+**Search coverage:** 40+ plausible candidates were checked across OSS/contributor programmes (GSoC, LFX, Outreachy, CNCF, Apache, Python/Jupyter, Mozilla and university OSS), AI/ML/data research, Indian government/public institutes (MeitY, DST, CSIR, ISRO, IISc/IIT/IISER and MoSPI), global university/industry internships, fellowships, student communities, hackathons and competitions. Discovery aggregators and GitHub lists were used only to find candidates; current claims above were checked against official organizer pages. Candidates not added were already in the master list, aliases/parent tracks, fee-based, eligibility-gated, deadline-passed without a current route, or lacked sufficient official evidence. DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST remain excluded from active new-targeting.
 
 ## CHANGES
 
-- **MEA Internship Programme, Term II 2026-27:** the 27 September 2026 deadline has passed. Keep it historical/eligibility-gated; do not claim an application or treat it as an active task.
-  Source: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
-- **Outreachy December 2026:** the initial application deadline has passed. The 5 October–2 November contribution period applies only to applicants already admitted to project selection.
-  Source: https://www.outreachy.org/apply/project-selection/
-- **24 Pull Requests 2026:** the official site lists a 1 December start. Treat it as a recurring OSS activity, not a new program or a reason to chase low-value PR counts.
-  Source: https://24pullrequests.com/
-- **GSoC 2027:** 2027 dates are not yet officially published. The 2026 timeline may be used only as a labeled planning assumption.
-  Source: https://developers.google.com/open-source/gsoc/timeline
+- **RBC Borealis Winter 2027 ML Researcher Internship:** official deadline was 28 September 2026 and is now passed. It is also graduate-focused and therefore not an active fit for this user. Source: https://rbcborealis.com/program-applications/winter-2027-ml-researcher-internship/
+- **NUS IRIS@NUS:** current application is closed; the official page now says the next application is expected at the end of December 2026. Track it as the new programme above. Source: https://nusgs.nus.edu.sg/page/irisnus/
+- **MBZUAI UGRIP:** researched as a possible new AI undergraduate programme, but excluded from active targeting because the official application instructions require an AED 200 application fee after screening. Source: https://mbzuai.ac.ae/academics/pathway-programs/undergraduate-research-internship
+- **MSRA Stars of Tomorrow:** official page confirms a recurring global research internship, but the master list's broad “Microsoft Research AI/ML Opportunities” record makes this a possible child-track duplicate rather than a new record. Watch the role-specific page for a separate application route and eligibility. Source: https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-stars-of-tomorrow-internship-program/
+- **GSoC 2027:** 2027 dates are not yet officially published. Use 2026 dates only as a labelled planning assumption. Source: https://developers.google.com/open-source/gsoc/timeline
+- **Outreachy December 2026:** the initial application deadline has passed; the contribution period is only for applicants already admitted to project selection. Source: https://www.outreachy.org/apply/project-selection/
 
 ## UPCOMING 3 MONTHS
 
-- **15 October 2026:** OIST Research Internship, Spring 2027 application deadline, 23:59 JST; placement period 1 April–30 September 2027. Current students need home-institution approval.
-  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- **5 October–2 November 2026:** Outreachy December 2026 contribution period, only for applicants already admitted to project selection.
-  Source: https://www.outreachy.org/apply/project-selection/
-- **30 November 2026:** Science Academies SRFP 2027 online application deadline. BE/BTech years II–III are listed among eligible categories, subject to the published academic criteria.
-  Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **1–24 December 2026:** 24 Pull Requests 2026 recurring event; prioritize useful issue analysis, tests, documentation, reviews, or maintainer communication.
-  Source: https://24pullrequests.com/
-- **31 December 2026:** Social Winter of Code Season 7 registration deadline; coding runs 1 January–30 March 2027. Free and open to anyone according to the official site.
-  Source: https://www.swoc.in/
+- **15 October 2026:** OIST Spring 2027 research-internship application deadline, 23:59 JST; active targeting remains excluded by the user's fee filter. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- **30 November 2026:** Science Academies SRFP 2027 application deadline; BE/BTech years II–III appear in the official eligibility instructions, subject to the full academic criteria. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **End December 2026:** NUS IRIS@NUS next application window is expected; exact date and next-call package are not yet published. Source: https://nusgs.nus.edu.sg/page/irisnus/
+- **1–24 December 2026:** 24 Pull Requests recurring OSS event; prioritize useful issue analysis, tests, documentation, reviews, or maintainer communication. Source: https://24pullrequests.com/
+- **31 December 2026:** Social Winter of Code Season 7 registration deadline; coding runs 1 January–30 March 2027. Source: https://www.swoc.in/
 
 ## EARLY-PREP ALERTS
 
-### Ai2 Research Internship
+### NUS IRIS@NUS
 
-- Monitor year-round openings and shortlist roles whose research area, location, and student requirements fit.
-- Prepare a research-focused CV, GitHub/project evidence, and a concise explanation of one AI/ML project; do not claim eligibility for a specific role until its posting is checked.
-  Source: https://allenai.org/internships
-
-### OIST Spring 2027
-
-- Shortlist three AI/ML, data-science, or systems host units; draft a specific fit paragraph and identify a recommender.
-- Confirm home-institution approval requirements before submission.
-  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- Monitor the official page from late December and prepare a research CV, transcript, and a short AI/data-science fit statement.
+- Identify two or three NUS research areas or labs only after the next call publishes its project information; do not assume a placement.
+- Source: https://nusgs.nus.edu.sg/page/irisnus/
 
 ### Science Academies SRFP 2027
 
-- Confirm current B.Tech year and the 65% core-subject average against the official criteria.
-- Scan Class X through latest-exam mark sheets as JPEGs at or below 700 KB; identify a teacher and draft the required original 150–250-word statement.
-  Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- Confirm current B.Tech year and the official marks/subject requirements.
+- Prepare readable mark sheets and identify a teacher for the required statement/recommendation process.
+- Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 
-### GSoC / OSS / SWoC
+### Ai2 / GSoC / OSS
 
-- Choose one primary and one backup project; read contribution guides, issue trackers, test setup, and recent maintainer discussions.
-- Build one substantive issue investigation or test/documentation improvement over the next 8–12 weeks. GSoC 2027 timing remains **UNVERIFIED / WATCH**.
-  Sources: https://developers.google.com/open-source/gsoc/timeline and https://www.swoc.in/
+- For Ai2, shortlist only live roles whose year-of-study, location, visa and technical requirements fit.
+- For GSoC, choose one primary and one backup project, read contribution guides and issue trackers, and build one substantive test, documentation improvement, reproduction, or focused fix. **2027 dates not yet officially published.**
+- Sources: https://allenai.org/internships and https://developers.google.com/open-source/gsoc/timeline
 
 ## DEADLINE ALERTS
 
-- **15 October 2026:** OIST Research Internship, Spring 2027 — 23:59 JST. Allow time for recommendation and institutional approval requirements.
-  Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- **15 October 2026:** OIST Spring 2027 research internship, 23:59 JST. It is excluded from active targeting because of the user's application-fee rule. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
 
-**No other confirmed deadline within the next 30 days was verified from the official sources checked.**
+**No other confirmed active-target deadline within the next 30 days was verified from official sources.**
 
 ## TODAY'S TODO
 
-1. Check Ai2's live internship roles and record only roles whose year-of-study, location, visa, and technical requirements fit.
-2. Build the OIST shortlist of three host units and record the approval/recommender blocker, without claiming submission.
-3. Verify Science Academies marksheet eligibility and file-size readiness.
-4. Select one OSS project, reproduce one substantive issue or failing test, and record the evidence before editing.
-5. Prepare one research-oriented CV/project summary usable for Ai2 and future 2027 research applications.
-6. Mark the MEA Term II deadline as passed in working notes; do not carry it as an active application task.
+1. Check Ai2's live roles and record only positions compatible with undergraduate status, location, visa, and AI/ML background.
+2. Create a NUS IRIS@NUS preparation folder with CV, transcript, project list, and a draft research-fit paragraph; do not claim an application.
+3. Verify Science Academies SRFP marks and document requirements against the official 2027 instructions.
+4. Select one OSS project, reproduce one substantive issue or failing test, and record the evidence and maintainer discussion.
+5. Prepare one concise research-CV/project summary usable for Ai2, NUS, and later 2027 research applications.
+6. Remove passed RBC and MEA deadlines from active task lists while retaining them as historical records.
 
 ## GSoC / OSS ACTION
 
-For the selected project, reproduce one real issue or failing test, read the relevant implementation and maintainer discussion, then make a minimal regression-test, documentation, review, or focused-fix plan. Record the issue URL, reproduction result, evidence, and next step. Progress is measured by understanding and useful collaboration, not PR count.
+Select one project from the primary/backup shortlist. Read its contribution guide and relevant implementation, reproduce one real issue or failing test, and record the issue URL, environment, evidence, and a focused next step. Prefer a regression test, documentation correction, review, or small fix over multiple low-value PRs.
 
 ## ACCOUNTABILITY
 
 Carry forward without claiming completion:
 
-- [ ] OIST research-unit shortlist and application fit check
-- [ ] OIST approval/recommender readiness check
+- [ ] OIST research-unit shortlist and approval/recommender check (fee-excluded; do not submit)
 - [ ] One meaningful OSS issue investigation and patch/test sketch
 - [ ] GSoC 2027 primary and backup project shortlist
-- [ ] Science Academies marksheet and document blocker check
+- [ ] Science Academies marksheet and document-readiness check
 - [ ] Ai2 role-fit check and research-CV preparation
+- [ ] NUS IRIS@NUS preparation for the expected late-December next call
 
-The MEA Term II 2026-27 deadline is passed and remains historical/eligibility-gated. Project NANDA / FAN remains **UNVERIFIED / WATCH** because no fixed next-cohort deadline is published. No prior task is marked complete.
+RBC Winter 2027's deadline has passed and is not an active task. MEA Term II 2026-27 remains historical/eligibility-gated. No prior task is marked complete.
 
 ## SOURCES
 
 - Ai2 Research Internships: https://allenai.org/internships
-- OIST Research Internship application and eligibility: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- Science Academies SRFP 2027 instructions: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- Outreachy December 2026 project selection: https://www.outreachy.org/apply/project-selection/
+- NUS IRIS@NUS: https://cde.nus.edu.sg/graduate/iris-nus/
+- NUS next-application notice: https://nusgs.nus.edu.sg/page/irisnus/
+- RBC Borealis Winter 2027 ML Researcher Internship: https://rbcborealis.com/program-applications/winter-2027-ml-researcher-internship/
+- MBZUAI UGRIP application page: https://mbzuai.ac.ae/academics/pathway-programs/undergraduate-research-internship
+- MSRA Stars of Tomorrow: https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-stars-of-tomorrow-internship-program/
+- OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- Outreachy project selection: https://www.outreachy.org/apply/project-selection/
 - 24 Pull Requests: https://24pullrequests.com/
 - Social Winter of Code Season 7: https://www.swoc.in/
-- GSoC official timeline: https://developers.google.com/open-source/gsoc/timeline
-- MEA Term II 2026 timeline: https://internship.mea.gov.in/Timeline_Intern_Prog_2026_Term_II
-- Project NANDA / FAN Early Career Fellowship: https://careers.projectnanda.org/roles/early-career-fellow
+- GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
