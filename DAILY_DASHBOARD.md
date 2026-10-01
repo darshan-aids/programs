@@ -2,125 +2,100 @@
 
 ## Date
 
-30 September 2026 (Asia/Kolkata)
+1 October 2026 (Asia/Kolkata)
 
 ## NEW PROGRAMS
 
-- **Program:** Centre for Networked Intelligence (CNI), IISc Research Intern
-- **Why genuinely new:** The master list has IISc's general Summer Research Fellowship, but not this separate CNI call, application route, systems/ML infrastructure scope, and paid full-time placement.
-- **Organizer:** Centre for Networked Intelligence, Indian Institute of Science
-- **Eligibility:** Undergraduate or graduate students in CS, Electrical Communication, or related engineering; Linux/Unix, C/C++, Python, data structures, networks, architecture, and quantitative skills are required. Evidence of projects, GitHub, OSS work, or publications is expected.
-- **India eligibility:** The internship is in-person at IISc Bengaluru and the official page does not impose a foreign-national restriction; citizenship should be confirmed before applying.
-- **Fee:** No application fee stated.
-- **Paid/unpaid/funding:** Paid; amount not published.
-- **2027 status:** expected-recurring — the official page says no Autumn 2026 interns and to check again for Spring/Summer 2027.
-- **Deadline/window:** Spring/Summer 2027 dates not published.
-- **Relevance:** High only if the user is willing to build systems/networking depth, not merely ML applications.
-- **Official source URL:** https://cni.iisc.ac.in/opportunities/research-intern/
-
-- **Program:** IIT Bombay Research Internship Award (RIA)
-- **Why genuinely new:** The master list includes IIT Bombay's summer fellowship, but RIA is a distinct four-to-six-month, project-specific, paid research route with its own application and selection timeline.
-- **Organizer:** Indian Institute of Technology Bombay, IRCC
-- **Eligibility:** External students apply to listed research projects; project-specific academic and skills requirements apply.
-- **India eligibility:** Indian applicants are eligible under the published external-student route; exact project requirements must be checked.
-- **Fee:** No application fee stated.
-- **Paid/unpaid/funding:** Paid fixed stipend of ₹15,000/month; accommodation is subject to availability and applicable charges.
-- **2027 status:** expected-recurring — the 2026 call schedules joining from December 2026–January 2027; no later cycle is published.
-- **Deadline/window:** 2026 application deadline extended to 29 September 2026 and is now passed; next cycle is not published.
-- **Relevance:** Strong research fit, but current B.Tech year and project-specific eligibility may gate participation.
-- **Official source URL:** https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
-
-- **Program:** Google DeepMind Student Researcher Program
-- **Why genuinely new:** The master list has Google AI Residency and other Google/industry pathways, but not this separate degree-level Student Researcher application route, which considers BS, MS, and PhD candidates across Google AI teams.
-- **Organizer:** Google DeepMind / Google Research
-- **Eligibility:** Enrolled BS, MS, or PhD students; applications are organized by degree level, location, and live role requirements.
-- **India eligibility:** Not established by the current official page; do not target unless a live India-eligible role and work-authorization terms appear.
-- **Fee:** No application fee stated.
-- **Paid/unpaid/funding:** Compensation is role-specific; the programme page does not publish a universal stipend.
-- **2027 status:** unknown — the page currently still labels the 2025–2026 cycle.
-- **Deadline/window:** Live roles appear on Google Careers and may close on a rolling basis; no 2027 window is published.
-- **Relevance:** High AI/ML research relevance, but location, year-of-study, and authorization are unresolved.
-- **Official source URL:** https://deepmind.google/student-researcher-program/
+- **Program:** OpenAI Student Collective (Campus Lead Program)
+- **Why genuinely new:** The master list contains Postman, Microsoft, GitHub, GDG, Claude Campus Ambassador, and other student-community records, but not this separate OpenAI campus-lead program with its own application route, cohort, and AI-community work.
+- **Organizer:** OpenAI
+- **Eligibility:** Undergraduate students, age 18+, with expected graduation after December 2027; cohort and country requirements apply.
+- **India eligibility:** India was listed among countries whose 2026–27 applications are closed. A future India intake is not confirmed; do not treat this as currently open.
+- **Fee:** No application fee stated on the official program materials reviewed.
+- **Paid/unpaid/funding:** Program resources, training, and community benefits are described; any stipend or event-support amount is not published as a universal current figure.
+- **2027 status:** unknown — the 2026–27 cohort is the latest identified cycle and no next India call is published.
+- **Deadline/window:** 2026–27 applications closed for India; next window unknown.
+- **Relevance:** Potentially relevant for an AI-focused undergraduate who wants substantive campus technical/community work, but it is not an immediate application target.
+- **Official source URL:** https://openai.com/student-collective/
 
 ## CHANGES
 
-- **IIT Bombay RIA:** 2026 applications closed at 5:30 PM on 29 September; shortlisted candidates are scheduled for 13 October, interviews for 26 October–5 November, results by 10 December, and joining from 21 December–20 January. Source: https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
-- **CNI IISc:** Autumn 2026 intake is explicitly not taking interns; Spring/Summer 2027 should be monitored rather than treated as open. Source: https://cni.iisc.ac.in/opportunities/research-intern/
-- **NUS IRIS@NUS:** current cycle is closed; the official notice points to the next application around the end of December 2026, with exact details pending. Source: https://nusgs.nus.edu.sg/page/irisnus/
-- **RBC Borealis Winter 2027:** 28 September deadline has passed and the graduate-focused role is not an active undergraduate target. Source: https://rbcborealis.com/program-applications/winter-2027-ml-researcher-internship/
-- **MBZUAI UGRIP:** excluded from active targeting because the official application instructions require an AED 200 fee after screening. Source: https://mbzuai.ac.ae/academics/pathway-programs/undergraduate-research-internship
-- **GSoC 2027:** 2027 dates are not yet officially published. The official page gives only general timing; use 2026 dates strictly as a labelled planning assumption. Source: https://developers.google.com/open-source/gsoc/timeline
+- **NVIDIA Graduate Fellowship 2027–28:** Applications opened 30 September and close 30 October 2026, including recommendation letters. This is a doctoral fellowship requiring completion of the first PhD year, so it is recorded as an eligibility-gated watch item, not an active target. Source: https://research.nvidia.com/graduate-fellowships
+- **Science Academies SRFP 2027:** The official application deadline remains 30 November 2026; verify the user's year-of-study, marks, subject, and recommendation requirements before treating it as viable. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **KAIST Visual AI Group internship:** The Summer 2026 call is closed; the official page says Winter 2026–27 recruiting is expected to begin in mid-October. Students enrolled outside Korea may apply but cannot receive payment under the stated administrative restriction. Source: https://visualai.kaist.ac.kr/internship/
+- **AI Singapore AI Internship Programme:** Batch 8 is closed; the official page lists the 5–30 January 2026 application period and 11 May–31 July 2026 internship dates. No 2027 call is published. Source: https://aiap.sg/internship/
+- **GSoC 2027:** 2027 official dates are not yet officially published. The 2026 timeline may be used only as a clearly labelled planning assumption. Source: https://developers.google.com/open-source/gsoc/timeline
+- **CNI IISc:** Autumn 2026 is not taking interns; Spring/Summer 2027 remains a monitor item without published dates. Source: https://cni.iisc.ac.in/opportunities/research-intern/
 
 ## UPCOMING 3 MONTHS
 
-- **30 November 2026:** Science Academies SRFP 2027 application deadline; verify B.Tech year, marks, subject, and recommendation requirements. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **1–24 December 2026:** 24 Pull Requests recurring OSS event; pursue useful issue analysis, tests, documentation, reviews, or maintainer communication. Source: https://24pullrequests.com/
-- **31 December 2026:** Social Winter of Code Season 7 registration deadline; coding runs 1 January–30 March 2027. Source: https://www.swoc.in/
-- **End December 2026:** NUS IRIS@NUS next application is expected; exact date and funding package are not published. Source: https://nusgs.nus.edu.sg/page/irisnus/
-- **Spring/Summer 2027:** CNI IISc may reopen applications; no date or project list is published yet. Source: https://cni.iisc.ac.in/opportunities/research-intern/
+- **October 2026:** Monitor the KAIST Visual AI Group page for the Winter 2026–27 call; do not assume international payment. Source: https://visualai.kaist.ac.kr/internship/
+- **30 November 2026:** Science Academies SRFP 2027 deadline, subject to eligibility and recommendation requirements. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **1–24 December 2026:** 24 Pull Requests recurring OSS event; prioritize useful issue analysis, tests, documentation, reviews, or maintainer discussion. Source: https://24pullrequests.com/
+- **31 December 2026:** Social Winter of Code Season 7 registration closes; coding runs 1 January–30 March 2027. Source: https://www.swoc.in/
+- **End December 2026:** NUS IRIS@NUS next application is expected; exact date, eligibility, and funding are not yet published. Source: https://nusgs.nus.edu.sg/page/irisnus/
 
 ## EARLY-PREP ALERTS
 
 ### Science Academies SRFP 2027
 
-- Confirm current year of study and marks against the official instructions.
-- Assemble marksheets, CV, and the required teacher/recommender material before November.
+- Check year-of-study and marks first; assemble transcript, CV, and recommender material before November.
 - Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 
-### NUS IRIS@NUS
+### GSoC / LFX / OSS
 
-- Prepare transcript, research CV, and a short AI/data-science fit statement.
-- Do not assume a lab, funding package, or eligibility until the next call publishes them.
-- Source: https://nusgs.nus.edu.sg/page/irisnus/
+- Shortlist one primary and one backup project, read contribution guides, reproduce one substantive issue or failing test, and join the relevant discussion channel.
+- **2027 GSoC dates not yet officially published.** Sources: https://developers.google.com/open-source/gsoc/timeline ; https://mentorship.lfx.linuxfoundation.org/
 
-### CNI / GSoC / DeepMind
+### NUS IRIS@NUS and CNI IISc
 
-- For CNI, build evidence in Linux, systems, networking, and reproducible experiments; ordinary ML-app projects alone are not a fit.
-- For GSoC, shortlist one primary and one backup project, read contribution guides, and reproduce one substantive issue or test failure. **2027 dates not yet officially published.**
-- For DeepMind, monitor only live BS-level roles with explicit location and authorization terms.
-- Sources: https://cni.iisc.ac.in/opportunities/research-intern/ ; https://developers.google.com/open-source/gsoc/timeline ; https://deepmind.google/student-researcher-program/
+- Prepare a research CV, transcript, and concise AI/data/systems fit statement; do not assume funding or eligibility until the next official call.
+- Sources: https://nusgs.nus.edu.sg/page/irisnus/ ; https://cni.iisc.ac.in/opportunities/research-intern/
 
 ## DEADLINE ALERTS
 
-- **No confirmed active-target deadline within the next 30 days was verified.**
-- OIST's 15 October 2026 deadline is retained as a watch item only and is excluded from active targeting under the user's application-fee rule. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- **30 October 2026:** NVIDIA Graduate Fellowship recommendation letters and application are due, but the program requires first-year PhD status and is not an undergraduate target. Source: https://research.nvidia.com/graduate-fellowships
+- **No confirmed deadline within 30 days for an active, profile-eligible target was verified.**
+- OIST's 15 October deadline remains watch-only and excluded from active targeting under the application-fee rule. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
 
 ## TODAY'S TODO
 
-1. Verify Science Academies SRFP eligibility and begin the marksheet/recommender packet.
-2. Create a late-December NUS IRIS@NUS preparation folder with CV, transcript, and research-fit draft.
-3. Choose one OSS project, reproduce a real issue or failing test, and record evidence plus the maintainer-facing next step.
-4. Check CNI's technical prerequisites; if Linux/networking evidence is weak, create a small reproducible systems project rather than applying prematurely.
-5. Monitor Google Careers for a BS-level Student Researcher role that explicitly addresses location and work authorization.
-6. Remove passed RBC and IIT Bombay RIA application deadlines from active submission tasks while retaining their next-cycle watch records.
+1. Verify Science Academies SRFP eligibility and ask a suitable recommender before assembling the November packet.
+2. Choose one OSS project, reproduce a real issue or failing test, and record evidence plus the maintainer-facing next step.
+3. Build a GSoC/LFX shortlist from project documentation and issue trackers; do not submit low-value PRs.
+4. Monitor the KAIST Visual AI page in mid-October and prepare transcript/CV materials without assuming paid status.
+5. Create a late-December NUS IRIS@NUS preparation folder with CV, transcript, and research-fit draft.
+6. Keep OpenAI Student Collective as a future-cycle watch item; do not claim an application or completion.
 
 ## GSoC / OSS ACTION
 
-Select one primary and one backup project. Read the contribution guide and relevant implementation, reproduce one issue or failing test, and document environment, evidence, and a focused fix/test or documentation plan. Prefer a substantive regression test, review, or maintainer discussion over low-value PR volume.
+Select one primary and one backup project. Read the contribution guide and relevant implementation, reproduce one issue or failing test, and write a focused fix/test or documentation plan. Prefer a regression test, review, or maintainer discussion over PR volume. **2027 dates are not yet officially published.**
 
 ## ACCOUNTABILITY
 
 Carry forward without claiming completion:
 
-- [ ] OIST research-unit shortlist and approval/recommender check (fee-excluded; do not submit)
 - [ ] One meaningful OSS issue investigation and patch/test sketch
 - [ ] GSoC 2027 primary and backup project shortlist
 - [ ] Science Academies marksheet and document-readiness check
-- [ ] Ai2 role-fit check and research-CV preparation
 - [ ] NUS IRIS@NUS preparation for the expected late-December call
+- [ ] Ai2 role-fit check and research-CV preparation
+- [ ] OIST research-unit shortlist and approval/recommender check (fee-excluded; do not submit)
 
-RBC Winter 2027 and IIT Bombay RIA 2026 deadlines have passed. MEA Term II 2026–27 remains historical/eligibility-gated. No prior task is marked complete.
+No prior task is marked complete. IIT Bombay RIA and RBC Winter 2027 submission deadlines have passed; MEA Term II 2026–27 remains historical/eligibility-gated.
 
 ## SOURCES
 
-- CNI IISc Research Intern: https://cni.iisc.ac.in/opportunities/research-intern/
-- IIT Bombay Research Internship Award: https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
-- Google DeepMind Student Researcher: https://deepmind.google/student-researcher-program/
+- OpenAI Student Collective: https://openai.com/student-collective/
+- NVIDIA Graduate Fellowship: https://research.nvidia.com/graduate-fellowships
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- NUS IRIS@NUS: https://nusgs.nus.edu.sg/page/irisnus/
-- Ai2 Research Internships: https://allenai.org/internships
+- KAIST Visual AI internship: https://visualai.kaist.ac.kr/internship/
+- AI Singapore AIIP: https://aiap.sg/internship/
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
+- LFX Mentorship: https://mentorship.lfx.linuxfoundation.org/
+- CNI IISc Research Intern: https://cni.iisc.ac.in/opportunities/research-intern/
+- NUS IRIS@NUS: https://nusgs.nus.edu.sg/page/irisnus/
 - 24 Pull Requests: https://24pullrequests.com/
 - Social Winter of Code: https://www.swoc.in/
 - OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
-- **Search coverage:** 50+ plausible candidates were checked across OSS/contributor programs (GSoC, LFX, Outreachy, CNCF, Apache, Python/Jupyter, Mozilla, MLH and university OSS), AI/ML/data research, Indian public-sector and institute routes (MeitY, DST, CSIR, ISRO, IISc, IITs, IISERs), global university/industry internships, student communities, hackathons, and competitions. Discovery lists and aggregators were used only to find candidates; current claims above were retained only where an official organizer source was available. Candidates not added were master-list duplicates/aliases, parent or child overlaps, fee-based, eligibility-gated, expired without a current route, or insufficiently verified. DRDO, LLNL DSSI, UChicago DSI Summer Lab, and OIST remain excluded from active targeting.
+- **Search coverage:** 25+ plausible candidates were inspected across OSS/contributor programs (GSoC, LFX, Outreachy, CNCF, Apache, Python/Jupyter, Mozilla, MLH, Ethereum and university OSS), AI/ML/data research, Indian public-sector and institute routes (MeitY, DST, CSIR, ISRO, IISc, IITs, IISERs), global university/industry internships, student communities, hackathons, and data/AI competitions. Discovery sources included GitHub lists and aggregators, but current claims were retained only when an official organizer source was found. Candidates not added were register duplicates/aliases, parent or child overlaps, fee-based, doctoral or otherwise eligibility-gated, expired, or insufficiently verified. DRDO, LLNL DSSI, UChicago DSI Summer Lab, and OIST remain excluded from active targeting.
