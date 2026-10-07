@@ -2,168 +2,90 @@
 
 ## Date
 
-6 October 2026 (Asia/Kolkata)
+7 October 2026 (Asia/Kolkata)
 
 ## NEW PROGRAMS
 
-- **Program:** MBZUAI Global Research Internship Program (MGRIP)
-  - **Why genuinely new:** No MGRIP record appears in the 220-record master; it is distinct from the generic professor-outreach route.
-  - **Organizer:** Mohamed bin Zayed University of Artificial Intelligence, UAE
-  - **Eligibility:** Undergraduate and master's students; project-specific requirements apply.
-  - **India eligibility:** Not excluded on the official page; confirm nationality, project and visa rules when 2027 projects are posted.
+- **Program:** Internship and Research Immersion in Singapore (IRIS)@NUS
+  - **Why genuinely new:** No IRIS@NUS record appears in the 220-record master; it is distinct from NUS UROPS/URAPS and other Singapore host programs.
+  - **Organizer:** NUS Graduate School
+  - **Eligibility:** Exceptional undergraduate and first-year master's students from all fields; global applicants are welcome. Project and academic requirements apply.
+  - **India eligibility:** Indian students are not excluded on the official page; confirm project selection and immigration rules before applying.
   - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Fully funded description includes accommodation, insurance, visa, airfare, transfers and stipend.
-  - **2027 status:** expected-recurring — 2027 projects are expected in November; dates are not published.
-  - **Deadline/window:** Unknown; monitor the November release.
-  - **Relevance:** Very high for AI/ML research.
-  - **Official source URL:** https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship
+  - **Paid/unpaid/funding:** Fully funded; official page states a 2–3 month program, but does not enumerate every benefit on the current page.
+  - **2027 status:** expected-recurring — the official page says the next application is expected at the end of December 2026; 2027 dates are not yet published.
+  - **Deadline/window:** Current cycle closed 28 August 2026; next application expected end-December 2026.
+  - **Relevance:** Very high undergraduate research fit for AI/data science if a suitable NUS lab/project is available.
+  - **Official source URL:** https://nusgs.nus.edu.sg/page/irisnus/
 
-- **Program:** Amgen Scholars Program — Asia
-  - **Why genuinely new:** No Amgen Scholars record appears in the master; this is a separate multi-host undergraduate research program.
-  - **Organizer:** Amgen Foundation with Asian host universities
-  - **Eligibility:** Undergraduate at an Asian bachelor's-granting institution; at least one year completed, not graduating before summer, and returning for at least one term; host-specific requirements apply.
-  - **India eligibility:** India is in the eligible Asian region in the program description, but each host sets its own rules.
+- **Program:** Hack-Nation Global AI Hackathon — 8th edition
+  - **Why genuinely new:** No Hack-Nation Global AI Hackathon record appears in the master; this is a distinct global online/hybrid build event, not an alias of Smart India Hackathon or an existing campus hackathon.
+  - **Organizer:** Hack-Nation, with MIT Club of Northern California and MIT Club of Germany collaboration
+  - **Eligibility:** No idea or team is required; detailed participant restrictions are not stated on the official event page.
+  - **India eligibility:** Online participation is explicitly available, so an Indian student can participate remotely subject to the event's final rules.
+  - **Fee:** Not stated; verify that registration is free before applying.
+  - **Paid/unpaid/funding:** No participation stipend; $30,000+ in cash prizes and API credits are advertised for selected teams.
+  - **2027 status:** confirmed — 8th edition is scheduled for 30–31 January 2027.
+  - **Deadline/window:** Application-only; hub spots are limited. Exact registration deadline is not stated.
+  - **Relevance:** High practical AI-builder value and portfolio potential; prioritize only after confirming no registration fee.
+  - **Official source URL:** https://luma.com/9j6zoc6n
+
+- **Program:** Google DeepMind Student Researcher Program
+  - **Why genuinely new:** No Google DeepMind Student Researcher record appears in the master; it is a named Google-wide student research application route, distinct from Microsoft Research and other company internships.
+  - **Organizer:** Google AI teams, including Google DeepMind and Google Research
+  - **Eligibility:** Applications are organized for BS, MS and PhD students; role-specific skills and enrollment requirements apply.
+  - **India eligibility:** Not established for the user. The program is office-based and location-specific; Indian applicants must verify the country role, visa and work authorization.
   - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Financial support is provided; stipend, housing, food and travel vary by host.
-  - **2027 status:** expected-recurring — 2027 host dates are not published.
-  - **Deadline/window:** Host deadlines are generally early February; verify each host.
-  - **Relevance:** High for computational biology/biomedical ML; lower for non-biomedical goals.
-  - **Official source URL:** https://amgenscholars.com/asia-program/
+  - **Paid/unpaid/funding:** Paid student-researcher employment is role-specific; compensation is not stated on the program overview.
+  - **2027 status:** confirmed — the official page invites applications for the 2026–2027 cycle; individual 2027 roles vary.
+  - **Deadline/window:** Rolling through listed Google Careers positions; roles may close when filled.
+  - **Relevance:** Very high AI/ML research fit, but not a no-visa primary target unless an India-based role is posted.
+  - **Official source URL:** https://deepmind.google/student-researcher-program/
 
-- **Program:** Claude Corps Fellowship
-  - **Why genuinely new:** No Claude Corps record appears in the master; it is distinct from Claude Campus Ambassador.
-  - **Organizer:** Anthropic, CodePath and Social Finance
-  - **Eligibility:** Age 18+ early-career applicants; no education requirement; AI comfort and social-impact motivation; U.S. work authorization without sponsorship required.
-  - **India eligibility:** No, unless the applicant already has qualifying U.S. work authorization.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Twelve-month, full-time paid fellowship with salary, benefits, training and support; salary amount is not stated on the official fellow page.
-  - **2027 status:** confirmed — February and August 2027 cohorts are described.
-  - **Deadline/window:** Rolling; capacity and cohort timing must be checked in the portal.
-  - **Relevance:** Strong AI/software fit but watch-only from India.
-  - **Official source URL:** https://www.anthropic.com/claude-corps/fellow
-
-- **Program:** D. E. Shaw Research Summer 2027 Internship
-  - **Why genuinely new:** No D. E. Shaw Research internship record appears in the master; it is a distinct scientific-computing/ML research internship.
-  - **Organizer:** D. E. Shaw Research, United States
-  - **Eligibility:** Undergraduate and graduate students in ML, CS, engineering, mathematics, physics or chemistry; Python or C/C++ expected.
-  - **India eligibility:** Not established; U.S. location and authorization requirements must be verified.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Paid; official page states expected monthly salary of $20,000–$29,400 plus housing allowance.
-  - **2027 status:** confirmed — Summer 2027 applications are solicited.
-  - **Deadline/window:** Rolling until filled; applying by the end of fall is encouraged.
-  - **Relevance:** Very high technical fit, subject to authorization and relocation.
-  - **Official source URL:** https://www.deshawresearch.com/joining_summerinternships.html
-
-- **Program:** Arc AIxBio Fellows Program for Undergrads
-  - **Why genuinely new:** No Arc AIxBio Fellows record appears in the master; it is a distinct open, part-time AI-and-life-science research fellowship.
-  - **Organizer:** Arc Institute, United States
-  - **Eligibility:** Teams of 2–3 undergraduates; 6–12-month commitment; must be based in North America.
-  - **India eligibility:** No — the official page requires participants to be based in North America.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Part-time fellowship with stipend, cloud/GPU resources, mentorship and possible co-authorship.
-  - **2027 status:** confirmed — applications available January 2027.
-  - **Deadline/window:** January 2027; exact deadline unknown.
-  - **Relevance:** Excellent AI/research fit but watch-only because India is excluded.
-  - **Official source URL:** https://arcinstitute.org/programs/aixbio-fellows
-
-- **Program:** IBM AI Foundations — Software Engineer, Research Internship 2027
-  - **Why genuinely new:** No IBM AI Foundations internship record appears in the master; this is a distinct named research-engineering internship.
-  - **Organizer:** IBM Research, United States
-  - **Eligibility:** Python and foundational AI/ML knowledge; PyTorch, generative AI and research experience preferred; listed locations are U.S. sites.
-  - **India eligibility:** Unknown; the official listing does not establish Indian-student eligibility or work authorization.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Compensation is not stated in the accessible official listing; do not treat it as a confirmed stipend.
-  - **2027 status:** confirmed — a 2027 role is listed.
-  - **Deadline/window:** Not stated; check the official job record.
-  - **Relevance:** High AI/software fit, but U.S. authorization and location are gating issues.
-  - **Official source URL:** https://careers.ibm.com/en_US/careers/JobDetail/AI-Foundations-Software-Engineer-Research-Internship-2027/131307
-
-- **Program:** Centre for Networked Intelligence (CNI) Research Intern — IISc
-  - **Why genuinely new:** No CNI internship record appears in the master; this is a distinct IISc systems/networking research internship, not IISc SRF or a generic professor-outreach route.
-  - **Organizer:** Centre for Networked Intelligence, Indian Institute of Science
-  - **Eligibility:** Undergraduate or graduate students in CS, electrical communication or related engineering; Linux/Unix, OS, architecture, networks, C/C++/Python and quantitative skills required; evidence of projects or contributions expected.
-  - **India eligibility:** The in-person internship is located in Bengaluru and the official page does not impose a nationality restriction; confirm the 2027 call.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Full-time, in-person and paid; accommodation is not provided.
-  - **2027 status:** expected-recurring — the official page says to check back for Spring or Summer 2027; no call or dates yet.
-  - **Deadline/window:** Unknown.
-  - **Relevance:** High for ML systems, distributed computing and data-center networking; not an applied-ML project route.
-  - **Official source URL:** https://cni.iisc.ac.in/opportunities/research-intern/
-
-- **Program:** HKUST Summer Undergraduate Research Program
-  - **Why genuinely new:** No HKUST Summer UG Research record appears in the master; it is distinct from NTU/GIST/Taiwan programs and other Asian summer research records.
-  - **Organizer:** The Hong Kong University of Science and Technology
-  - **Eligibility:** Full-time undergraduates at overseas/non-Chinese institutions who will have completed at least two years; academic and research requirements apply; partner-university nomination route is specified.
-  - **India eligibility:** Conditional — Indian students may be eligible if their institution is an HKUST exchange partner or if the fee-paying route is available; confirm with the home international office.
-  - **Fee:** No application fee stated; tuition, housing, visa and other costs may apply depending on route.
-  - **Paid/unpaid/funding:** Funding is not confirmed on the accessible application page; do not assume a stipend.
-  - **2027 status:** confirmed — the page gives a 2027 nomination/application cycle.
-  - **Deadline/window:** Nomination 15 November 2026–5 February 2027; applications are rolling and the stated deadline is 15 February 2027.
-  - **Relevance:** High undergraduate research fit, subject to partner status and cost.
-  - **Official source URL:** https://summercampus.hkust.edu.hk/summer-school-ug-application
-
-- **Program:** Los Alamos National Laboratory Undergraduate Internship Program
-  - **Why genuinely new:** No LANL undergraduate internship record appears in the master; it is distinct from LLNL DSSI and the general direct-professor route.
-  - **Organizer:** Los Alamos National Laboratory, United States
-  - **Eligibility:** Full-time undergraduates; official applicant materials describe technical and professional opportunities, with position-specific restrictions and security review.
-  - **India eligibility:** Potentially, but not guaranteed; international applications and individual roles are subject to documentation, security and export-control restrictions.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Internship employment; compensation and benefits are position-specific and not confirmed on the overview page.
-  - **2027 status:** expected-recurring — the undergraduate program is recurring; 2027 role availability and dates are not confirmed.
-  - **Deadline/window:** Unknown; monitor the official student-programs page.
-  - **Relevance:** Potentially high for computational science/software, but authorization and project restrictions are major gates.
-  - **Official source URL:** https://www.lanl.gov/careers/career-options/student-internships/undergraduate-internships.php
-
-**Search coverage:** More than 50 plausible candidates were inspected across open source (GSoC, LFX, Outreachy, Season of Docs, CNCF, Apache, Python/Jupyter, Mozilla, NumFOCUS and university programs), AI/ML/data research, Indian government and institutes (MeitY, DST, CSIR, ISRO, IISc, IITs and IISERs), global university/industry internships, national laboratories, student communities and hackathons. Candidates such as ETH, Aalto, Amgen, MBZUAI, OIST, CERN, IISc SRF, ISRO, Microsoft Research, NVIDIA, MIT MSRP, MATS, AI2 and existing hackathons were deduplicated or retained as existing records. DAAD RISE Germany was checked but is not a practical India-based target because its international-student route requires study at a U.S., Canadian, UK or Irish university. No fee-based active target was added. DRDO, OIST, LLNL DSSI and UChicago DSI Summer Lab remain excluded from active targeting.
+**Search coverage:** More than 20 plausible candidates were inspected across open source (GSoC, LFX, Outreachy, Season of Docs, CNCF, Apache, Python/Jupyter, Mozilla, MLH and foundation programs); AI/ML and research (DeepMind, MATS, SIGHPC, G-Research, Coding it Forward, AIGN and university labs); India/government/institute routes (MeitY, DST, CSIR, ISRO, IISc and IITs); global university programs (HKUST, Amgen Asia, IRIS@NUS and related host programs); and hackathons (Hack-Nation and MLH). Existing master records were deduplicated, including MATS, HKUST, Amgen, CNI, MBZUAI, LFX, GSoC, Science Academies SRFP, IndiaAI and all listed Indian institute programs. AIGN was not actively added because fee status and application deadline are not established. SIGHPC is graduate-degree focused; G-Research is London-based with postgraduate-level expectations; MATS is already present. DRDO, OIST, LLNL DSSI and UChicago DSI Summer Lab remain excluded from active targeting.
 
 ## CHANGES
 
-- **Microsoft Undergraduate Research Internship — Summer 2027:** The 5 October deadline has passed; do not treat it as an active target unless the official portal shows an extension. Source: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
+- **IRIS@NUS:** The official page confirms the 2026 cycle closed on 28 August and says the next application is expected at the end of December 2026. Source: https://nusgs.nus.edu.sg/page/irisnus/
 - **LFX Mentorship Term 1, 2027:** Official planning page lists project proposals 6–27 January, mentee applications 3–16 February, and term start 8 March 2027. Source: https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2027/01-Mar-May
-- **GSoC 2027:** 2027 dates are not yet officially published. The 2026 timeline is only a planning assumption; monitor organization lists, issue trackers and contributor guides. Source: https://developers.google.com/open-source/gsoc/timeline
-- **Science Academies SRFP 2027:** Applications close 30 November 2026; BE/BTech applicants must be in year II or III and meet the 65% core-subject rule. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **Social Winter of Code Season 7:** Free registration runs through 31 December 2026; coding runs 1 January–30 March 2027. Source: https://www.swoc.in/
-- **24 Pull Requests:** Official site says the event returns 1 December 2026. Source: https://24pullrequests.com/
-- **CNI IISc:** The official page now explicitly directs applicants to check back for Spring or Summer 2027 after no Autumn 2026 intake. Source: https://cni.iisc.ac.in/opportunities/research-intern/
+- **GSoC 2027:** 2027 dates are not officially published. Use the 2026 timeline only as a planning assumption and monitor organization lists, contributor guides and issue trackers. Source: https://developers.google.com/open-source/gsoc/timeline
+- **Science Academies SRFP 2027:** Official instructions give a 30 November 2026 deadline; BE/BTech applicants must satisfy the stated year-of-study and marks rules. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **Social Winter of Code Season 7:** Free registration remains scheduled through 31 December 2026, with coding from 1 January to 30 March 2027. Source: https://www.swoc.in/
 
 ## UPCOMING 3 MONTHS
 
 - **30 October:** NVIDIA Graduate Fellowship deadline; PhD-only and not an active target. Source: https://research.nvidia.com/graduate-fellowships
-- **November:** MBZUAI MGRIP 2027 project release expected; application dates unknown.
-- **15 November:** HKUST 2027 nomination window opens for exchange-partner students; confirm partner status first. Source: https://summercampus.hkust.edu.hk/summer-school-ug-application
-- **30 November:** Science Academies SRFP 2027 deadline, subject to year, marks and recommendation eligibility.
-- **1 December:** 24 Pull Requests expected return; use substantive issue, test, documentation or review work.
-- **31 December:** Social Winter of Code Season 7 registration closes; coding begins 1 January.
-- **January 2027:** HKUST application cycle continues; CNI Summer 2027 page should be checked for a call.
+- **15 November–5 February:** HKUST nomination window for eligible exchange-partner students; confirm home-institution partner status first. Source: https://summercampus.hkust.edu.hk/summer-school-ug-application
+- **30 November:** Science Academies SRFP 2027 deadline, subject to year, marks and recommendation eligibility. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **End December:** IRIS@NUS next application expected; exact 2027 deadline is not published. Source: https://nusgs.nus.edu.sg/page/irisnus/
+- **31 December:** Social Winter of Code Season 7 registration closes; coding begins 1 January. Source: https://www.swoc.in/
 
 ## EARLY-PREP ALERTS
 
-- **MBZUAI:** Prepare a research CV, transcript and two concise AI/ML project summaries before the November project release.
-- **CNI IISc:** If targeting ML systems, strengthen Linux, OS, networking and C/C++ evidence; prepare one reproducible systems project or open-source link.
+- **IRIS@NUS:** Prepare a research CV, transcript and two concise AI/ML project summaries before the expected end-December application.
+- **Science Academies SRFP:** Verify year/marks eligibility and identify a recommender before 30 November.
 - **HKUST:** Ask the home international office whether the institution is an HKUST partner and whether nomination or fee-paying routes apply.
-- **Amgen Asia:** Review host research areas, confirm year-of-study and English evidence, and identify recommenders before early-February host deadlines.
-- **LFX/GSoC:** Choose one primary and one backup project; read contribution guides, reproduce a real issue or failing test, and join maintainer discussions. **GSoC 2027 dates are not officially published.**
-- **LANL/D. E. Shaw/IBM:** Prepare a focused ML/software CV and research evidence, but verify authorization and role restrictions before spending application time.
+- **LFX/GSoC:** Choose one primary and one backup project; build locally, reproduce a real issue or failing test, and participate in maintainer discussion. **GSoC 2027 dates are not officially published.**
+- **Hack-Nation:** Confirm registration is free, then form or identify a team and prepare one feasible AI problem statement before the January event.
 
 ## DEADLINE ALERTS
 
-- **30 October 2026:** NVIDIA Graduate Fellowship — confirmed, but PhD-only and not an active target. Source: https://research.nvidia.com/graduate-fellowships
-- **30 November 2026:** Science Academies SRFP 2027 — confirmed official deadline; year, marks and recommendation rules apply. Source: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **No confirmed deadline within 30 days for an active, India-accessible target was verified.**
-- OIST remains fee-excluded watch-only; do not submit. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
+- **No confirmed deadline within 30 days for an active, India-accessible, fee-free target was verified.**
+- **30 October 2026:** NVIDIA Graduate Fellowship is a confirmed deadline but is PhD-only and not an active target. Source: https://research.nvidia.com/graduate-fellowships
+- Do not submit to OIST; its application fee remains outside the user's active-target filter. Source: https://www.oist.jp/admissions/research-internship/apply-research-internship
 
 ## TODAY'S TODO
 
-1. Check Science Academies SRFP year/marks eligibility and ask one present teacher about the recommendation route.
+1. Check the Science Academies SRFP year/marks rules and ask one teacher about the recommendation route.
 2. Email or check the home international office for HKUST partner status and nomination rules.
 3. Choose one OSS project, reproduce one substantive issue or failing test, and record the maintainer-facing next step.
-4. Prepare a one-page research CV and two project summaries for MBZUAI and Amgen Asia.
-5. If CNI is a serious option, inventory Linux, networking, C/C++ and systems evidence in one project link.
-6. Add 30 November and 31 December reminders; monitor the MBZUAI and CNI 2027 releases.
+4. Prepare a one-page research CV and two project summaries for IRIS@NUS.
+5. Verify Hack-Nation registration cost and save the 30–31 January event dates only if participation from India remains free.
+6. Add reminders for 30 November, end-December IRIS, and 31 December SWoC.
 
 ## GSoC / OSS ACTION
 
-Read one primary project's contribution guide and relevant implementation, reproduce an issue or failing test, and write a focused patch/test or documentation plan. Prefer review, discussion and maintainer feedback over low-value PR volume. LFX Term 1 dates are published; **2027 GSoC dates are not officially published**.
+Read one primary project's contributor guide and relevant implementation, reproduce an issue or failing test, and write a focused patch/test or documentation plan. Prefer review, discussion and maintainer feedback over low-value PR volume. LFX Term 1 dates are published; **2027 GSoC dates are not officially published**.
 
 ## ACCOUNTABILITY
 
@@ -173,9 +95,10 @@ Carry forward without claiming completion:
 - [ ] GSoC 2027 primary and backup project shortlist
 - [ ] Science Academies marksheet, eligibility and recommender check
 - [ ] HKUST home-institution partner/nomination check
+- [ ] IRIS@NUS research-CV and project-summary preparation
 - [ ] CNI systems-project evidence check
 - [ ] D. E. Shaw work-authorization and role-fit check
-- [ ] NUS IRIS@NUS preparation for the expected late-December call
+- [ ] NUS IRIS preparation for the expected late-December call
 - [ ] Ai2 role-fit check and research-CV preparation
 - [ ] OIST research-unit shortlist and approval/recommender check (fee-excluded; do not submit)
 
@@ -183,20 +106,13 @@ No prior task is marked complete. Recovery priority remains one verifiable OSS i
 
 ## SOURCES
 
-- MBZUAI MGRIP: https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship
-- Amgen Scholars Asia: https://amgenscholars.com/asia-program/
-- Claude Corps: https://www.anthropic.com/claude-corps/fellow
-- D. E. Shaw Research Summer Internships: https://www.deshawresearch.com/joining_summerinternships.html
-- Arc AIxBio Fellows: https://arcinstitute.org/programs/aixbio-fellows
-- IBM AI Foundations internship: https://careers.ibm.com/en_US/careers/JobDetail/AI-Foundations-Software-Engineer-Research-Internship-2027/131307
-- CNI IISc Research Intern: https://cni.iisc.ac.in/opportunities/research-intern/
-- HKUST Summer UG Research: https://summercampus.hkust.edu.hk/summer-school-ug-application
-- LANL Undergraduate Internship Program: https://www.lanl.gov/careers/career-options/student-internships/undergraduate-internships.php
-- Microsoft Undergraduate Research Internship: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
+- IRIS@NUS: https://nusgs.nus.edu.sg/page/irisnus/
+- Hack-Nation Global AI Hackathon: https://luma.com/9j6zoc6n
+- Google DeepMind Student Researcher Program: https://deepmind.google/student-researcher-program/
 - LFX Mentorship Term 1, 2027: https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2027/01-Mar-May
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- NVIDIA Graduate Fellowship: https://research.nvidia.com/graduate-fellowships
+- HKUST Summer UG Research: https://summercampus.hkust.edu.hk/summer-school-ug-application
 - Social Winter of Code: https://www.swoc.in/
-- 24 Pull Requests: https://24pullrequests.com/
+- NVIDIA Graduate Fellowship: https://research.nvidia.com/graduate-fellowships
 - OIST Research Internship: https://www.oist.jp/admissions/research-internship/apply-research-internship
