@@ -17,6 +17,9 @@
 
 ## NEW 2028 JOBS / INTERNSHIPS
 
+- **No new high-confidence 2028-eligible role added today.** Fresh Telegram results were mostly expired or lacked enough official batch evidence; e.g. Freshershunt's Gharpayy listing closed 5 October 2026 and its Google Data Center Technician Intern for 2028 graduates closed 7 September 2026. citeturn2search0
+- **Freshershunt / IT Referral Jobs remain discovery-only today.** Generic “fresher” or “intern” wording is not being treated as 2028 eligibility without an official employer/ATS check. citeturn2search0turn2search2
+
 - **Ressl AI — Software Engineering Intern**
   - **Status:** NEW / CONFIRMED.
   - **Location:** Bengaluru, India or **Remote India**.
@@ -152,3 +155,40 @@ Carry forward — do not claim completion:
 - Hack-Nation 8th Global AI Hackathon: https://luma.com/9j6zoc6n
 - Salesforce Summer 2027 SWE: https://careers.salesforce.com/en/jobs/jr337715/summer-2027-intern-software-engineer/
 - AICTE National Internship Portal: https://internship.aicte-india.org/
+
+## NETWORK MAP — 8 October 2026
+
+### NOW
+- **Arushi Gandhi — Founder/CEO, Ressl AI** — **connection status unknown**. Ressl's current YC listing shows a Software Engineering Intern in Bengaluru / Remote India, ₹25K–₹75K/month, school year “Any”; YC identifies Arushi as Founder/CEO. citeturn1search5
+  - Route: LinkedIn profile https://www.linkedin.com/in/arushi-gandhi
+  - Action: apply first, then connect with a concise project-specific note; **do not ask for a referral immediately**.
+  - Relationship angle: AI-agent evaluation/reliability work is a direct technical overlap.
+
+### SOON
+- **Abhishek Eswaran — Founder/CTO, Ressl AI** — **connection status unknown**. YC identifies him as Founder/CTO at the same small Bengaluru AI-agent startup. citeturn1search5
+  - Route: LinkedIn profile https://www.linkedin.com/in/abhishek-eswaran
+  - Action: connect around the technical problem space rather than opening with a job/referral request.
+  - Relationship angle: ask about agent evaluation/benchmarking after reviewing Ressl's work.
+
+### LONG-TERM
+- **Vaibhav Sharma — Founder, Centraligence** — **connection status unknown**. Centraligence is an India-based AI-agent/automation startup with founder-led product activity. citeturn1search0turn1search7
+  - Route: LinkedIn search/profile.
+  - Action: follow the build and engage only when you have a concrete technical reason; no cold job ask.
+  - Relationship angle: your agent orchestration/reliability work is a credible overlap.
+
+**LinkedIn caveat:** profile search was partially limited today; no 1st/2nd-degree status, mutual connections, or referral access was inferred.
+
+## GITHUB RELATIONSHIP / HIRING LEADS
+
+- **No new verified GitHub-native hiring signal today.** Do not turn ordinary maintainer activity into hiring intent.
+
+## COMING SOON — PIPELINE FORECAST
+
+- **GSoC 2027:** official 2027 schedule/org list is still not published. Keep **DIPY as conditional primary and pgmpy as backup**; build contribution evidence now. DIPY has confirmed 2026 GSoC participation under PSF. citeturn1search11
+- **Science Academies SRFP 2027:** confirmed deadline **30 November 2026**; two-month 2027 research placement with travel/living support. citeturn0search4turn0search7
+- **Summer 2027 research/internship season:** many official 2027 dates are not published yet; use prior-cycle windows only as forecasts and prepare CV/project/research materials now.
+
+## TELEGRAM / DISCOVERY QUALITY
+
+- **Useful historical signal:** Freshershunt surfaced Google's 2028 Data Center Technician Intern, showing that 2028 India internship hiring is already occurring, but that particular deadline was 7 September 2026 and is expired. citeturn2search0
+- **Rule reinforced:** Telegram posts are discovery leads until an official ATS confirms batch, location, duration and active status.
