@@ -6,189 +6,122 @@
 
 ## NEW PROGRAMS
 
-- **hackCBS 9.0 — India student hackathon**
-  - **Status:** NEW / CONFIRMED.
-  - **Dates:** 31 October–1 November 2026, in person at Shaheed Sukhdev College of Business Studies, Delhi.
-  - **Eligibility:** Student-only; university/student ID required. International students are also welcome.
-  - **Fee:** **₹0 registration fee** confirmed by the official FAQ.
-  - **Relevance:** High for AI/ML, systems, fintech/Web3 and general software portfolio work; internship/PPO opportunities are advertised by the event ecosystem but should not be treated as guaranteed.
-  - **India access:** Yes; Indian student can participate, but travel to Delhi is required.
-  - **Official source:** https://hackcbs.tech/
+- **NITI Aayog Internship Scheme**
+  - **Why genuinely new:** The master list has government/MeitY internships but no NITI Aayog Internship Scheme record; this is a distinct policy/data internship.
+  - **Organizer:** NITI Aayog, Government of India.
+  - **Eligibility:** Undergraduates who have completed or appeared in second-year/4th-semester exams and have at least 85% in Class 12; NOC required at joining.
+  - **India eligibility:** Yes; Indian and overseas-institution students are described in the official guidance, with the internship conducted in India.
+  - **Fee:** No application fee stated in the official guidance.
+  - **Paid/unpaid/funding:** Unpaid; no stipend or travel allowance.
+  - **2027 status:** Expected-recurring; no specific 2027 cohort announcement.
+  - **Deadline/window:** Applications generally open from the 1st–10th of each month for later intake; verify the live portal before applying.
+  - **Relevance:** Moderate; data analysis, science and technology, policy research and government exposure. Eligibility depends on the user's 4th-semester and Class 12 marks.
+  - **Official source:** https://www.niti.gov.in/sites/default/files/2023-01/NITI_Internship_Guidelines_17012023_0.pdf
 
-## NEW 2028 JOBS / INTERNSHIPS
+- **IIT Bombay Research Internship Award**
+  - **Why genuinely new:** Distinct from the master list's IIT Bombay Trust Lab and IIT Bombay Summer Fellowship records: this is a separate project-based, external-student award with its own application route and 4–6-month full-time format.
+  - **Organizer:** IIT Bombay.
+  - **Eligibility:** External students apply to listed research projects; project-specific academic requirements must be checked before applying.
+  - **India eligibility:** Indian undergraduates can apply where the selected project permits; on-campus participation is required.
+  - **Fee:** No application fee stated on the official page.
+  - **Paid/unpaid/funding:** ₹15,000/month stipend; accommodation is subject to availability for non-Mumbai candidates.
+  - **2027 status:** Expected-recurring; the currently published cycle joins between 21 December 2026 and 20 January 2027, not a confirmed 2027–28 cycle.
+  - **Deadline/window:** Current application deadline was extended to 29 September 2026 and is closed.
+  - **Relevance:** High research value for AI/ML/software applicants, but the 4–6-month full-time on-campus commitment is a major academic constraint.
+  - **Official source:** https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
 
-- **No new high-confidence 2028-eligible role added today.** Fresh Telegram results were mostly expired or lacked enough official batch evidence; e.g. Freshershunt's Gharpayy listing closed 5 October 2026 and its Google Data Center Technician Intern for 2028 graduates closed 7 September 2026. citeturn2search0
-- **Freshershunt / IT Referral Jobs remain discovery-only today.** Generic “fresher” or “intern” wording is not being treated as 2028 eligibility without an official employer/ATS check. citeturn2search0turn2search2
+- **Microsoft Research Undergraduate Research Internship — Computing**
+  - **Why genuinely new:** The master list contains a broad Microsoft Research AI/ML opportunities record, but not this named 12-week undergraduate program with a separate application, tracks and eligibility.
+  - **Organizer:** Microsoft Research.
+  - **Eligibility:** Rising juniors/seniors in a bachelor's program in computing or a related field; programming experience plus relevant mathematics/ML or research-method training.
+  - **India eligibility:** International eligibility is not clearly established on the official page; the listed labs are in Redmond, New York City and New England. Treat U.S. work authorization/visa as **UNVERIFIED / WATCH**, not as a no-visa target.
+  - **Fee:** No application fee stated.
+  - **Paid/unpaid/funding:** Compensation is not stated on the program page.
+  - **2027 status:** Confirmed Summer 2027 program page; application deadline was 5 October 2026.
+  - **Deadline/window:** Closed 5 October 2026.
+  - **Relevance:** Very high AI agents, data systems, software engineering, systems and AI safety alignment; not currently actionable from India without authorization clarification.
+  - **Official source:** https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
 
-- **Ressl AI — Software Engineering Intern**
-  - **Status:** NEW / CONFIRMED.
-  - **Location:** Bengaluru, India or **Remote India**.
-  - **Compensation:** ₹25,000–₹75,000/month.
-  - **Batch/education:** School year **Any**; undergraduate-friendly.
-  - **Visa:** **US citizenship/visa not required.**
-  - **Fit:** Extremely high. Work includes AI benchmarks/evals, domain-specific environments, evaluation tooling and model-failure investigation; strong match for the user's AI-agent/reliability/backend profile.
-  - **Duration:** Potential full-time conversion after three months; exact internship duration is not stated.
-  - **Application:** Directly through the YC company job page.
-  - **Source:** https://www.ycombinator.com/companies/ressl-ai/jobs/D1H6F29-software-engineering-intern
-
-- **Sprinklr — ML Intern**
-  - **Status:** NEW LEAD / NEEDS FINAL ATS VERIFICATION.
-  - **Location:** Gurgaon, India; work from office.
-  - **Batch:** 2028 pass-outs from IITs/NITs are explicitly stated in multiple current listings. This is the major caveat for the user: **CIT is not IIT/NIT**, so do not assume eligibility.
-  - **Skills:** DSA, algorithms, AI/ML, full-stack development, scalable/distributed systems.
-  - **Compensation:** Not officially disclosed; third-party estimates conflict, so do not rely on them.
-  - **Source evidence:** current listings from Sep–Oct 2026; official employer ATS should be checked before application.
-  - **Verdict:** **WATCH / eligibility-gated**, not a primary target until the institution restriction is resolved.
-  - **Sources:** https://www.talentd.in/jobs/ml-intern-at-sprinklr-gurgaon-2028-batch and https://www.hirebase.in/jobs/cmuhe00kr0002l704a50ksu1a-ml-intern
-
-- **Sofsure — AI Engineering Intern**
-  - **Status:** CONFIRMED employer careers page.
-  - **Location:** Chandigarh, India; hybrid.
-  - **Duration:** 6 months.
-  - **Start:** 14 November 2026 target.
-  - **Deadline:** 30 October 2026.
-  - **Eligibility:** Bachelor's in CS/AI/ML/Data Science or related; Python; LLMs; Git. No graduation year stated.
-  - **Compensation:** Monthly stipend; amount undisclosed.
-  - **Fit:** Very high technically, but **low college compatibility** because it is a six-month, 10:00–19:00 IST engineering internship starting during the academic year.
-  - **Verdict:** Apply only if the college/academic schedule can accommodate it.
-  - **Official source:** https://sofsure.com/careers/ai-engineering-intern
-
-- **Unisys — AI Engineering Intern**
-  - **Status:** NEEDS VERIFICATION.
-  - **Location:** Bengaluru, India; onsite.
-  - **Telegram/aggregator claims:** 2028 eligibility; AI agents, orchestration, production AI, testing/evaluation and cloud.
-  - **Important:** A current official Workday page was not independently retrievable in today's verification pass, so **do not count this as confirmed active**.
-  - **Verdict:** WATCH until the official Unisys ATS confirms the requisition and batch criteria.
+- **Amgen Scholars Asia Program**
+  - **Why genuinely new:** No Amgen Scholars record appears in the master list; it is a distinct multi-host Asia undergraduate research program.
+  - **Organizer:** Amgen Scholars Program and participating Asian host universities.
+  - **Eligibility:** Undergraduates enrolled at an Asian university, at least one year completed, not graduating before the summer, and returning for at least one term; English proficiency and interest in a PhD are required.
+  - **India eligibility:** Indian students enrolled at Indian universities are eligible by region rules; host applications are separate. On-site Asia participation and a Japan symposium require travel documentation.
+  - **Fee:** No application fee stated by the program; verify each host's instructions.
+  - **Paid/unpaid/funding:** Financial support varies by host institution; exact 2027 funding is not yet published.
+  - **2027 status:** Expected-recurring; 2027 host dates and calls are not yet published.
+  - **Deadline/window:** Host deadlines are generally in early February; official page gives no 2027 date.
+  - **Relevance:** Moderate for an AI/DS student because the program is primarily biomedical/biotechnology research, but it is a credible Asian undergraduate research route.
+  - **Official source:** https://amgenscholars.com/asia-program/
 
 ## CHANGES
 
-- **Science Academies SRFP 2027:** unchanged and confirmed. Deadline **30 November 2026**. BE/BTech II/III-year students are eligible under the published criteria; Class X through latest-exam marksheets are mandatory. citeturn5search0turn5search1
-- **GSoC 2027:** no official 2027 dates published yet. Continue contribution preparation; do not invent an application date. citeturn5search3turn5search4
-- **LFX Term 1 2027:** previously published planning dates remain the preparation target; re-verify when the Linux Foundation/CNCF application page opens.
-- **Hack-Nation 8th Global AI Hackathon:** confirmed for 30–31 January 2027, with online participation available; application/approval required and the current page does not state a registration fee. citeturn8search0
-- **Salesforce Summer 2027 SWE:** official page still explicitly targets Class of 2028 in Bangalore/Hyderabad. This is a tracked role, so it is **not NEW today**; apply only if the application remains open when reached. citeturn6search0
+- **Science Academies SRFP 2027:** Official deadline remains 30 November 2026. BE/BTech second- and third-year students are eligible under the published criteria; keep marksheets and recommendation materials ready. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **GSoC 2027:** Official dates are not yet published. Use the 2026 schedule only as a planning assumption; do not treat March 2027 as confirmed. https://summerofcode.withgoogle.com/
+- **SWoC Season 7:** Existing master record; registration is published through 31 December 2026 and coding is scheduled for 1 January–30 March 2027. Treat as a community contribution option, not a GSoC equivalent.
+- **IIT Bombay Research Internship Award and Microsoft Research Undergraduate Internship:** Both newly verified cycles have already closed their 2026 application windows; retain as recurring-watch records rather than immediate applications.
+- **Fee filter:** IASST student training was checked but not surfaced: its official page requires ₹2,500/month laboratory/equipment handling fees, so it is excluded from active targeting. https://iasst.gov.in/regular/
 
 ## UPCOMING 3 MONTHS
 
-- **30 October:** Sofsure AI Engineering Intern closes; practical only if a six-month academic-compatible arrangement is possible.
-- **30 November:** Science Academies SRFP 2027 deadline.
-- **31 December:** SWoC Season 7 registration closes; coding begins 1 January 2027.
-- **Late December:** IRIS@NUS next application expected; exact 2027 dates are not yet published.
-- **January 30–31, 2027:** Hack-Nation 8th Global AI Hackathon.
+- **30 November 2026:** Science Academies SRFP 2027 — strongest confirmed India-accessible research deadline.
+- **1–10 December 2026:** NITI Aayog monthly internship application window, subject to the live portal and the user's marks/4th-semester eligibility.
+- **31 December 2026:** SWoC Season 7 registration closes.
+- **Early February 2027 (expected recurring):** Amgen Scholars Asia host applications; 2027 dates are not published.
+- **January–March 2027 (planning only):** GSoC/LFX preparation and likely application season; official GSoC 2027 dates are not published.
 
 ## EARLY-PREP ALERTS
 
-- **GSoC/LFX:** Pick one primary OSS project and one backup. Reproduce one real issue/test failure and make a focused contribution rather than collecting tiny PRs.
-- **SRFP:** Prepare the 150–250-word research-interest statement and contact one teacher for the recommendation route. Marksheets X → latest exam must be scanned in JPEG and kept within the stated size limit. citeturn5search0
-- **IRIS@NUS:** Keep the research CV and two concise AI/ML project summaries ready for the expected late-December window.
-- **Ressl AI:** Tailor the resume around AI-agent evaluation, backend engineering, testing/guardrails and your strongest shipped project. This is the best new job lead today.
+- **SRFP:** Scan Class X through latest-exam marksheets, confirm the B.Tech year rule, identify a recommender and draft the research-interest statement before November.
+- **NITI Aayog:** Check whether 4th semester is complete and whether Class 12 marks meet 85%; prepare an NOC route and a concise data/AI policy portfolio. Do not apply if those conditions are not met.
+- **Amgen Asia:** Review the host-university research areas and English-test rules; treat this as an on-site, visa/documentation pathway rather than a remote opportunity.
+- **GSoC/LFX:** Choose one primary and one backup repository, reproduce one real issue or failing test, and discuss it with maintainers. Do not collect superficial PRs.
 
-## DEADLINE ALERTS — NEXT 30 DAYS
+## DEADLINE ALERTS
 
 | Deadline | Opportunity | Status |
 |---|---|---|
-| **30 Oct** | Sofsure AI Engineering Intern | Confirmed employer page; academic compatibility is the blocker |
-| **30 Nov** | Science Academies SRFP 2027 | **High priority / confirmed** |
+| 30 Nov 2026 | Science Academies SRFP 2027 | Confirmed; high-priority India-accessible research application |
 
-No other newly discovered India-accessible, fee-free 2028 role had a stronger verified deadline inside the next 30 days.
-
-## GITHUB OUTREACH LEADS
-
-**No new GitHub hiring lead crossed the evidence threshold today.**
-
-The GitHub scan surfaced internship aggregators and historical hiring-monitor repositories, but no sufficiently recent public hiring signal from a founder/CTO/maintainer that justified recommending direct outreach.
-
-Do **not** turn ordinary maintainer activity into a hiring lead.
-
-## NEEDS VERIFICATION / SCAM-RISK
-
-- **Paid-registration / training internships:** rejected from the primary pipeline. Telegram currently contains ₹497/₹1,000 evaluation-fee and ₹5,000 membership-style offers; these are not counted as jobs.
-- **Progree remote internship:** discovery post says global remote but does not provide enough employer-side evidence for a high-signal internship; WATCH only.
-- **Barakah TechLabs:** Telegram reports ₹500/₹1,000 evaluation fees; **exclude**.
-- **UNI6CTF 2.0:** ₹111 entry fee; not treated as a career opportunity.
-- **Sprinklr:** institution/batch restriction needs official ATS confirmation before treating the role as eligible.
+No other confirmed, fee-free, India-accessible deadline falls within 30 days in this verification pass. NITI Aayog is a recurring monthly window, but the live portal must be checked before submission.
 
 ## TODAY'S TODO
 
-1. **Ressl AI — apply first.** This is today's strongest new fit: India-remote, any school year, ₹25k–₹75k/month, no U.S. visa requirement.
-2. **SRFP — finish eligibility/recommender check.** Do not leave the 30 November deadline until the last week.
-3. **hackCBS — register only if Delhi travel is realistic.** It is free and student-only; build from scratch during the event.
-4. **Sofsure — decide feasibility, not just eligibility.** A six-month 10:00–19:00 internship during semester is the real constraint.
-5. **OSS — reproduce one meaningful issue/test failure** in your chosen GSoC/LFX target.
+1. Confirm SRFP year eligibility and ask one faculty member for the recommendation route.
+2. Assemble the SRFP marksheet packet and draft a 150–250-word AI/ML research-interest statement.
+3. Check the NITI Aayog eligibility gates: completed 4th semester, Class 12 percentage, NOC feasibility and monthly portal window.
+4. Select one OSS repository and reproduce one meaningful issue or failing test; record files, cause and a possible test/fix.
+5. Create a small Amgen Asia watch note with host universities, research fit and visa/document requirements; do not treat it as remote.
 
 ## GSoC / OSS ACTION
 
-**Today's minimum:** open one target repository, reproduce one real issue or failing test, and document:
-- what failed;
-- why it fails;
-- relevant implementation files;
-- one plausible fix/test;
-- the maintainer discussion or issue where this belongs.
-
-One real contribution is worth more than five superficial PRs.
+Open one candidate repository, read its contributor guide and development setup, reproduce one real issue/test failure, and write a concise investigation note. Then join the project's documented discussion channel and ask one specific, evidence-based question. One substantive contribution is preferable to several tiny PRs.
 
 ## ACCOUNTABILITY
 
-Carry forward — do not claim completion:
+Carry forward; no completion is claimed:
 
 - [ ] One meaningful OSS issue investigation
-- [ ] GSoC primary + backup project shortlist
+- [ ] GSoC primary and backup project shortlist
 - [ ] SRFP marksheet/recommender check
 - [ ] SRFP research-interest statement
-- [ ] IRIS@NUS research CV + project summaries
+- [ ] IRIS@NUS research CV and project summaries
 - [ ] HKUST partner/nomination check
 - [ ] CNI systems-project evidence check
 - [ ] D. E. Shaw work-authorization/role-fit check
 - [ ] Ai2 role-fit/research-CV check
 
-**Recovery task if yesterday's OSS task was not done:** spend just **25 minutes reproducing one issue/test**. Do not attempt the whole contribution.
+**Recovery task:** If yesterday's OSS investigation was not completed, spend 25 minutes reproducing one issue or test failure and save the command/output. This is the only OSS task required today.
 
 ## SOURCES
 
-- hackCBS 9.0: https://hackcbs.tech/
-- Ressl AI internship: https://www.ycombinator.com/companies/ressl-ai/jobs/D1H6F29-software-engineering-intern
-- Sofsure AI Engineering Intern: https://sofsure.com/careers/ai-engineering-intern
-- Sprinklr ML Intern discovery: https://www.talentd.in/jobs/ml-intern-at-sprinklr-gurgaon-2028-batch
+- NITI Aayog Internship Guidelines: https://www.niti.gov.in/sites/default/files/2023-01/NITI_Internship_Guidelines_17012023_0.pdf
+- NITI Aayog program description: https://www.indiascienceandtechnology.gov.in/internships/niti-aayog-internship-scheme?language=en
+- IIT Bombay Research Internship Award: https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
+- Microsoft Research Undergraduate Research Internship: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
+- Amgen Scholars Asia: https://amgenscholars.com/asia-program/
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- Science Academies SRFP 2027 announcement: https://webjapps.ias.ac.in/fellowship2027/index.html
 - GSoC: https://summerofcode.withgoogle.com/
-- Hack-Nation 8th Global AI Hackathon: https://luma.com/9j6zoc6n
-- Salesforce Summer 2027 SWE: https://careers.salesforce.com/en/jobs/jr337715/summer-2027-intern-software-engineer/
-- AICTE National Internship Portal: https://internship.aicte-india.org/
+- IASST student training fee page: https://iasst.gov.in/regular/
 
-## NETWORK MAP — 8 October 2026
-
-### NOW
-- **Arushi Gandhi — Founder/CEO, Ressl AI** — **connection status unknown**. Ressl's current YC listing shows a Software Engineering Intern in Bengaluru / Remote India, ₹25K–₹75K/month, school year “Any”; YC identifies Arushi as Founder/CEO. citeturn1search5
-  - Route: LinkedIn profile https://www.linkedin.com/in/arushi-gandhi
-  - Action: apply first, then connect with a concise project-specific note; **do not ask for a referral immediately**.
-  - Relationship angle: AI-agent evaluation/reliability work is a direct technical overlap.
-
-### SOON
-- **Abhishek Eswaran — Founder/CTO, Ressl AI** — **connection status unknown**. YC identifies him as Founder/CTO at the same small Bengaluru AI-agent startup. citeturn1search5
-  - Route: LinkedIn profile https://www.linkedin.com/in/abhishek-eswaran
-  - Action: connect around the technical problem space rather than opening with a job/referral request.
-  - Relationship angle: ask about agent evaluation/benchmarking after reviewing Ressl's work.
-
-### LONG-TERM
-- **Vaibhav Sharma — Founder, Centraligence** — **connection status unknown**. Centraligence is an India-based AI-agent/automation startup with founder-led product activity. citeturn1search0turn1search7
-  - Route: LinkedIn search/profile.
-  - Action: follow the build and engage only when you have a concrete technical reason; no cold job ask.
-  - Relationship angle: your agent orchestration/reliability work is a credible overlap.
-
-**LinkedIn caveat:** profile search was partially limited today; no 1st/2nd-degree status, mutual connections, or referral access was inferred.
-
-## GITHUB RELATIONSHIP / HIRING LEADS
-
-- **No new verified GitHub-native hiring signal today.** Do not turn ordinary maintainer activity into hiring intent.
-
-## COMING SOON — PIPELINE FORECAST
-
-- **GSoC 2027:** official 2027 schedule/org list is still not published. Keep **DIPY as conditional primary and pgmpy as backup**; build contribution evidence now. DIPY has confirmed 2026 GSoC participation under PSF. citeturn1search11
-- **Science Academies SRFP 2027:** confirmed deadline **30 November 2026**; two-month 2027 research placement with travel/living support. citeturn0search4turn0search7
-- **Summer 2027 research/internship season:** many official 2027 dates are not published yet; use prior-cycle windows only as forecasts and prepare CV/project/research materials now.
-
-## TELEGRAM / DISCOVERY QUALITY
-
-- **Useful historical signal:** Freshershunt surfaced Google's 2028 Data Center Technician Intern, showing that 2028 India internship hiring is already occurring, but that particular deadline was 7 September 2026 and is expired. citeturn2search0
-- **Rule reinforced:** Telegram posts are discovery leads until an official ATS confirms batch, location, duration and active status.
+**Search coverage:** Approximately 30 plausible candidates were checked across open-source mentorships (GSoC, LFX, Outreachy, CNCF, Apache, NumFOCUS/Python/Jupyter and project programs), AI/ML research, Indian government and institute internships, global university/industry research, hackathons and student ambassador/builder programs. Candidates already represented by the master list were moved to CHANGES/watch coverage; fee-based, DRDO, LLNL DSSI, UChicago DSI Summer Lab, OIST and weakly verified listings were not actively recommended.
