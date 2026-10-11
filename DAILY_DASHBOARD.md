@@ -2,93 +2,93 @@
 
 ## Date
 
-10 October 2026 (UTC)
+11 October 2026 (UTC)
 
 ## NEW PROGRAMS
 
-- **Centre for Networked Intelligence (CNI) Research Internship**
-  - **Why genuinely new:** IISc CNI's distinct paid, full-time research-intern route is absent from the 220-record master list; it is not the IISc Summer Research Fellowship record.
-  - **Organizer:** Centre for Networked Intelligence, Indian Institute of Science.
-  - **Eligibility:** Undergraduate or graduate students in CS, electrical communication or related engineering; Linux/Unix, C/C++, Python, systems, networks, architecture, Git and quantitative skills are required. Applicants must show project, OSS or publication evidence.
-  - **India eligibility:** Indian undergraduates can apply; work is in person on the IISc Bengaluru campus. No foreign visa/work authorization is involved.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Paid; amount not stated. No on-campus accommodation.
-  - **2027 status:** Expected-recurring; the page says to check again for Spring/Summer 2027.
-  - **Deadline/window:** No 2027 deadline published; autumn 2026 intake is closed.
-  - **Relevance:** High for ML systems, distributed computing and AI infrastructure; not an applied-ML model-building internship.
-  - **Official source URL:** https://cni.iisc.ac.in/opportunities/research-intern/
+- **Boston University Summer Undergraduate Research Fellowship (SURF/NSF-REU)**
+  - **Why genuinely new:** Boston University's distinct SURF/NSF-REU program is absent from the master list; it is not the existing CERN, IISc, or other summer-research records.
+  - **Organizer:** Boston University.
+  - **Eligibility:** Non-BU rising juniors or rising seniors in science or technology; 10 weeks of full-time, faculty-mentored research. The published 2027 listing is currently gene-expression biology, so AI/DS fit is not established.
+  - **India eligibility:** The page accepts non-BU students but does not state whether Indian students or applicants outside the United States are eligible. **VISA STATUS UNVERIFIED / WATCH.**
+  - **Fee:** No application fee stated; application uses NSF ETAP.
+  - **Paid/unpaid/funding:** Stipend, on-campus housing and enrichment support stated; amount not stated.
+  - **2027 status:** Confirmed.
+  - **Deadline/window:** Late January 2027 to 1 April 2027; rolling review.
+  - **Relevance:** Moderate research value; low immediate AI fit unless 2027 projects expand beyond the currently named biology track.
+  - **Official source URL:** https://www.bu.edu/surf/
 
-- **Google DeepMind Student Researcher Program**
-  - **Why genuinely new:** A distinct Google student-research application route, organized by degree level and location, is absent from the master list; it is not the listed Google AI Residency or Microsoft Research record.
-  - **Organizer:** Google Research / Google DeepMind.
-  - **Eligibility:** Current BS, MS or PhD students; the official page directs applicants to degree- and location-specific openings.
-  - **India eligibility:** India eligibility, location, work authorization and remote participation depend on the individual posting; do not assume a no-visa route. **VISA STATUS UNVERIFIED / WATCH.**
+- **Siebel School of Computing and Data Science Summer Research Program (SRP)**
+  - **Why genuinely new:** The Illinois computing/data-science SRP is a distinct undergraduate research program absent from the master list.
+  - **Organizer:** University of Illinois Urbana-Champaign, Siebel School.
+  - **Eligibility:** Undergraduate students work with Illinois faculty and graduate mentors; detailed year, international and institution rules are not published on the overview page.
+  - **India eligibility:** Not established. **VISA STATUS UNVERIFIED / WATCH.**
   - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Individual job posting; compensation not established centrally.
-  - **2027 status:** Unknown; official page currently says to apply for the 2026–27 cycle.
-  - **Deadline/window:** Posting-specific; rolling/varies by location.
-  - **Relevance:** Very high AI/ML, agents, systems and research fit, but not a confirmed India-accessible target.
-  - **Official source URL:** https://deepmind.google/student-researcher-program/
+  - **Paid/unpaid/funding:** Funding not stated on the official overview.
+  - **2027 status:** Unknown; recurring summer program, but no 2027 call located.
+  - **Deadline/window:** Unknown.
+  - **Relevance:** High potential CS, data science and AI research fit, but not actionable until eligibility, funding and dates are published.
+  - **Official source URL:** https://siebelschool.illinois.edu/research/undergraduate-research/srp
 
-- **MBZUAI Global Research Internship Program (MGRIP)**
-  - **Why genuinely new:** MBZUAI/MGRIP is absent from the master list and is a distinct AI research internship, not a duplicate of KAUST, GIST or another visiting-student record.
-  - **Organizer:** Mohamed bin Zayed University of Artificial Intelligence, UAE.
-  - **Eligibility:** Undergraduate and master's students worldwide; academic performance, technical preparation, research potential and project fit are assessed.
-  - **India eligibility:** Indian undergraduates are eligible under the global intake, but participation is onsite in Abu Dhabi; UAE entry/visa requirements apply.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Fully funded package reported by the official program information, including accommodation, insurance, visa, airfare/transfers and stipend; amount not stated.
-  - **2027 status:** Expected-recurring; 2027 project list/application window is not yet published.
-  - **Deadline/window:** Project information expected in November; application dates unknown.
-  - **Relevance:** Very high AI/ML, computer vision, NLP and robotics research fit, but relocation/visa-based rather than a no-visa primary target.
-  - **Official source URL:** https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program
+- **Northwestern Engineering Summer Research Programs**
+  - **Why genuinely new:** Northwestern's engineering summer-program route and its distinct PSOC, MRSEC, SROP and McCormick pathways are absent from the master list; they are not the existing global summer-research records.
+  - **Organizer:** Northwestern University McCormick School of Engineering.
+  - **Eligibility:** The official page says listed programs are open to eligible college undergraduates; each linked program sets its own requirements.
+  - **India eligibility:** Varies by pathway and is not established on the overview page. **VISA STATUS UNVERIFIED / WATCH.**
+  - **Fee:** No application fee stated on the overview.
+  - **Paid/unpaid/funding:** Programs typically include a stipend; McCormick Summer Research Awards can be up to USD 5,000.
+  - **2027 status:** Expected-recurring; program-specific 2027 details pending.
+  - **Deadline/window:** Typically November–February; verify each linked program.
+  - **Relevance:** Moderate-to-high research fit, especially computational modeling and interdisciplinary data/engineering work.
+  - **Official source URL:** https://www.mccormick.northwestern.edu/students/undergraduate/research-opportunities/summer-programs.html
 
-- **OpenAI Student Collective**
-  - **Why genuinely new:** A separate undergraduate campus-lead program with its own application and support package is absent from the master list; it is not OpenAI Residency.
-  - **Organizer:** OpenAI.
-  - **Eligibility:** The 2026–27 cohort notice covered current undergraduates aged 18+ in selected countries, including India, graduating after December 2027; the user's 2028 graduation matched that published cohort rule.
-  - **India eligibility:** India was listed as eligible for the 2026–27 cohort. Campus/community participation did not state foreign employment authorization.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Stipend plus event funding, training, product access and merchandise; amount not stated.
-  - **2027 status:** Expected-recurring; the 2026–27 India window is closed and no 2027–28 call is published.
-  - **Deadline/window:** Prior India deadline was 10 August 2026; next window unknown.
-  - **Relevance:** High AI, developer-community and campus-leadership fit; watch rather than apply now.
-  - **Official source URL:** https://openai.com/student-collective/
+- **USAII Global AI Hackathon**
+  - **Why genuinely new:** A distinct virtual, student-focused AI competition is absent from the master list and is not Smart India Hackathon, NASA Space Apps, or another existing record.
+  - **Organizer:** United States Artificial Intelligence Institute (USAII).
+  - **Eligibility:** High-school, undergraduate and graduate students worldwide; individuals or teams of up to five.
+  - **India eligibility:** Worldwide eligibility and fully virtual format indicate Indian participation from India; no foreign visa/work authorization is required for the stated format.
+  - **Fee:** No entry fee stated in the official announcement; verify registration terms for the next edition.
+  - **Paid/unpaid/funding:** Competition with a USD 15,000 total prize pool and certification scholarships; not an internship stipend.
+  - **2027 status:** Unknown; the verified official announcement is for the inaugural June 2026 edition.
+  - **Deadline/window:** 2027 dates not published.
+  - **Relevance:** Moderate portfolio value for applied AI, teamwork and responsible-AI delivery; watch for a 2027 announcement rather than treating it as open now.
+  - **Official source URL:** https://www.usaii.org/ai-insights/usaii-global-ai-hackathon-2026-opens-pre-registration-for-students-worldwide
 
-**Search coverage:** Approximately 35 plausible candidates were inspected across OSS (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, KDE and GitHub discovery lists), AI/ML research, Indian government/institutes, global university/industry programs, computational science, student communities and hackathons. Candidates checked against the master list included Microsoft Research, CERN, MIT MSRP, Fermilab, Stanford AIMI, Columbia Leadership Alliance, MLH, Season of Docs, OSPP, IndiaAI, SIH, ET GenAI, Claude Campus, NVIDIA, and the major recurring OSS programs. Duplicates/parent tracks, Stanford's high-school-only route, US-institution/work-authorization-gated programs, fee-based targets, DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST were not added.
+**Search coverage:** More than 20 plausible candidates were inspected across OSS (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, KDE and GitHub discovery lists), AI/ML research, Indian government and institute portals, global university/industry programs, computational science, student communities and hackathons. Candidates included Microsoft Research, BU SURF, UIUC SRP, Northwestern programs, Stanford CURIS/AIMI, CMU, Google student roles, AMD, Infosys InStep, AICTE, IndiaAI, Smart India Hackathon, USAII, NASA Space Apps, CERN/SOCIS, and recurring OSS programs. Master-list duplicates, Microsoft/Aalto/ETH routes, DRDO, LLNL DSSI, UChicago DSI Summer Lab, OIST and fee-based CMU were excluded from NEW PROGRAMS.
 
 ## CHANGES
 
-- **Science Academies SRFP 2027:** Confirmed 30 November 2026 deadline; second- and third-year BE/BTech students are eligible under the published criteria. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **Microsoft Research Undergraduate Internship:** Summer 2027 application deadline was 5 October 2026; the distinct undergraduate route is treated as a possible child track of master record #53, not a new record. https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
-- **GSoC 2027:** 2027 dates are not yet officially published. Use 2026 timing only as a planning assumption. https://summerofcode.withgoogle.com/
-- **SWoC Season 7:** Existing record; registration remains published through 31 December 2026 and coding is scheduled for 1 January–30 March 2027. It is an OSS community option, not a GSoC equivalent. https://socialwinterofcode.com/
+- **Science Academies SRFP 2027:** The official instructions list a 30 November 2026 deadline; second- and third-year BE/BTech students are eligible under the published criteria. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **GSoC 2027:** 2027 dates are not yet officially published. Use 2026 timing only as a planning assumption; do not treat it as a deadline. https://summerofcode.withgoogle.com/
+- **SWoC Season 7:** Existing record; the published registration window runs through 31 December 2026 and coding is scheduled for 1 January–30 March 2027. It remains an OSS community option, not a GSoC equivalent. https://socialwinterofcode.com/
+- **Microsoft Research Undergraduate Internship:** The Summer 2027 deadline reported on the official page was 5 October 2026. It is covered by the master list's Microsoft Research umbrella and is not a new record. https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
 
 ## UPCOMING 3 MONTHS
 
-- **30 November 2026:** Science Academies SRFP 2027 — confirmed India-accessible research deadline.
-- **November 2026:** MGRIP 2027 project information expected; inspect projects and visa/funding details before considering it.
+- **30 November 2026:** Science Academies SRFP 2027 — confirmed deadline; India-accessible research route if the year and marks criteria fit.
+- **November 2026–February 2027:** Monitor Northwestern program-specific calls; verify international eligibility and whether a computing/data project is available.
+- **Late January–1 April 2027:** BU SURF/NSF-REU — confirmed window, but verify international eligibility and 2027 project fit before investing application time.
+- **December 2026–January 2027:** Recheck the Illinois Siebel SRP page for 2027 eligibility, funding and application instructions.
 - **31 December 2026:** SWoC Season 7 registration closes.
-- **December 2026–January 2027:** Monitor IISc CNI Spring/Summer 2027 internship page; no deadline is published.
-- **January 2027 planning:** Shortlist GSoC/LFX repositories and begin evidence-based maintainer interaction; 2027 GSoC dates remain unpublished.
 
 ## EARLY-PREP ALERTS
 
-- **Science Academies SRFP:** Confirm second/third-year status, assemble marksheets, identify a recommender and draft a focused AI/ML research statement.
-- **CNI:** Audit Linux, C/C++, networking and systems evidence; select one demonstrable project or OSS contribution before the 2027 page opens.
-- **MGRIP:** Prepare a research CV, transcript and two AI project summaries; treat visa and onsite logistics as mandatory checks.
-- **GSoC/LFX:** Choose one primary and one backup repository, build locally, reproduce one real issue or failing test and ask a specific maintainer question.
+- **Science Academies SRFP:** Confirm second/third-year status, collect marksheets, identify a recommender and draft a focused AI/ML research statement.
+- **GSoC/LFX:** Select one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. **2027 GSoC dates not yet officially published.**
+- **Northwestern/UIUC/BU research:** Prepare a one-page research CV, transcript and two concise project summaries; do not assume Indian eligibility or visa-free participation.
+- **USAII:** Watch only for an official 2027 announcement; do not treat the 2026 event as an active deadline.
 
 ## DEADLINE ALERTS
 
-No confirmed, fee-free, India-accessible deadline falls within 30 days. The next confirmed high-priority deadline is Science Academies SRFP 2027 on 30 November 2026.
+No confirmed, fee-free, India-accessible deadline is within 30 days. The next confirmed deadline is Science Academies SRFP 2027 on 30 November 2026.
 
 ## TODAY'S TODO
 
-1. Verify SRFP year eligibility and ask one faculty member about the recommendation route.
-2. Assemble the SRFP marksheet packet and draft a 150–250-word AI/ML research-interest statement.
-3. Read the CNI requirements and inventory Linux/systems/OSS evidence; do not apply without relevant systems proof.
-4. Open one target OSS repository, reproduce one meaningful issue or failing test, and record the command, cause and likely test/fix.
-5. Check the NITI Aayog monthly-window eligibility gates before the next window; do not claim eligibility until the portal confirms it.
+1. Verify Science Academies SRFP year eligibility and ask one faculty member about the recommendation route.
+2. Assemble the SRFP transcript/marksheet packet and draft a 150–250-word AI/ML research-interest statement.
+3. Read the Northwestern linked-program pages and shortlist only projects that publish international-student eligibility and funding.
+4. Check the Illinois SRP page and record its first 2027 update when eligibility, funding or dates appear.
+5. Open one target OSS repository, reproduce one meaningful issue or failing test, and record the command, cause and likely test/fix.
 
 ## GSoC / OSS ACTION
 
@@ -96,7 +96,7 @@ Choose one repository and read its contributor guide and development setup end t
 
 ## ACCOUNTABILITY
 
-Carry forward; no completion is claimed from the previous dashboard:
+Carry forward from the previous dashboard; no completion is claimed:
 
 - [ ] One meaningful OSS issue investigation
 - [ ] GSoC primary and backup project shortlist
@@ -112,12 +112,11 @@ Carry forward; no completion is claimed from the previous dashboard:
 
 ## SOURCES
 
-- CNI Research Internship: https://cni.iisc.ac.in/opportunities/research-intern/
-- Google DeepMind Student Researcher: https://deepmind.google/student-researcher-program/
-- MBZUAI MGRIP: https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program
-- OpenAI Student Collective: https://openai.com/student-collective/
+- Boston University SURF/NSF-REU: https://www.bu.edu/surf/
+- Illinois Siebel School SRP: https://siebelschool.illinois.edu/research/undergraduate-research/srp
+- Northwestern Engineering summer research programs: https://www.mccormick.northwestern.edu/students/undergraduate/research-opportunities/summer-programs.html
+- USAII Global AI Hackathon: https://www.usaii.org/ai-insights/usaii-global-ai-hackathon-2026-opens-pre-registration-for-students-worldwide
 - Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- Microsoft Research Undergraduate Internship: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
 - GSoC: https://summerofcode.withgoogle.com/
 - SWoC: https://socialwinterofcode.com/
-- NITI Aayog Internship Guidelines: https://www.niti.gov.in/sites/default/files/2023-01/NITI_Internship_Guidelines_17012023_0.pdf
+- Microsoft Research Undergraduate Internship: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
