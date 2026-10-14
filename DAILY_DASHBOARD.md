@@ -2,75 +2,88 @@
 
 ## Date
 
-13 October 2026 (UTC)
+14 October 2026 (UTC)
 
 ## NEW PROGRAMS
 
 - **IISc Centre for Networked Intelligence (CNI) Research Internship**
-  - **Why genuinely new:** The master list contains IISc summer fellowships, but not this separate CNI lab internship with its own application route, systems/ML-infrastructure scope, and selection requirements.
-  - **Organizer:** Centre for Networked Intelligence, Indian Institute of Science, Bengaluru.
-  - **Eligibility:** Undergraduate or graduate student in Computer Science, Electrical Communication, or related engineering; strong Linux/Unix, C/C++, Python, systems, networking, probability and statistics; GitHub/project evidence required.
-  - **India eligibility:** India-based, in-person; Indian undergraduates can apply subject to selection and project fit. No foreign visa/work authorization.
+  - **Why genuinely new:** The master list has IISc fellowship records, but not this separate CNI lab internship, application route or systems/ML-infrastructure scope.
+  - **Organizer:** Centre for Networked Intelligence, Indian Institute of Science.
+  - **Eligibility:** Undergraduate or graduate students in CS, ECE or related engineering; Linux/Unix, C/C++, Python, algorithms, systems, networking, probability/statistics and public evidence of projects or contributions.
+  - **India eligibility:** Indian undergraduates can apply; full-time, in-person in Bengaluru. No foreign visa/work authorization.
   - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Paid internship; amount not published. No on-campus accommodation.
-  - **2027 status:** Expected-recurring; the official page says to check again for Spring or Summer 2027 internships and is not accepting Autumn 2026 interns.
+  - **Paid/unpaid/funding:** Paid; amount not published. No on-campus accommodation.
+  - **2027 status:** Expected-recurring; the official page asks applicants to check for Spring/Summer 2027 and says Autumn 2026 is not accepting interns.
   - **Deadline/window:** No 2027 deadline published.
-  - **Relevance:** High for ML systems, distributed ML, networking and scientific software; not a general applied-ML internship.
+  - **Relevance:** High for ML systems, distributed ML, networking and scientific software; not an applied-ML model-building internship.
   - **Official source URL:** https://cni.iisc.ac.in/opportunities/research-intern/
 
-- **HKUST Summer Undergraduate Research Program**
-  - **Why genuinely new:** The master list has HKUST-related partner/research opportunities only indirectly; this is a distinct HKUST undergraduate research placement with a separate nomination/application route.
-  - **Organizer:** Hong Kong University of Science and Technology.
-  - **Eligibility:** Full-time undergraduates from HKUST exchange-partner institutions; the home institution must nominate students. Research placement carries 3 undergraduate credits. Confirm the specific 2027 academic and CGPA requirements with the home institution/HKUST.
-  - **India eligibility:** Indian nationality is not excluded, but the student’s Indian university must be an HKUST exchange partner and nominate them. On-site Hong Kong participation requires immigration permission/visa; not a no-visa target.
-  - **Fee:** No application fee stated on the official nomination page; any program/participation fee is not verified.
-  - **Paid/unpaid/funding:** Funding, accommodation and participation-cost details are not verified from the accessible official page.
-  - **2027 status:** Confirmed; nomination period is published for the 2027 program.
-  - **Deadline/window:** Nominations: 15 November 2026–5 February 2027; applications are processed on a rolling basis after nomination.
-  - **Relevance:** Strong research fit if the user’s institution is a partner, but lower priority because it is relocation- and visa-dependent.
-  - **Official source URL:** https://summercampus.hkust.edu.hk/summer-school-ug-application
+- **IITB Research Internship Award**
+  - **Why genuinely new:** This is a distinct IIT Bombay external research-internship award with project-specific selection and a 4–6 month paid placement; it is not the master list’s IIT Bombay Trust Lab or summer fellowship record.
+  - **Organizer:** Indian Institute of Technology Bombay, IRCC.
+  - **Eligibility:** External undergraduate applicants for listed projects; the current call requires full-time work and project-specific selection. Check the live project/eligibility page before any future cycle.
+  - **India eligibility:** Indian students can apply; in-person at IIT Bombay, so no foreign visa/work authorization. Accommodation is subject to availability and charges.
+  - **Fee:** No application fee stated.
+  - **Paid/unpaid/funding:** ₹15,000/month for 4–6 months.
+  - **2027 status:** Expected-recurring; the 2026–27 call is closed, not a confirmed 2027 call.
+  - **Deadline/window:** 2026–27 applications extended to 29 September 2026; interviews 26 October–5 November; results by 10 December; joining 21 December 2026–20 January 2027.
+  - **Relevance:** High-value Indian research route, but the current call may be year-gated; verify whether a B.Tech graduating in 2028 meets the next call’s year requirement.
+  - **Official source URL:** https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
 
-**Search coverage:** 20+ plausible candidates were checked across OSS (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, MLH and FOSS programs), AI/ML and computational research, Indian government and institute portals, global university/industry programs, student communities, competitions and hackathons. Candidates included HKUST SURP, IISc CNI, KPIT Sparkle, Microsoft Research Undergraduate Internship, NUS IRIS, Amgen Scholars, CERN, Google/Microsoft research routes, IndiaAI, URSC, MeitY, NSF/REU, Imagine Cup, ISC Student Cluster Competition, USPROC, Qualcomm Ambassador, and multiple IIT/CSIR routes. Existing records were treated as CHANGES; visa-gated, fee-unclear, school-level, unsupported, or aggregator-only leads were not promoted.
+- **IIT Kanpur RISE (Research Internship for International Students)**
+  - **Why genuinely new:** The master list contains IIT Kanpur SURGE, but not RISE; RISE is a separate international-student route with its own winter-online and summer-offline formats.
+  - **Organizer:** Office of International Relations, IIT Kanpur.
+  - **Eligibility:** Students from around the world; project/faculty list and document requirements are published when each application opens. No specific undergraduate year rule is currently stated.
+  - **India eligibility:** Indian students are within the stated global audience. Winter participation is online; summer is in-person in India, so no foreign visa/work authorization.
+  - **Fee:** No application fee stated; participation costs/funding are not published on the official page.
+  - **Paid/unpaid/funding:** Financial support not stated; treat as financially unverified.
+  - **2027 status:** Expected-recurring; no 2027 call published.
+  - **Deadline/window:** Winter applications typically September–October; summer applications typically February–March. The official page calls these tentative periods.
+  - **Relevance:** Strong research option if a suitable AI/ML/software project appears; winter online is the most India-accessible route.
+  - **Official source URL:** https://www.iitk.ac.in/oir/iitk-rise
+
+**Search coverage:** More than 20 plausible candidates were checked across OSS (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, MLH and FOSS programs), AI/ML research, Indian government/institute portals, global university/industry programs, student communities and competitions. Candidates reviewed included IITB Research Internship, IISc CNI, IITK RISE, IIT Hyderabad SURE, IIT Madras SFP/RBCDSAI, IIT Delhi SRFP, IIIT Nagpur, NPTEL internships, Science Academies SRFP, Microsoft Research, AI2, Google research routes, Amgen Scholars, CERN, IndiaAI, URSC, MeitY, Imagine Cup, MLH and multiple OSS mentorships. Existing records, aliases, aggregator-only leads, fee-based programs, DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST were not promoted as new active targets.
 
 ## CHANGES
 
-- **URSC Internship Programme — existing ISRO record:** The October–December 2026 portal is closed after reaching capacity. The next portal reopening is **2 November 2026 at 10:00 IST** for internships during 1 January–31 March 2027. Eligibility includes Indian citizenship, 5th semester/3rd year or later, and at least 60%/6.32 CGPA; unpaid and no accommodation. https://www.ursc.gov.in/hrd/students.jsp
-- **Microsoft Research Undergraduate Research Internship — existing Microsoft Research record:** Summer 2027 applications were accepted until **5 October 2026**; the current window is closed. The official program is a 12-week, US-based internship for rising juniors/seniors, so it is not a primary India/no-authorization target. https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
-- **Outreachy December 2026–March 2027 — existing record:** Approved applicants’ contribution and final-application period runs **12 October–9 November 2026, 4pm UTC**; the initial application window has closed. https://www.outreachy.org/apply/project-selection/
-- **Science Academies SRFP 2027 — existing record:** Official deadline remains **30 November 2026**; second- and third-year BE/BTech students are within the published year range, subject to marks and recommendation requirements. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **GSoC 2027 — existing record:** 2027 dates are not yet officially published. Use 2026 timing only as a planning assumption. https://developers.google.com/open-source/gsoc/timeline
+- **IITB Research Internship Award:** The official 2026–27 call is closed. Interviews are scheduled for **26 October–5 November 2026**, results by **10 December**, and joining **21 December 2026–20 January 2027**. https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
+- **IISc CNI:** The official page confirms no Autumn 2026 interns and directs applicants to watch for Spring/Summer 2027; this is a systems/ML-infrastructure route, not general applied AI. https://cni.iisc.ac.in/opportunities/research-intern/
+- **Outreachy December 2026–March 2027:** The contribution and final-application period is **12 October–9 November 2026, 4pm UTC**, only for applicants whose initial application was accepted. https://www.outreachy.org/apply/project-selection/
+- **Science Academies SRFP 2027:** The official application deadline remains **30 November 2026**; BE/BTech II–III year students can apply subject to the 65% core-subject threshold and recommendation requirements. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **GSoC 2027:** Dates are not yet officially published. Use the 2026 timeline only as a planning assumption. https://developers.google.com/open-source/gsoc/timeline
 
 ## UPCOMING 3 MONTHS
 
-- **2 November:** URSC portal reopens at 10:00 IST for the January–March 2027 window; prepare marksheets, CV and college permission letter.
-- **15 November–5 February:** HKUST SURP nomination period; only investigate if the user’s institution confirms exchange-partner status.
+- **26 October–5 November:** IITB Research Internship interviews; current applicants should monitor the official portal.
+- **2 November, 10:00 IST:** URSC portal is scheduled to reopen for January–March 2027 internships; the existing ISRO record requires Indian citizenship and typically 5th semester/3rd year or later. https://www.ursc.gov.in/hrd/students.jsp
+- **9 November:** Outreachy final-application deadline for accepted initial applicants.
 - **30 November:** Science Academies SRFP 2027 deadline.
 - **31 December:** SWoC Season 7 registration deadline; free OSS participation, not a GSoC equivalent. https://socialwinterofcode.com/
-- **Spring/Summer 2027, date unannounced:** IISc CNI may reopen applications; monitor the official page and build systems/ML-infrastructure evidence first.
+- **Spring/Summer 2027, date unannounced:** IISc CNI may reopen; build systems/ML-infrastructure evidence before applying.
 
 ## EARLY-PREP ALERTS
 
-- **Science Academies SRFP:** Confirm second-year status and marks, request a recommender, collect transcript/marksheets, and draft a focused AI/ML research statement.
-- **IISc CNI:** If systems research is a serious target, document one Linux/networking/ML-systems project with a public repository, reproducible commands and results; do not apply as a generic applied-ML candidate.
-- **GSoC/LFX:** Choose one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. Do not invent 2027 dates.
-- **URSC:** Prepare the college permission letter and all semester marksheets before the 2 November reopening.
+- **Science Academies SRFP:** Confirm second-year status and marks, identify a recommender, scan all marksheets, and draft the required 150–250-word specific research-interest statement.
+- **URSC:** Prepare CV, semester marksheets and a college permission-letter template before the 2 November reopening.
+- **GSoC/LFX:** Select one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. Do not invent 2027 dates.
+- **IITK RISE:** Watch for the winter project list and prepare a concise research CV; do not assume stipend or fee status until the 2027 call states it.
+- **IISc CNI:** Only target this if a public project demonstrates Linux, systems, networking or distributed-ML capability.
 
 ## DEADLINE ALERTS
 
-- **Outreachy final application:** 9 November 2026, 4pm UTC — only for applicants whose initial application was accepted.
-- **Science Academies SRFP 2027:** 30 November 2026 — confirmed official deadline.
+- **Outreachy final application:** 9 November 2026, 4pm UTC — only for accepted initial applicants.
 
 ## TODAY'S TODO
 
-1. Confirm whether the user’s institution is an HKUST exchange partner; if not, drop HKUST from active preparation.
-2. Check Science Academies year/marks eligibility and request the required recommendation.
-3. Assemble the SRFP transcript/marksheet packet and draft a 150–250-word AI/ML research-interest statement.
-4. Prepare the URSC CV, all semester marksheets and college permission-letter template for the 2 November reopening.
-5. Choose one GSoC/LFX repository, read its contributor guide, and reproduce one real issue or failing test.
+1. Check Science Academies SRFP eligibility and request the required teacher recommendation.
+2. Assemble the SRFP marksheet packet and draft the 150–250-word research-interest statement.
+3. Prepare the URSC CV, marksheets and permission-letter template for 2 November.
+4. Choose one GSoC/LFX repository, complete local setup, and reproduce one issue or failing test.
+5. Check whether the IITB call’s full-time/year requirement could fit the user’s 2028 graduation timeline; do not apply without confirming.
 
 ## GSoC / OSS ACTION
 
-Work in one real codebase today: complete local setup, reproduce an issue or failing test, and record the command/output. Then join the documented discussion channel with an evidence-based question. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. **GSoC 2027 dates are not yet officially published.**
+Work in one real codebase today: finish setup, reproduce an issue or failing test, and record the command/output. Then join the project’s documented discussion channel with an evidence-based question. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. **GSoC 2027 dates are not yet officially published.**
 
 ## ACCOUNTABILITY
 
@@ -91,13 +104,12 @@ No completion is claimed from the previous dashboard. Carry forward:
 ## SOURCES
 
 - IISc CNI Research Intern: https://cni.iisc.ac.in/opportunities/research-intern/
-- HKUST Summer UG Research nomination: https://summercampus.hkust.edu.hk/summer-school-ug-application
-- HKUST research-course transcript information: https://summercampus.hkust.edu.hk/hkust-summer-ug-research-program
-- URSC student internship/project schemes: https://www.ursc.gov.in/hrd/students.jsp
-- Microsoft Research Undergraduate Internship: https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
-- Outreachy project selection timeline: https://www.outreachy.org/apply/project-selection/
+- IITB Research Internship Award: https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
+- IIT Kanpur RISE: https://www.iitk.ac.in/oir/iitk-rise
 - Science Academies SRFP 2027 instructions: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- GSoC FAQ/timeline guidance: https://developers.google.com/open-source/gsoc/faq and https://developers.google.com/open-source/gsoc/timeline
+- URSC student internship/project schemes: https://www.ursc.gov.in/hrd/students.jsp
+- Outreachy project-selection timeline: https://www.outreachy.org/apply/project-selection/
+- GSoC timeline guidance: https://developers.google.com/open-source/gsoc/timeline
 - SWoC Season 7: https://socialwinterofcode.com/
-- Amgen Scholars Asia (reviewed; existing dashboard item, visa-required/watch): https://amgenscholars.com/asia-program/
-- MeitY Digital India Internship (reviewed; existing master record): https://intern.meity.gov.in/register
+- HKUST SURP (reviewed; existing dashboard item, visa/watch): https://summercampus.hkust.edu.hk/summer-school-ug-application
+- Microsoft Research Undergraduate Internship (reviewed; existing master record, foreign authorization/watch): https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/
