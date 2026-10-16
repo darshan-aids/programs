@@ -227,6 +227,12 @@
 219. Ministry of External Affairs (MEA) Internship Programme
 220. Project NANDA / Foundation for Agentic Networks (FAN) Early Career AI Fellowship
 
+
+221. Great Indian AI Internship Challenge 2026 — Gnani AI
+222. NEW2AN 2026 Global Undergraduate Hackathon
+223. Google Student Researcher Program (including Google DeepMind research teams)
+224. INSAIT Summer Undergraduate Research Fellowship (SURF)
+
 ## Structural / Classification Notes
 
 - **DRDO programs:** explicitly excluded from active targeting by the user; retain historical/master records under the zero-deletion rule, but do not surface them in daily action dashboards unless the user explicitly restores them.
@@ -249,3 +255,8 @@
 - #220 Project NANDA / FAN Early Career AI Fellowship: newly discovered AI-agent infrastructure fellowship track. Current listing is remote/global, contract-based, full-time or part-time (minimum 20 hours/week), stipend-supported, with no years-of-experience requirement; the Early Career track targets final-year students, bootcamp graduates, or self-taught builders. No fixed 2027 cohort deadline is currently published; watch for the next cohort. Relevance is high because of the user's AI-agent/open-source work.
 - NIST SURF was researched but **not added** because its official eligibility requires U.S. citizenship/permanent residence and undergraduate enrollment at a U.S. college/university.
 - Current status, deadline and eligibility must be reverified from official sources before being presented as current.
+
+- #221 Great Indian AI Internship Challenge 2026 (Gnani AI): free India-based student build challenge; final submission 10 November 2026, 11:59 PM IST. Up to 100 six-month internships beginning 1 January 2027, stipend up to ₹1 lakh/month, plus 10 project awards of ₹50,000; selection-dependent. Requires a working demo using Gnani models/APIs. Official source: https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
+- #222 NEW2AN 2026 Global Undergraduate Hackathon: online submission for registered undergraduates worldwide, teams of 3–5; initial deadline 31 October 2026. No fee or prize amount stated on official page; verify registration terms. Overseas Colombo recognition/final travel requirements are unverified. Official source: https://new2an.com/hackathon.html
+- #223 Google Student Researcher Program: distinct student research hiring route; current Winter–Summer 2027 BS/MS listing is US-based and does not establish India eligibility. Paid employment, role-specific conditions; retain as eligibility-gated/watch, not an India-eligible remote opportunity. Official sources: https://deepmind.google/student-researcher-program/ and https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bs-ms-winter-summer-2027
+- #224 INSAIT Summer Undergraduate Research Fellowship (SURF): 2026 call offered €1,500/month plus accommodation/travel support, but 2027 call/deadline/funding are not yet confirmed. Global bachelor’s eligibility wording; in-person Sofia placement requires relevant entry authorization. Retain as expected-recurring/watch, not an open 2027 application. Official source: https://insait.ai/surf/
