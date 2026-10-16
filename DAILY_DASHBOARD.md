@@ -2,76 +2,103 @@
 
 ## Date
 
-15 October 2026 (UTC)
+16 October 2026 (UTC)
 
 ## NEW PROGRAMS
 
-- **MBZUAI Global Research Internship Program (MGRIP; formerly UGRIP)**
-  - **Why genuinely new:** MASTER_LIST.md contains no MBZUAI MGRIP/UGRIP record; it is distinct from the listed KAUST, GIST and other international research programs.
-  - **Organizer:** Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi.
-  - **Eligibility:** Global undergraduate and master's students; recent cycles generally favored penultimate/final undergraduate years, academic strength and AI/STEM research potential. Exact 2027 criteria are not yet published.
-  - **India eligibility:** Indian applicants are within the global audience, but participation is an in-person Abu Dhabi residency and requires UAE entry authorization; this is **VISA-REQUIRED / NOT A PRIMARY TARGET**.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** Fully funded in the published program description: stipend, accommodation, health insurance, airfare, airport transfers and visa costs.
-  - **2027 status:** Expected-recurring; official 2027 project list and timeline are expected in November 2026, not yet confirmed.
-  - **Deadline/window:** 2027 window not published.
-  - **Relevance:** Very high AI/ML, computer vision, NLP and robotics relevance, but graduation timing and physical relocation make this a watch item for this user.
-  - **Official source URL:** https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program
+- **Great Indian AI Internship Challenge 2026**
+  - **Why genuinely new:** No Gnani AI challenge or internship-selection program appears in MASTER_LIST.md; this is a distinct India-based build challenge with its own registration, submission and interview route.
+  - **Organizer:** Gnani AI.
+  - **Eligibility:** Enrolled students at colleges/universities in India, age 18+; solo or exactly two-person teams. B.Tech is explicitly supported.
+  - **India eligibility:** Yes; India-based and no foreign visa/work authorization.
+  - **Fee:** Free; registrants receive programme credits.
+  - **Paid/unpaid/funding:** Up to 100 six-month internships from 1 January 2027, with stipend up to ₹1 lakh/month; 10 ₹50,000 project awards. Final offers and stipend are selection-dependent.
+  - **2027 status:** Confirmed.
+  - **Deadline/window:** Final submission 10 November 2026, 11:59 PM IST; no extensions stated.
+  - **Relevance:** Very high India-first AI/ML, speech, Indic-language and agent-building fit; requires a working public demo using Gnani models/APIs.
+  - **Official source URL:** https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
 
-- **AAAI-27 Undergraduate Consortium (AAAI-UC)**
-  - **Why genuinely new:** MASTER_LIST.md has no AAAI Undergraduate Consortium record; this is a separate undergraduate AI research-proposal, mentoring and poster program, not a general AAAI conference listing.
-  - **Organizer:** Association for the Advancement of Artificial Intelligence.
-  - **Eligibility:** Actively enrolled undergraduate students; 2027 call prioritizes students more than one year from graduation, especially sophomores/juniors in a standard four-year path. A personal statement and two-page AI research statement are required.
-  - **India eligibility:** The call does not state a nationality exclusion, so Indian students may apply; attendance is required in Montréal and immigration/visa requirements are **UNVERIFIED**.
-  - **Fee:** No application fee stated.
-  - **Paid/unpaid/funding:** No stipend stated; selected students receive travel funding.
-  - **2027 status:** Confirmed; the official 2027 call is published.
-  - **Deadline/window:** Full application deadline was 5 October 2026, 11:59pm AoE; closed as of this dashboard date. Program attendance is 15–19 February 2027.
-  - **Relevance:** Strong AI research preparation and mentorship fit, but it is no longer actionable this cycle and requires foreign travel; retain as a future-cycle watch item, not a primary target.
-  - **Official source URL:** https://aaai.org/conference/aaai/aaai-27/undergraduate-consortium-call-for-participation/
+- **NEW2AN 2026 Global Undergraduate Hackathon**
+  - **Why genuinely new:** No NEW2AN record exists in MASTER_LIST.md; it is a separate global undergraduate competition, not an alias of Smart India Hackathon, NASA Space Apps or another listed event.
+  - **Organizer:** NEW2AN 2026 organising committee.
+  - **Eligibility:** Currently registered undergraduates globally; teams of 3–5, including students from different institutions/countries. AI/ML, connected systems, digital health and responsible technology are eligible themes.
+  - **India eligibility:** Yes for online registration and submission. Colombo recognition/final attendance is abroad; travel/visa requirements are not stated and therefore **VISA STATUS UNVERIFIED / WATCH**.
+  - **Fee:** No fee stated on the official page; verify registration terms when the form is released.
+  - **Paid/unpaid/funding:** No stipend or prize amount stated on the official page.
+  - **2027 status:** Unknown; 2026 cycle is confirmed.
+  - **Deadline/window:** Registration and initial submission deadline 31 October 2026; online/hybrid final 8 December; Colombo recognition 15 December.
+  - **Relevance:** Good AI/ML prototype and responsible-AI portfolio fit; primary activity can be completed online, but do not assume overseas attendance is visa-free.
+  - **Official source URL:** https://new2an.com/hackathon.html
 
-**Search coverage:** Reviewed more than 20 plausible candidates across OSS (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, Mozilla, FOSS programs and university open-source routes), AI/ML research, Indian government and institute portals, global university/industry internships, student communities, hackathons and AI competitions. Deduplication rejected existing records such as GSoC, LFX, Outreachy, C4GT, OSRE, MATS, SPAR, Science Academies SRFP, IISER Pune, IITK RISE, IITB RIA, IISc CNI, IndiaAI, ISRO/URSC, Microsoft Research and Claude Campus. Fee-based opportunities, DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST were excluded from active targeting.
+- **Google Student Researcher Program (including Google DeepMind research teams)**
+  - **Why genuinely new:** MASTER_LIST.md contains Google DeepMind scholarships/residency records but no Student Researcher Program; this is a distinct student research hiring route with current BS/MS and 2026–27 postings.
+  - **Organizer:** Google Research / Google DeepMind and other Google research teams.
+  - **Eligibility:** Current bachelor’s, master’s or PhD students, with relevant technical coursework/research; the specific role controls degree, dates and location.
+  - **India eligibility:** Not established for the current posting reviewed. The official 2027 BS/MS listing requires the student to remain in one of its specified countries for the full engagement; the reviewed role is US-based, so foreign work authorization/visa is **UNVERIFIED / WATCH** and it is not a primary India target.
+  - **Fee:** No application fee stated.
+  - **Paid/unpaid/funding:** Paid employment; compensation is role- and location-specific. The reviewed US listing publishes US compensation and benefits.
+  - **2027 status:** Confirmed for the current Winter–Summer 2027 posting.
+  - **Deadline/window:** Rolling/current careers postings; no single programme-wide deadline stated.
+  - **Relevance:** Very high AI/ML research fit, but do not apply as an India-accessible remote opportunity without a role explicitly permitting India participation and confirming authorization.
+  - **Official source URL:** https://deepmind.google/student-researcher-program/
+
+- **INSAIT Summer Undergraduate Research Fellowship (SURF)**
+  - **Why genuinely new:** INSAIT SURF is absent from MASTER_LIST.md and is distinct from ISTA, CERN, EPFL, Aalto and the listed Indian research programmes.
+  - **Organizer:** Institute for Computer Science, Artificial Intelligence and Technology (INSAIT), Sofia.
+  - **Eligibility:** Bachelor’s students at accredited universities worldwide in STEM, including computer science, mathematics, physics and engineering; minimum GPA 3.5/4.0 or equivalent.
+  - **India eligibility:** Indian students are within the global eligibility wording, but the programme is an in-person Sofia placement and requires Bulgarian/Schengen entry authorization; **VISA-REQUIRED / NOT A PRIMARY TARGET**.
+  - **Fee:** No application fee stated on the official programme page.
+  - **Paid/unpaid/funding:** Published 2026 information states €1,500/month, accommodation and travel support; treat 2027 funding as **UNVERIFIED** until the new call is posted.
+  - **2027 status:** Expected-recurring; only the 2026 call is officially evidenced.
+  - **Deadline/window:** 2027 deadline not published; the official 2026 window was 4 February–8 March, so February–March 2027 is planning-only.
+  - **Relevance:** Excellent AI/CS research fit, but physical relocation and visa requirements make it a watch item.
+  - **Official source URL:** https://insait.ai/surf/
+
+**Search coverage:** Checked 30+ plausible candidates across OSS/contributor programmes (GSoC, LFX/CNCF, Outreachy, Apache, Python/Jupyter/NumFOCUS, Mozilla, FOSS and university routes), AI/ML research, Indian government/institute portals, global university/industry internships, student communities and hackathons. Deduplication rejected existing records including GSoC, LFX, Outreachy, MLH, Processing Foundation, FOSS United, IndiaAI, ISRO, Science Academies SRFP, Aalto, EPFL, HKUST, CERN, KAUST, IIT/IISER programmes and listed AI fellowships. Fee-based routes and DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST were excluded from active targeting.
 
 ## CHANGES
 
-- **Outreachy December 2026–March 2027:** Initial applications are closed. Accepted applicants can contribute and submit final applications through **9 November 2026 at 4pm UTC**; interns are announced 30 November and the internship runs 7 December–8 March. https://www.outreachy.org/apply/project-selection/
-- **SPAR (existing record):** Fall 2026 applications are closed; the official site says Spring 2027 applications should open around December and the program is part-time and remote. This is a potentially India-accessible AI-safety research route, subject to the next eligibility and funding notice. https://sparai.org/
-- **Science Academies SRFP 2027 (existing record):** The official deadline remains **30 November 2026**. BE/BTech second- and third-year applicants must check the marks threshold, recommendation and statement requirements. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **GSoC 2027 (existing record):** 2027 dates are not yet officially published. Use the 2026 timeline only as a planning assumption. https://developers.google.com/open-source/gsoc/timeline
-- **Horizon Fellowship (discovery lead, not active target):** The 2027 cohort is confirmed but applications closed 30 August 2026; full-time Washington, DC placement and U.S. work authorization make it unsuitable for the current India-first target. https://horizonpublicservice.org/applications-open-for-2027-horizon-fellowship-cohort/
+- **IndiaAI Fellowship (existing record):** Official 2026–27 announcements indicate applications are open through 30 November 2026, but the current undergraduate route is for final-year students (and requires the published marks/course/endorsement conditions). The user graduates in 2028, so this is not currently eligible. https://fellowship.indiaai.gov.in/announcements
+- **Outreachy December 2026–March 2027 (existing record):** Initial applications are closed; accepted applicants can contribute and submit final applications through 9 November 2026 at 4 PM UTC. https://www.outreachy.org/apply/project-selection/
+- **Science Academies SRFP 2027 (existing record):** Deadline remains 30 November 2026. Verify second-year B.Tech eligibility, marks threshold, recommendation and statement requirements. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **GSoC 2027 (existing record):** 2027 dates are not yet officially published; use the 2026 timeline only as a planning assumption. https://developers.google.com/open-source/gsoc/timeline
+- **SPAR (existing record):** Spring 2027 applications are expected around December; no exact date is published. https://sparai.org/
 
 ## UPCOMING 3 MONTHS
 
-- **Through 9 November:** Outreachy contribution period and final applications, only for accepted initial applicants.
-- **26 October–5 November:** IITB Research Internship Award interviews for the existing 2026–27 call; monitor the official portal if already in the applicant pool. https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
-- **2 November, scheduled:** URSC portal reopening for January–March 2027 internships; verify the live notice, semester/year requirement and documents before applying. https://www.ursc.gov.in/hrd/students.jsp
+- **31 October:** NEW2AN initial submission; online route is available to Indian undergraduates, subject to team formation.
+- **9 November:** Outreachy final application/contribution milestone, only for applicants already accepted into the contribution phase.
+- **10 November:** Gnani Great Indian AI Internship Challenge final submission.
 - **30 November:** Science Academies SRFP 2027 application deadline.
-- **December:** SPAR Spring 2027 applications expected to open; no exact date is published.
+- **December:** SPAR Spring 2027 window expected; exact date unverified.
 - **31 December:** SWoC Season 7 registration deadline; free remote OSS/community participation, not a GSoC equivalent. https://socialwinterofcode.com/
 
 ## EARLY-PREP ALERTS
 
-- **Science Academies SRFP:** Confirm second-year status and marks, request the teacher recommendation, scan marksheets and draft the required research-interest statement.
-- **URSC:** Prepare CV, marksheets and college permission/NOC documents before the scheduled reopening; confirm the user’s semester eligibility first.
-- **SPAR:** Read the current project pages, choose one AI-safety/policy question, and prepare a concise research sample before the Spring 2027 window.
-- **GSoC/LFX:** Select one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. Do not invent 2027 dates.
-- **MGRIP watch:** Recheck the official MBZUAI page in November only if the user is willing to pursue an in-person, visa-required program and the 2027 year-of-study rule fits.
+- **Gnani AI:** Pick an India-relevant problem, build a small working voice/agent prototype, use synthetic or consented data, and publish a truthful demo before the fixed 10 November deadline.
+- **Science Academies SRFP:** Confirm year/marks eligibility, request the recommendation, scan marksheets and draft the research-interest statement.
+- **NEW2AN:** Form a 3–5-person team and write a responsible-AI problem statement plus prototype plan before 31 October.
+- **GSoC/LFX:** Choose one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. Do not invent 2027 dates.
+- **INSAIT/Google Student Researcher:** Watch only; recheck official 2027 role/call details before spending application time because onsite authorization is unresolved.
 
 ## DEADLINE ALERTS
 
-- **Outreachy final application:** 9 November 2026, 4pm UTC — only for applicants whose initial application was accepted. https://www.outreachy.org/apply/project-selection/
+- **NEW2AN initial submission:** 31 October 2026 — global undergraduate teams; online submission. https://new2an.com/hackathon.html
+- **Outreachy final application:** 9 November 2026, 4 PM UTC — accepted initial applicants only. https://www.outreachy.org/apply/project-selection/
+- **Gnani Great Indian AI Internship Challenge:** 10 November 2026, 11:59 PM IST — enrolled India-based students, age 18+. https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
+- **Science Academies SRFP 2027:** 30 November 2026 — verify the user’s year and marks eligibility first. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 
 ## TODAY'S TODO
 
-1. Confirm Science Academies SRFP year/marks eligibility and request the required recommendation.
-2. Assemble the SRFP marksheet packet and draft the research-interest statement.
-3. Prepare the URSC CV, marksheets and permission/NOC template; verify the 2 November notice when the portal opens.
-4. Choose one GSoC/LFX repository, complete local setup, and reproduce one issue or failing test with the command/output recorded.
-5. Read one SPAR project page and write a 150-word research question for the expected December application window.
+1. Register for the Gnani challenge and choose a small build scope that can reach a working demo by 10 November.
+2. Confirm Science Academies SRFP year/marks eligibility and request the required recommendation.
+3. Find 2–4 teammates for NEW2AN and agree on one responsible-AI problem and division of work.
+4. Choose one GSoC/LFX repository, complete local setup, and reproduce one issue or failing test with command/output recorded.
+5. Read one SPAR project page and write a 150-word research question for the expected December window.
 
 ## GSoC / OSS ACTION
 
-Work in one real codebase today: finish setup, reproduce an issue or failing test, and record the evidence. Then use the project’s documented channel to ask one specific, evidence-based maintainer question. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. **GSoC 2027 dates are not yet officially published.**
+Work in one real codebase: finish setup, reproduce an issue or failing test, and record the evidence. Then ask one specific, evidence-based maintainer question in the project’s documented channel. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. **GSoC 2027 dates are not yet officially published.**
 
 ## ACCOUNTABILITY
 
@@ -91,13 +118,14 @@ No completion is claimed from the previous dashboard. Carry forward:
 
 ## SOURCES
 
-- MBZUAI MGRIP: https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program
-- AAAI-27 Undergraduate Consortium: https://aaai.org/conference/aaai/aaai-27/undergraduate-consortium-call-for-participation/
-- Outreachy project-selection timeline: https://www.outreachy.org/apply/project-selection/
-- SPAR: https://sparai.org/
-- Science Academies SRFP 2027 instructions: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- URSC student internship/project schemes: https://www.ursc.gov.in/hrd/students.jsp
-- IITB Research Internship Award: https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/
+- Gnani AI challenge: https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
+- NEW2AN Global Undergraduate Hackathon: https://new2an.com/hackathon.html
+- Google DeepMind Student Researcher Program: https://deepmind.google/student-researcher-program/
+- Google Student Researcher BS/MS Winter–Summer 2027 listing: https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bs-ms-winter-summer-2027
+- INSAIT SURF: https://insait.ai/surf/
+- IndiaAI Fellowship announcements: https://fellowship.indiaai.gov.in/announcements
+- Outreachy timeline: https://www.outreachy.org/apply/project-selection/
+- Science Academies SRFP 2027: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
 - GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
-- SWoC Season 7: https://socialwinterofcode.com/
-- Horizon Fellowship 2027 announcement: https://horizonpublicservice.org/applications-open-for-2027-horizon-fellowship-cohort/
+- SPAR: https://sparai.org/
+- SWoC: https://socialwinterofcode.com/
