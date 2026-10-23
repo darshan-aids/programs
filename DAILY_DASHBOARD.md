@@ -2,63 +2,73 @@
 
 ## Date
 
-22 October 2026 (UTC)
+23 October 2026 (UTC)
 
 ## NEW PROGRAMS
 
-- **hackCBS 9.0**
-  - **Why genuinely new:** A distinct named student hackathon absent from all 224 records in `MASTER_LIST.md`; the prior dashboard mentioned the event, but it was not yet registered in the master.
-  - **Organizer:** Kronos, the Tech Society of Shaheed Sukhdev College of Business Studies
-  - **Eligibility:** Students only; student-ID verification at the event; teams of 2–4; beginners welcome.
-  - **India eligibility:** Yes; New Delhi, India. International students are also stated to be welcome.
-  - **Fee:** No participation or registration fee.
-  - **Paid/unpaid/funding:** No participant stipend stated; prizes and swag are advertised, but exact award terms should be checked in the registration flow.
-  - **2027 status:** Unknown; only the 2026 event is officially listed.
-  - **Deadline/window:** Offline event on 31 October–1 November 2026; registration status should be verified immediately.
-  - **Relevance:** High for software, AI and data-oriented building, teamwork and portfolio evidence; requires travel to Delhi.
-  - **Official source URL:** https://hackcbs.tech/
+- **Purdue Engineering Summer Undergraduate Research Fellowships (SURF) 2027**
+  - **Why genuinely new:** Purdue SURF is absent from all 224 records in `MASTER_LIST.md`; it is distinct from the listed Purdue/IIT/European research programs.
+  - **Organizer:** Purdue University College of Engineering
+  - **Eligibility:** Undergraduates from U.S. and international institutions; 2027 international deadline is listed as 15 December 2026. Exact year-of-study and project requirements must be checked in the application.
+  - **India eligibility:** International applicants are explicitly referenced; Indian eligibility and whether an India-based/remote placement is possible require confirmation.
+  - **Fee:** No application fee was identified in the official search result; verify the application terms before submission.
+  - **Paid/unpaid/funding:** Paid SURF experience is described, but 2027 amount and support are not confirmed in the accessible official material.
+  - **2027 status:** Confirmed.
+  - **Deadline/window:** Opens early November 2026; international deadline 15 December 2026. Program includes a remote component and an in-person component according to the current official listing.
+  - **Relevance:** High AI/ML/research fit, but **VISA STATUS UNVERIFIED / WATCH** until the exact placement and authorization rules are confirmed.
+  - **Official source URL:** https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF
+
+- **Siebel School for Computing and Data Science Summer Research Program (SRP) 2027**
+  - **Why genuinely new:** This Illinois computing/data-science SRP is absent from the master list and is not the listed UChicago DSI Summer Lab or another Illinois-linked record.
+  - **Organizer:** University of Illinois Urbana-Champaign, Siebel School
+  - **Eligibility:** Undergraduate applicants; the official page currently requests a CV, one professional reference, personal statement, research statement and short bio. International eligibility is not stated on the page.
+  - **India eligibility:** **UNVERIFIED / WATCH**; no nationality restriction is published on the current page, but this does not establish eligibility from India.
+  - **Fee:** No application fee is stated; verify before applying.
+  - **Paid/unpaid/funding:** Funding and hours are negotiated individually with the faculty mentor after acceptance; amount is not guaranteed.
+  - **2027 status:** Confirmed.
+  - **Deadline/window:** Applications open 7 December 2026; program runs 1 June–30 July 2027 in hybrid format.
+  - **Relevance:** High computing/data-science research fit; in-person participation may require U.S. authorization, so it is not a confirmed no-visa target.
+  - **Official source URL:** https://siebelschool.illinois.edu/research/undergraduate-research/srp
 
 ## CHANGES
 
-- **NEW2AN 2026 Global Undergraduate Hackathon (master record #222):** Official page now specifies a 31 October initial-submission deadline, shortlisted-team mentoring and prototype development from 10–28 November, an online/hybrid final on 8 December, and Colombo recognition on 15 December. India-based students can submit online, but any in-person travel/award requirement remains a personal logistics question. https://new2an.com/hackathon.html
-- **Outreachy December 2026 cohort (master record #3):** Official rules confirm a paid remote internship, 7 December 2026–8 March 2027, $7,000 stipend and 9 November final deadline. Students enrolled at Indian universities are restricted to the May–August cohort, so this round is not an active target. https://www.outreachy.org/docs/applicant/
-- **Great Indian AI Internship Challenge 2026 — Gnani AI (master record #221):** Official page confirms free entry, enrolled-student eligibility in India, solo/pair builds, 10 November 2026 11:59 PM IST deadline, and up to 100 selection-dependent six-month internships from 1 January 2027. The stipend is **up to** ₹1 lakh/month, not guaranteed. https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
-- **Science Academies SRFP 2027 (master record #137):** Official instructions confirm the 30 November 2026 deadline, BE/BTech II–III-year eligibility, 65% core-subject average, marksheets and a present-teacher recommendation contact. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **GSoC 2027 (master record #1):** 2027 dates and organization list remain unpublished. Use the official site for contributor guidance only; do not treat 2026 dates as confirmed. https://summerofcode.withgoogle.com/
+- **IndiaAI Fellowship (master record #82):** The official portal/search material reports AY 2026–27 applications open 16 October–30 November 2026, Indian-national eligibility, and UG funding up to ₹1 lakh. A four-year UG applicant must generally have completed the sixth semester/third-year results; the user's 2028 graduation makes this a later-stage opportunity, not a current target. https://fellowship.indiaai.gov.in/announcements
+- **Science Academies SRFP 2027 (master record #137):** The 30 November 2026 deadline and BE/BTech II–III-year eligibility remain confirmed. Prepare marksheets, the required research-interest statement and a current-teacher recommendation contact. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **Claude Campus Program (master record #165):** Anthropic confirms free application/participation, a USD 3,600 stipend, global student applications, 18+ requirement and work authorization in the country of study. The listed cycle runs September 2026–June 2027; the published application window was 1–12 September, so it is not newly open today. https://claude.com/programs/campus
+- **Processing Foundation Fellowship (master record #26):** The 2027 call is reported as 7 October–1 November 2026 with a USD 10,000 stipend, but it is an existing master record, not a new program. Confirm the organizer's own call page before treating it as an active target. https://processingfoundation.org/
+- **GSoC 2027 (master record #1):** 2027 dates and organization list are not officially published. Use 2026 timing only as a planning assumption; do not present it as a deadline. https://summerofcode.withgoogle.com/
 
 ## UPCOMING 3 MONTHS
 
-- **31 October–1 November:** hackCBS 9.0, free offline New Delhi student hackathon; confirm registration, team, student ID and travel. https://hackcbs.tech/
-- **31 October:** NEW2AN initial online submission; teams of 3–5 registered undergraduates. https://new2an.com/hackathon.html
-- **10 November:** Gnani AI final submission, 11:59 PM IST; India-enrolled students, solo or pair. https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
-- **30 November:** Science Academies SRFP 2027; only if the user's year, marks and recommender requirements are satisfied. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- **8 December:** NEW2AN online/hybrid final for shortlisted teams; Colombo recognition is 15 December. https://new2an.com/hackathon.html
-- **31 December:** Social Winter of Code Season 7 registration, free remote OSS/community route; not a paid internship equivalent. https://socialwinterofcode.com/
+- **30 November:** Science Academies SRFP 2027; check year/marks and recommendation requirements before investing application time. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **30 November:** IndiaAI Fellowship AY 2026–27; likely not eligible yet because the UG route is final-year-gated. https://fellowship.indiaai.gov.in/announcements
+- **15 December:** Purdue Engineering SURF international deadline; verify India participation, fee and visa/authorization rules first. https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF
+- **7 December:** Illinois Siebel SRP application opens for the 2027 summer program; prepare materials, but verify international and authorization rules. https://siebelschool.illinois.edu/research/undergraduate-research/srp
+- **31 December:** Social Winter of Code Season 7 registration remains a free remote OSS practice route; it is not equivalent to a paid internship. https://socialwinterofcode.com/
 
 ## EARLY-PREP ALERTS
 
-- **Science Academies SRFP:** Confirm second-year B.Tech status, marks average, scanned Class X–latest marksheets and one current teacher's contact; draft the required 150–250-word research-interest statement.
-- **GSoC/LFX/CNCF:** Select one primary and one backup repository, build locally, reproduce one real issue or failing test, and ask a specific maintainer question. **GSoC 2027 dates not yet officially published.**
-- **NEW2AN:** If a team is feasible, choose a human-centred AI/ML problem and prepare a concise concept, technical approach, responsible-AI note and pitch before the 31 October submission.
-- **Social Winter of Code:** Treat as a low-risk OSS practice route; inspect project documentation and contribution rules before registration rather than producing meaningless PR volume.
+- **Purdue SURF:** Locate a suitable faculty/project, prepare a research CV and transcript, and email the program asking whether an Indian undergraduate can use the remote component without U.S. work authorization.
+- **Illinois SRP:** Prepare the CV, 300–500-word personal statement, research statement and professional reference; ask the program whether Indian applicants may apply and whether hybrid participation requires a visa.
+- **Science Academies SRFP:** Confirm that the 2028 graduation timeline satisfies the II–III-year rule, collect marksheets and draft the 150–250-word research-interest statement.
+- **GSoC/LFX/CNCF:** Choose one primary and one backup repository, run the code locally, reproduce one real issue or failing test, and ask a specific maintainer question. **GSoC 2027 dates not yet officially published.**
 
 ## DEADLINE ALERTS
 
-- **hackCBS 9.0:** Event begins 31 October 2026; registration and Delhi travel need immediate verification. https://hackcbs.tech/
-- **NEW2AN 2026:** Initial online submission due 31 October 2026. https://new2an.com/hackathon.html
-- **Gnani AI challenge:** Final submission due 10 November 2026 at 11:59 PM IST. https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
+- **Science Academies SRFP 2027:** 30 November 2026. https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
+- **IndiaAI Fellowship AY 2026–27:** 30 November 2026; final-year UG eligibility makes this a watch item for the user's profile. https://fellowship.indiaai.gov.in/announcements
 
 ## TODAY'S TODO
 
-1. Decide whether Delhi travel is feasible and verify hackCBS registration, team size and student-ID requirements.
-2. Confirm whether a 3–5-person team is available for NEW2AN; if yes, choose one problem and assign a one-page submission outline.
-3. For Gnani, select an India-relevant voice/AI problem and create the smallest working-demo plan using the required models or APIs.
-4. Check SRFP year and marks eligibility, collect marksheets, and ask one current teacher whether they can provide the recommendation.
-5. Spend one focused OSS session reproducing a real issue or failing test in a selected GSoC/LFX/CNCF repository and save the evidence.
+1. Check the Science Academies year/marks rules against the user's transcript and ask one current teacher for recommendation availability.
+2. Draft a one-page AI/ML research CV and research-interest statement usable for SRFP, Purdue SURF and Illinois SRP.
+3. Email Purdue SURF and Illinois SRP one precise question each about Indian eligibility, remote participation, application fees and work authorization.
+4. Select one OSS repository, reproduce a real issue or failing test, and save the command/output as evidence.
+5. Keep IndiaAI on a later-stage watchlist rather than preparing an application that the current final-year rule is likely to reject.
 
 ## GSoC / OSS ACTION
 
-Choose one repository, complete local setup, reproduce one real issue or test failure, and write one evidence-based maintainer question in the documented channel. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. GSoC 2027 dates are not officially published.
+Complete local setup for one serious target repository, reproduce one documented issue or failing test, and write one evidence-based maintainer question in the project's official channel. Prefer a meaningful fix, test, documentation improvement or review over multiple tiny PRs. GSoC 2027 dates are not officially published.
 
 ## ACCOUNTABILITY
 
@@ -78,12 +88,12 @@ No completion is claimed from the previous dashboard. Carry forward:
 
 ## SOURCES
 
-- hackCBS 9.0: https://hackcbs.tech/
-- NEW2AN 2026 Global Undergraduate Hackathon: https://new2an.com/hackathon.html
-- Great Indian AI Internship Challenge: https://www.gnani.ai/resources/blogs/great-indian-ai-internship-challenge-2026
+- Purdue Engineering SURF: https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF
+- Illinois Siebel SRP: https://siebelschool.illinois.edu/research/undergraduate-research/srp
+- IndiaAI Fellowship: https://fellowship.indiaai.gov.in/announcements
 - Science Academies SRFP 2027 instructions: https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp
-- Outreachy applicant guide: https://www.outreachy.org/docs/applicant/
+- Claude Campus: https://claude.com/programs/campus
 - GSoC: https://summerofcode.withgoogle.com/
 - Social Winter of Code: https://socialwinterofcode.com/
 
-Search coverage: screened more than 30 plausible candidates across open-source/contributor programs (GSoC, LFX, Outreachy, CNCF, Apache, Python, NumFOCUS, Jupyter and comparable ecosystems), AI/ML and undergraduate research, Indian government/institute sources, global university/industry programs, developer communities, and student hackathons. Candidates were compared against all 224 master records, organizer/domain, aliases, recurring cycles and parent/track structure. Only hackCBS 9.0 survived as a genuinely absent named program. DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST remain excluded from active targeting; fee-based or foreign work-authorisation-gated opportunities were not promoted.
+Search coverage: inspected more than 25 plausible candidates across open-source/contributor programs (GSoC, LFX, Outreachy, CNCF, Apache, OpenSSF, Processing and related ecosystems), AI/ML and undergraduate research, Indian government/institute sources, global university/industry programs, developer/community programs and student hackathons. Candidates were compared with all 224 master records using name, organizer, official domain, recurring cycle and parent/track structure. Purdue SURF and Illinois Siebel SRP survived as genuinely absent records. CMU's Summer Research Internship was screened out from active targeting because its official page states a USD 1,600 administrative fee and visa assistance; Princeton CS REU and Stanford Sapp CS Bio-X were screened out because their official eligibility is location/institution restricted. DRDO, LLNL DSSI, UChicago DSI Summer Lab and OIST remain excluded from active targeting.
